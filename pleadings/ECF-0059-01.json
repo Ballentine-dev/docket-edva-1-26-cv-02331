@@ -1,0 +1,3052 @@
+{
+ "cite": "ECF No. 59-1",
+ "label": "ECF-0059-01",
+ "title": "Proposed Second Amended and Supplemental Complaint (leave denied, ECF 84)",
+ "base": "docketed PDF; text corrected against it, log in corrections.json",
+ "pages": 52,
+ "paragraphs": 297,
+ "sections": [
+  {
+   "id": "Preliminary Statement",
+   "kind": "part",
+   "title": "PRELIMINARY STATEMENT",
+   "first_para": 1,
+   "last_para": 8,
+   "pages": [
+    2,
+    4
+   ]
+  },
+  {
+   "id": "Jurisdiction and Venue",
+   "kind": "part",
+   "title": "JURISDICTION AND VENUE",
+   "first_para": 9,
+   "last_para": 16,
+   "pages": [
+    4,
+    5
+   ]
+  },
+  {
+   "id": "Parties",
+   "kind": "part",
+   "title": "PARTIES",
+   "first_para": 17,
+   "last_para": 22,
+   "pages": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "Scope Of Allegations",
+   "kind": "part",
+   "title": "SCOPE OF ALLEGATIONS",
+   "first_para": 23,
+   "last_para": 23,
+   "pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "Facts",
+   "kind": "part",
+   "title": "FACTS",
+   "first_para": null,
+   "last_para": null,
+   "pages": [
+    8,
+    8
+   ]
+  },
+  {
+   "id": "A",
+   "kind": "facts",
+   "title": "The Federal Proceedings and Plaintiff’s Role as Party and Prospective Witness",
+   "first_para": 24,
+   "last_para": 29,
+   "pages": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "B",
+   "kind": "facts",
+   "title": "The Contested CyberTipline Question",
+   "first_para": 30,
+   "last_para": 36,
+   "pages": [
+    9,
+    9
+   ]
+  },
+  {
+   "id": "C",
+   "kind": "facts",
+   "title": "Plaintiff’s Disclosed Survivor Status",
+   "first_para": 37,
+   "last_para": 43,
+   "pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "id": "D",
+   "kind": "facts",
+   "title": "CyberTipline Reporting by Meta-Operated Services",
+   "first_para": 44,
+   "last_para": 44,
+   "pages": [
+    11,
+    11
+   ]
+  },
+  {
+   "id": "E",
+   "kind": "facts",
+   "title": "Counsel Operating Across Both Actions",
+   "first_para": 45,
+   "last_para": 47,
+   "pages": [
+    11,
+    11
+   ]
+  },
+  {
+   "id": "F",
+   "kind": "facts",
+   "title": "The Deposition Program",
+   "first_para": 48,
+   "last_para": 51,
+   "pages": [
+    11,
+    11
+   ]
+  },
+  {
+   "id": "G",
+   "kind": "facts",
+   "title": "The April 9, 2026 Transmissions",
+   "first_para": 52,
+   "last_para": 60,
+   "pages": [
+    11,
+    13
+   ]
+  },
+  {
+   "id": "H",
+   "kind": "facts",
+   "title": "The April 21, 2026 Filings",
+   "first_para": 61,
+   "last_para": 66,
+   "pages": [
+    13,
+    14
+   ]
+  },
+  {
+   "id": "I",
+   "kind": "facts",
+   "title": "The April 22, 2026 Letters: Issuance Before Formal Service",
+   "first_para": 67,
+   "last_para": 88,
+   "pages": [
+    14,
+    18
+   ]
+  },
+  {
+   "id": "J",
+   "kind": "facts",
+   "title": "The April 22, 2026 Letters: Content Defects",
+   "first_para": 89,
+   "last_para": 98,
+   "pages": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "K",
+   "kind": "facts",
+   "title": "Statutory Imputation and Defamatory Meaning",
+   "first_para": 99,
+   "last_para": 103,
+   "pages": [
+    19,
+    20
+   ]
+  },
+  {
+   "id": "L",
+   "kind": "facts",
+   "title": "Transmission, Publication, and Continuing Exposure",
+   "first_para": 104,
+   "last_para": 120,
+   "pages": [
+    20,
+    22
+   ]
+  },
+  {
+   "id": "M",
+   "kind": "facts",
+   "title": "Receipt and Reading",
+   "first_para": 121,
+   "last_para": 123,
+   "pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "id": "N",
+   "kind": "facts",
+   "title": "The Agreement",
+   "first_para": 124,
+   "last_para": 139,
+   "pages": [
+    22,
+    25
+   ]
+  },
+  {
+   "id": "O",
+   "kind": "facts",
+   "title": "Defendants’ Subsequent Statements Concerning the Letters and Discovery",
+   "first_para": 140,
+   "last_para": 173,
+   "pages": [
+    25,
+    29
+   ]
+  },
+  {
+   "id": "P",
+   "kind": "facts",
+   "title": "The Objective and the Means of Intimidation",
+   "first_para": 174,
+   "last_para": 180,
+   "pages": [
+    29,
+    31
+   ]
+  },
+  {
+   "id": "Q",
+   "kind": "facts",
+   "title": "Overt Acts",
+   "first_para": 181,
+   "last_para": 184,
+   "pages": [
+    31,
+    31
+   ]
+  },
+  {
+   "id": "R",
+   "kind": "facts",
+   "title": "Injury",
+   "first_para": 185,
+   "last_para": 202,
+   "pages": [
+    31,
+    34
+   ]
+  },
+  {
+   "id": "S",
+   "kind": "facts",
+   "title": "Plaintiff’s Name, Meta Account, and the CyberTipline Reports",
+   "first_para": 203,
+   "last_para": 215,
+   "pages": [
+    34,
+    36
+   ]
+  },
+  {
+   "id": "Count I",
+   "kind": "count",
+   "title": "DEFAMATION PER SE AND DEFAMATION BY IMPLICATION (Letter Referencing Case No. 6:26-cv-00376-AGM-DCI) (Against Defendants Katie Hall and NCMEC)",
+   "first_para": 216,
+   "last_para": 237,
+   "pages": [
+    36,
+    39
+   ]
+  },
+  {
+   "id": "Count II",
+   "kind": "count",
+   "title": "DEFAMATION PER SE AND DEFAMATION BY IMPLICATION (Letter Referencing Case No. 6:26-cv-00286-AGM-DCI) (Against Defendants Katie Hall and NCMEC)",
+   "first_para": 238,
+   "last_para": 259,
+   "pages": [
+    40,
+    43
+   ]
+  },
+  {
+   "id": "Count III",
+   "kind": "count",
+   "title": "INTENTIONAL INFLICTION OF EMOTIONAL DISTRESS (Against Defendants Katie Hall and NCMEC)",
+   "first_para": 260,
+   "last_para": 268,
+   "pages": [
+    44,
+    46
+   ]
+  },
+  {
+   "id": "Count IV",
+   "kind": "count",
+   "title": "CONSPIRACY TO DETER A PARTY AND WITNESS, BY INTIMIDATION, FROM ATTENDING AND TESTIFYING IN COURTS OF THE UNITED STATES — 42 U.S.C. § 1985(2) (Against All Defendants)",
+   "first_para": 269,
+   "last_para": 278,
+   "pages": [
+    46,
+    48
+   ]
+  },
+  {
+   "id": "Count V",
+   "kind": "count",
+   "title": "COMMON-LAW CONSPIRACY (Against All Defendants)",
+   "first_para": 279,
+   "last_para": 287,
+   "pages": [
+    48,
+    49
+   ]
+  },
+  {
+   "id": "Count VI",
+   "kind": "count",
+   "title": "INSULTING WORDS — VA. CODE § 8.01-45 (Against Defendants Katie Hall and NCMEC)",
+   "first_para": 288,
+   "last_para": 297,
+   "pages": [
+    49,
+    50
+   ]
+  }
+ ],
+ "paras": [
+  {
+   "n": 1,
+   "section": "Preliminary Statement",
+   "pages": [
+    2
+   ],
+   "text": "On July 4, 2022, Meta Platforms, Inc. invoked its Child Sexual Exploitation policy against my Facebook account and cut off the contracts I performed through it. I sued them in September 2025. Meta filed a motion to dismiss. Meta did not staple a CyberTipline report to the motion.",
+   "words": 48
+  },
+  {
+   "n": 2,
+   "section": "Preliminary Statement",
+   "pages": [
+    2
+   ],
+   "text": "When Meta’s co-defendants’ lawyers asserted that a “legitimate violation by Ballentine is consistent with the facts” while repeatedly putting my name beside the words “child sexual exploitation” in their papers, I sued them in February 2026. Defendants filed motions to dismiss. Defendants did not staple a CyberTipline report to their motions.",
+   "words": 51
+  },
+  {
+   "n": 3,
+   "section": "Preliminary Statement",
+   "pages": [
+    2,
+    3
+   ],
+   "text": "I sent Advanced Notice of Intended Subpoenas to NCMEC in April concerning those two cases, and their attorney, Ms. Hall, sent me two letters associating my full legal name, “Marvelle J. Ballentine,” with two CyberTipline reports. I sued them in May 2026 because I have never even used my full legal name to operate any social media account. NCMEC and Hall filed motions to dismiss. NCMEC and Hall did not staple a CyberTipline report to their motions.",
+   "words": 77
+  },
+  {
+   "n": 4,
+   "section": "Preliminary Statement",
+   "pages": [
+    3
+   ],
+   "text": "I served Meta on July 31, 2026 concerning its role in the drafting, transmission, and delivery of the letters. It filed a motion to dismiss. Once again, it did not staple a CyberTipline report to the motion. Meta substituted the CyberTipline report with a chronicle of my prior lawsuits, their captions, and their procedural history.",
+   "words": 55
+  },
+  {
+   "n": 5,
+   "section": "Preliminary Statement",
+   "pages": [
+    3
+   ],
+   "text": "I have sworn that I never used my full legal name to create, register, identify, maintain, access, or operate any account on any Meta product or service that I used. The defense may move to dismiss this complaint. Whether or not they staple a CyberTipline report to the motions is to be determined.",
+   "words": 53
+  },
+  {
+   "n": 6,
+   "section": "Preliminary Statement",
+   "pages": [
+    3
+   ],
+   "text": "That matters because the two letters signed by Hall on behalf of NCMEC stated: “In response to your subpoena issued April 9, 2026, the National Center for Missing & Exploited Children (‘NCMEC’) provides its written responses as detailed below. NCMEC has received two (2) CyberTipline reports concerning (1) Marvelle J. Ballentine, (2) Jay Ballentine, and/or (3) the account-level identifier jaychizza@icloud.com between July 1, 2022 and the present.”",
+   "words": 67
+  },
+  {
+   "n": 7,
+   "section": "Preliminary Statement",
+   "pages": [
+    3
+   ],
+   "text": "So, that leaves the remaining questions up for determination: Where did my legal name come from? How and why did it arrive on those letters? Did either of the two asserted CyberTipline reports, as originally received by NCMEC, actually identify “Marvelle J. Ballentine”? Did Meta submit either report? Why did NCMEC and Hall act before formal service? Why did they not wait the five days until April 27, when one court temporarily stayed discovery, or the nine days until May 1, when discovery in the other action was temporarily stayed? Where did the urgency come from?",
+   "words": 96
+  },
+  {
+   "n": 8,
+   "section": "Preliminary Statement",
+   "pages": [
+    4
+   ],
+   "text": "I bring six counts: conspiracy under 42 U.S.C. § 1985(2) and Virginia law against all Defendants, for letters sent to frighten me out of my own lawsuits; defamation, intentional infliction of emotional distress, and insulting words against Hall and NCMEC, for what the letters said and to whom.",
+   "words": 48
+  },
+  {
+   "n": 9,
+   "section": "Jurisdiction and Venue",
+   "pages": [
+    4
+   ],
+   "text": "This Court has subject-matter jurisdiction under 28 U.S.C. §§ 1331 and 1343(a)(1). Count IV arises under 42 U.S.C. § 1985(2).",
+   "words": 20
+  },
+  {
+   "n": 10,
+   "section": "Jurisdiction and Venue",
+   "pages": [
+    4
+   ],
+   "text": "This Court has supplemental jurisdiction under 28 U.S.C. § 1367(a) over the claims for defamation, intentional infliction of emotional distress, common-law conspiracy, and insulting words. Those claims arise from the same nucleus of operative fact as Count IV: the preparation, approval, issuance, transmission, and publication of the April 22, 2026 letters. They form part of the same case or controversy.",
+   "words": 60
+  },
+  {
+   "n": 11,
+   "section": "Jurisdiction and Venue",
+   "pages": [
+    4
+   ],
+   "text": "This Court has independent subject-matter jurisdiction under 28 U.S.C. § 1332(a) (1) over Counts I,  II, III, and VI, which are asserted only against Hall and NCMEC. Plaintiff is a citizen of the State of Florida. On information and belief, Hall is domiciled in a State other than Florida and is a citizen of that State. NCMEC is a Virginia non-profit corporation with its principal place of business in Alexandria, Virginia, and is a citizen of Virginia. Complete diversity exists between Plaintiff and each Defendant against whom those Counts are asserted. The amount in controversy exceeds $75,000, exclusive of interest and costs.",
+   "words": 102
+  },
+  {
+   "n": 12,
+   "section": "Jurisdiction and Venue",
+   "pages": [
+    4,
+    5
+   ],
+   "text": "Venue is proper in this district under 28 U.S.C. § 1391(b)(2). A substantial part of the events giving rise to the claims occurred here. Hall prepared or approved, signed, and issued the April 22, 2026 letters from NCMEC’s office in Alexandria, Virginia, within the Alexandria Division of this district. The letters were transmitted to Plaintiff’s commercial mail-receiving address in Alexandria, Virginia, where they were opened and processed.",
+   "words": 67
+  },
+  {
+   "n": 13,
+   "section": "Jurisdiction and Venue",
+   "pages": [
+    5
+   ],
+   "text": "This Court has specific personal jurisdiction over Hall under Virginia Code § 8.01-328.1(A)(3). Hall performed the challenged acts in Virginia. She prepared or approved, signed, issued, and caused the transmission of the April 22, 2026 letters from NCMEC’s Alexandria headquarters. The first third-party publication alleged in this Complaint occurred in Alexandria, when the commercial mail-receiving agency opened, reviewed, and scanned the letters. Each claim against Hall arises from her Virginia conduct.",
+   "words": 71
+  },
+  {
+   "n": 14,
+   "section": "Jurisdiction and Venue",
+   "pages": [
+    5
+   ],
+   "text": "This Court has general personal jurisdiction over NCMEC, a Virginia corporation with its principal place of business in Alexandria, Virginia. This Court also has specific personal jurisdiction over NCMEC under Virginia Code § 8.01-328.1(A)(3). The April 22, 2026 letters were prepared or approved, signed, and issued from NCMEC’s Alexandria headquarters, and each claim against NCMEC arises from that Virginia conduct.",
+   "words": 60
+  },
+  {
+   "n": 15,
+   "section": "Jurisdiction and Venue",
+   "pages": [
+    5
+   ],
+   "text": "This Court has specific personal jurisdiction over Meta Platforms, Inc. under Virginia Code § 8.01-328.1(A)(3) and the conspiracy-based attribution of forum contacts. Sections N through Q allege the conspiracy. Meta knowingly participated through one or more authorized representatives or intermediaries. NCMEC and Hall committed the Virginia acts alleged in this Complaint in furtherance of that conspiracy. Meta received the April 9, 2026 materials directed to NCMEC’s Legal Department in Alexandria, Virginia. The understanding alleged in Section N contemplated that Hall would issue the case-specific correspondence from that Virginia office. Plaintiff’s claim against Meta arises from those Virginia acts.",
+   "words": 98
+  },
+  {
+   "n": 16,
+   "section": "Jurisdiction and Venue",
+   "pages": [
+    5
+   ],
+   "text": "The exercise of personal jurisdiction over each Defendant comports with the Due Process Clause of the Fourteenth Amendment.",
+   "words": 18
+  },
+  {
+   "n": 17,
+   "section": "Parties",
+   "pages": [
+    6
+   ],
+   "text": "Plaintiff Marvelle J. Ballentine, also known as Jay Ballentine, is an adult citizen of the State of Florida. At all relevant times Plaintiff maintained a mailing address at 1520 Belle View Blvd, Ste. #5847, Alexandria, Virginia 22307. A commercial mail-receiving agency operates that address and is authorized to receive and process mail on Plaintiff’s behalf.",
+   "words": 55
+  },
+  {
+   "n": 18,
+   "section": "Parties",
+   "pages": [
+    6
+   ],
+   "text": "Defendant National Center for Missing & Exploited Children (“NCMEC”) is a Virginia non-profit corporation. Its principal place of business is 333 John Carlyle Street, Suite 125, Alexandria, Virginia 22314. NCMEC operates the CyberTipline under federal authorization in connection with 18 U.S.C. § 2258A. At all relevant times NCMEC employed Defendant Katie Hall as its Corporate Counsel. Hall was responsible for legal correspondence NCMEC issued in response to claimed legal process. NCMEC is sued for its own conduct, undertaken through Hall and one or more additional personnel. NCMEC is also sued vicariously for Hall’s conduct within the scope of her employment.",
+   "words": 100
+  },
+  {
+   "n": 19,
+   "section": "Parties",
+   "pages": [
+    6
+   ],
+   "text": "Defendant Katie Hall is an individual. At all relevant times she served as Corporate Counsel of NCMEC at 333 John Carlyle Street, Suite 125, Alexandria, Virginia 22314. On information and belief, Hall is domiciled in a State other than Florida and is a citizen of that State. Hall prepared or approved, signed, issued, and caused the transmission of the April 22, 2026 letters. Hall is sued individually for her own tortious conduct.",
+   "words": 72
+  },
+  {
+   "n": 20,
+   "section": "Parties",
+   "pages": [
+    6
+   ],
+   "text": "Defendant Meta Platforms, Inc. (“Meta”) is a Delaware corporation with its principal place of business in Menlo Park, California. Meta was a defendant in the 376 Action and in the 286 Action at all relevant times. Meta is an electronic service provider subject to the reporting duties of 18 U.S.C. § 2258A.",
+   "words": 52
+  },
+  {
+   "n": 21,
+   "section": "Parties",
+   "pages": [
+    6
+   ],
+   "text": "Meta owns and operates Facebook, Instagram, and WhatsApp.",
+   "words": 8
+  },
+  {
+   "n": 22,
+   "section": "Parties",
+   "pages": [
+    7
+   ],
+   "text": "Defendants John/Jane Does 1-6 are persons not yet identified who participated in the communications, authorization, approval, preparation, or transmission alleged in this Complaint. Their roles include: the Meta representative or representatives who communicated with NCMEC concerning Plaintiff, the identifiers, the intended subpoenas, or the two federal actions; any Accenture representative who knowingly joined or implemented the understanding alleged in this Complaint; the NCMEC personnel who approved the issuance of the April 22, 2026 letters; and any intermediary, including counsel or other agents acting for Meta, Accenture, or NCMEC, through whom the alleged communications occurred. Meta, Accenture, NCMEC, and their representatives hold the records that identify the Doe Defendants. Plaintiff will seek leave to amend when those identities are ascertained.",
+   "words": 119
+  },
+  {
+   "n": 23,
+   "section": "Scope Of Allegations",
+   "pages": [
+    7,
+    8
+   ],
+   "text": "This Complaint predicates no liability on the filing of any motion, brief, or other paper in any court. Court filings identified here are alleged solely as facts establishing timing, notice, knowledge, coordination, and admissions. The claims do not challenge NCMEC’s receipt, maintenance, or lawful referral of CyberTipline reports. The claims challenge the extra-judicial agreement alleged below and the preparation, approval, issuance, transmission, and publication of external legal correspondence that falsely invoked compulsory process and served the litigation-directed purposes alleged below. No claim against Meta seeks liability for the July 4, 2022 account-level enforcement, for any content-related decision, for any failure to restore Plaintiff’s account, or for any treatment of third-party content. Those matters are alleged only to establish the subject matter of the pending federal actions, Defendants’ knowledge, Meta’s interest in whether a CyberTipline report exists, and the testimony Defendants sought to deter. The same is true of the memorandum, motion to stay, and opposition filed in the 1341 Action and the August 13, 2026 filing in the 376 Action, each identified in Section O. Each is alleged as an admission and as a fact establishing timing, coordination, and knowledge. None is conduct on which any claim rests.",
+   "words": 198
+  },
+  {
+   "n": 24,
+   "section": "A",
+   "pages": [
+    8
+   ],
+   "text": "Plaintiff filed the 286 Action on February 9, 2026. Plaintiff filed the 376 Action on February 17, 2026. Each action was pending in a court of the United States at all relevant times.",
+   "words": 33
+  },
+  {
+   "n": 25,
+   "section": "A",
+   "pages": [
+    8
+   ],
+   "text": "The defendants in the 376 Action included Meta, Accenture, TaskUs, Inc., and Genpact Limited. Accenture is a limited liability partnership that provides platform policy enforcement services to Meta. The defendants in the 286 Action included Meta, Devin S. Anderson, and Christopher W. Keegan. Kirkland & Ellis LLP (“Kirkland”) represented Anderson and Keegan. Accenture, Anderson, Keegan, TaskUs, Inc., Genpact Limited, Kirkland, Orrick, Herrington & Sutcliffe LLP (“Orrick”), Diana M. Fassbender, and Mariana Chapleau are not defendants here. Their conduct is alleged only to establish chronology, notice, knowledge, or the conduct of the Defendants, including the Doe Defendants.",
+   "words": 96
+  },
+  {
+   "n": 26,
+   "section": "A",
+   "pages": [
+    8
+   ],
+   "text": "Both actions arise from one event. On July 4, 2022, Meta issued an account-level enforcement notice against Plaintiff’s Facebook account. That notice interrupted Plaintiff’s ability to perform third-party contracts through the account.",
+   "words": 32
+  },
+  {
+   "n": 27,
+   "section": "A",
+   "pages": [
+    8
+   ],
+   "text": "Plaintiff proceeded pro se in both actions. Every act of prosecution depended on Plaintiff’s personal capacity and participation: discovery, deposition examination, briefing, and appearance.",
+   "words": 24
+  },
+  {
+   "n": 28,
+   "section": "A",
+   "pages": [
+    8
+   ],
+   "text": "Plaintiff was a prospective witness in both actions. He expected to testify under oath, at deposition and at trial, concerning his account history, the July 4, 2022 enforcement event, the absence of any law-enforcement contact with him, and his damages.",
+   "words": 40
+  },
+  {
+   "n": 29,
+   "section": "A",
+   "pages": [
+    9
+   ],
+   "text": "The dockets of the 376 Action and the 286 Action were publicly accessible through the federal Public Access to Court Electronic Records system.",
+   "words": 23
+  },
+  {
+   "n": 30,
+   "section": "B",
+   "pages": [
+    9
+   ],
+   "text": "One question has been contested since October 2025: whether Meta, or any person acting in connection with the July 4, 2022 account-enforcement event, transmitted a CyberTipline report under 18 U.S.C. § 2258A concerning Plaintiff or his account identifiers.",
+   "words": 38
+  },
+  {
+   "n": 31,
+   "section": "B",
+   "pages": [
+    9
+   ],
+   "text": "Before April 22, 2026, no CyberTipline report concerning Plaintiff had been identified, produced, or attributed to any provider in any forum.",
+   "words": 21
+  },
+  {
+   "n": 32,
+   "section": "B",
+   "pages": [
+    9
+   ],
+   "text": "Plaintiff’s first substantive act in the 376 Action was a motion for leave to serve a single early request for admission. The request asked whether Meta filed a CyberTipline report regarding Plaintiff’s account. The court denied the motion.",
+   "words": 38
+  },
+  {
+   "n": 33,
+   "section": "B",
+   "pages": [
+    9
+   ],
+   "text": "From that denial forward, the defendants in the 376 Action knew what Plaintiff’s discovery would target: the existence or non-existence of a CyberTipline report.",
+   "words": 24
+  },
+  {
+   "n": 34,
+   "section": "B",
+   "pages": [
+    9
+   ],
+   "text": "The operative complaint in the 376 Action alleged that Meta filed no CyberTipline report. Its prayer sought a declaration that no CyberTipline report was filed regarding the July 4, 2022 enforcement event.",
+   "words": 32
+  },
+  {
+   "n": 35,
+   "section": "B",
+   "pages": [
+    9
+   ],
+   "text": "On April 9, 2026, Meta moved to dismiss the 376 Action (ECF No. 85). Meta described Plaintiff’s allegation that a CyberTipline report had been submitted and disseminated as “hypothetical (and elsewhere contradicted).” Meta identified the contradiction as Plaintiff’s allegation that “Meta filed no CyberTipline report.”",
+   "words": 45
+  },
+  {
+   "n": 36,
+   "section": "B",
+   "pages": [
+    9
+   ],
+   "text": "In the 286 Action, the existence or non-existence of a CyberTipline report bore on the claims then pending, including the falsity and factual basis of the statements challenged in that action.",
+   "words": 31
+  },
+  {
+   "n": 37,
+   "section": "C",
+   "pages": [
+    10
+   ],
+   "text": "On September 9, 2025, Plaintiff filed a complaint in Ballentine v. Meta Platforms, Inc., et al., Case No. 3:25-cv-07671-CRB (N.D. Cal.) (the “California Action”).",
+   "words": 24
+  },
+  {
+   "n": 38,
+   "section": "C",
+   "pages": [
+    10
+   ],
+   "text": "That complaint contained a single footnote. The footnote states: “As a CSA survivor, Plaintiff gratefully acknowledges the unwavering support of his wife, whose steady presence made the psychological recovery, and subsequent preparation of this Complaint possible. He further acknowledges his children, especially his eldest, who endured his distance during the preparation of this filing after once celebrating his NRVTA graduation with pride. This work now returns to them, just as their father and husband does.”",
+   "words": 75
+  },
+  {
+   "n": 39,
+   "section": "C",
+   "pages": [
+    10
+   ],
+   "text": "The footnote disclosed that Plaintiff is a survivor of childhood sexual abuse and had undergone a psychological recovery that made preparation of the complaint possible.",
+   "words": 25
+  },
+  {
+   "n": 40,
+   "section": "C",
+   "pages": [
+    10
+   ],
+   "text": "Before April 22, 2026, then, Plaintiff had disclosed that he is a survivor of childhood sexual abuse. He had described undergoing psychological recovery. He retained the functional capacity to prepare and prosecute his pending actions.",
+   "words": 35
+  },
+  {
+   "n": 41,
+   "section": "C",
+   "pages": [
+    10
+   ],
+   "text": "The publicly filed pleadings in the 286 Action disclosed on their face that Plaintiff is a survivor of childhood sexual abuse. Those pleadings alleged that placing Plaintiff’s name near child-sexual-exploitation terminology had already caused Plaintiff emotional injury.",
+   "words": 37
+  },
+  {
+   "n": 42,
+   "section": "C",
+   "pages": [
+    10
+   ],
+   "text": "Meta, Anderson, and Keegan, through their respective counsel, received and litigated against the 286 Action pleadings containing those disclosures before April 21, 2026.",
+   "words": 23
+  },
+  {
+   "n": 43,
+   "section": "C",
+   "pages": [
+    10
+   ],
+   "text": "The Kirkland attorneys who appeared for Accenture in the 376 Action also represented Anderson and Keegan in the 286 Action. They therefore possessed the 286 Action pleadings before April 21, 2026. Accenture’s authorized representatives knew of the disclosures before April 21, 2026.",
+   "words": 42
+  },
+  {
+   "n": 44,
+   "section": "D",
+   "pages": [
+    11
+   ],
+   "text": "NCMEC receives CyberTipline reports from Facebook, Instagram, and WhatsApp.",
+   "words": 9
+  },
+  {
+   "n": 45,
+   "section": "E",
+   "pages": [
+    11
+   ],
+   "text": "Fassbender, an attorney at Orrick, was counsel of record for Meta in the 286 Action and for Meta and Genpact Limited in the 376 Action.",
+   "words": 25
+  },
+  {
+   "n": 46,
+   "section": "E",
+   "pages": [
+    11
+   ],
+   "text": "Chapleau and Anderson, attorneys at Kirkland, were counsel of record for Accenture in the 376 Action. Kirkland, through Chapleau, also represented Anderson and Keegan in the 286 Action.",
+   "words": 28
+  },
+  {
+   "n": 47,
+   "section": "E",
+   "pages": [
+    11
+   ],
+   "text": "Anderson held two roles at once. In the 286 Action he was an individual defendant and a noticed deposition witness. In the 376 Action he was counsel of record for Accenture.",
+   "words": 31
+  },
+  {
+   "n": 48,
+   "section": "F",
+   "pages": [
+    11
+   ],
+   "text": "On April 7, 2026, Plaintiff served a Rule 30(b)(6) deposition notice on Accenture in the 376 Action. The notice set a two-day examination for April 29 and April 30, 2026. Plaintiff served the notice on Chapleau and Anderson.",
+   "words": 38
+  },
+  {
+   "n": 49,
+   "section": "F",
+   "pages": [
+    11
+   ],
+   "text": "Matter for Examination No. 5 of that notice is captioned “CyberTipline Reporting and Reportability Status.” It encompasses “whether any CyberTipline Report was Transmitted to NCMEC in connection with the Account-Level Enforcement Event.”",
+   "words": 32
+  },
+  {
+   "n": 50,
+   "section": "F",
+   "pages": [
+    11
+   ],
+   "text": "On April 7, 2026, Plaintiff noticed Anderson’s deposition in the 286 Action for April 28, 2026. On April 10, 2026, Plaintiff re-served the notice with logistical details.",
+   "words": 27
+  },
+  {
+   "n": 51,
+   "section": "F",
+   "pages": [
+    11
+   ],
+   "text": "Plaintiff retained a court reporter and a videographer for the noticed depositions.",
+   "words": 12
+  },
+  {
+   "n": 52,
+   "section": "G",
+   "pages": [
+    11,
+    12
+   ],
+   "text": "On April 9, 2026, Plaintiff transmitted to NCMEC’s Legal Department a letter captioned “Advanced Notice of Intended Subpoenas — Two Separate Matters.” The letter identified the 376 Action and the 286 Action by caption and case number. It enclosed copies of the signed subpoenas Plaintiff intended to serve formally on NCMEC after the notice period had run. It stated that formal service would occur after the notice period had run.",
+   "words": 70
+  },
+  {
+   "n": 53,
+   "section": "G",
+   "pages": [
+    12
+   ],
+   "text": "Schedule A to each subpoena commanded one item: a document sufficient to show whether NCMEC received or maintains any CyberTipline report concerning (1) Marvelle J. Ballentine, (2) Jay Ballentine, and/or (3) the account-level identifier jaychizza@icloud.com. Schedule A expressly excluded the contents of any report.",
+   "words": 44
+  },
+  {
+   "n": 54,
+   "section": "G",
+   "pages": [
+    12
+   ],
+   "text": "The April 9, 2026 transmission gave NCMEC advance notice of the subpoenas and included copies of the signed subpoenas. Neither subpoena had been formally served on NCMEC. Plaintiff did not request or authorize a response before formal service. Plaintiff did not waive service. Plaintiff did not authorize NCMEC or Hall to treat receipt of the advance-notice package as formal service.",
+   "words": 60
+  },
+  {
+   "n": 55,
+   "section": "G",
+   "pages": [
+    12
+   ],
+   "text": "On April 9, 2026, Plaintiff served the same materials under Federal Rule of Civil Procedure 45(a)(4) on counsel for the parties in both actions, including Orrick for Meta and Kirkland for Accenture.",
+   "words": 32
+  },
+  {
+   "n": 56,
+   "section": "G",
+   "pages": [
+    12
+   ],
+   "text": "As of April 9, 2026, NCMEC had received the advance notice and its enclosures. Counsel for Meta and counsel for Accenture had received identical materials for their clients. The materials identified the same two federal actions, the same three identifiers, and the same discovery objective. Each recipient knew from the face of the materials that formal service on NCMEC was announced to occur only after the notice period had run.",
+   "words": 70
+  },
+  {
+   "n": 57,
+   "section": "G",
+   "pages": [
+    12
+   ],
+   "text": "Hall possessed or reviewed the case-specific materials no later than the moment she approved, signed, and authorized transmission of the April 22, 2026 letters.",
+   "words": 24
+  },
+  {
+   "n": 58,
+   "section": "G",
+   "pages": [
+    13
+   ],
+   "text": "Before preparing the two case-keyed letters, Hall either reviewed the publicly filed pleadings in the 286 Action or received from one or more participants in the two actions case-specific materials reproducing or describing those pleadings. Those materials disclosed that Plaintiff is a survivor of childhood sexual abuse and described the psychological recovery that made preparation of the California Action possible. The source, transmission, and contents of the materials Hall reviewed or received are maintained in Defendants’ records. Plaintiff cannot reach them without discovery.",
+   "words": 83
+  },
+  {
+   "n": 59,
+   "section": "G",
+   "pages": [
+    13
+   ],
+   "text": "Hall was Corporate Counsel of the federally designated clearinghouse for CyberTipline reporting. She knew what it ordinarily means, in criminal and law-enforcement terms, to associate a named individual with CyberTipline reports.",
+   "words": 31
+  },
+  {
+   "n": 60,
+   "section": "G",
+   "pages": [
+    13
+   ],
+   "text": "On the same day, April 9, 2026, Meta filed a motion to dismiss and a motion to transfer in the 376 Action.",
+   "words": 22
+  },
+  {
+   "n": 61,
+   "section": "H",
+   "pages": [
+    13
+   ],
+   "text": "On April 21, 2026, Meta, Anderson, and Keegan filed a Joint Motion to Stay Discovery and Hold Rule 26(f) Requirements in Abeyance in the 286 Action (ECF No. 49). Chapleau signed for Anderson and Keegan. Fassbender signed for Meta.",
+   "words": 39
+  },
+  {
+   "n": 62,
+   "section": "H",
+   "pages": [
+    13
+   ],
+   "text": "On April 21, 2026, Anderson and Keegan filed a Time-Sensitive Motion for Protective Order in the 286 Action (ECF No. 50). The motion sought to prevent Anderson’s April 28, 2026 deposition and requested a ruling by April 24, 2026. It stated: “This motion must be decided by April 24 because Plaintiff noticed Anderson’s deposition on April 28, 2026.”",
+   "words": 58
+  },
+  {
+   "n": 63,
+   "section": "H",
+   "pages": [
+    13,
+    14
+   ],
+   "text": "On April 21, 2026, Meta, Accenture, TaskUs, Inc., and Genpact Limited filed a Joint Motion to Stay Discovery in the 376 Action (ECF No. 92). Fassbender signed and filed the motion for Meta and Genpact Limited. Chapleau signed with permission for Accenture. The motion recited that Plaintiff had sought leave to serve a Request for Admission relating to “whether Meta filed a CyberTipline report regarding Plaintiff’s account.” It stated that Plaintiff had served “‘advance notices’ and actual notices of specific discovery that Plaintiff intends to seek such as Rule 30(b)(6) depositions and third-party subpoenas.”",
+   "words": 94
+  },
+  {
+   "n": 64,
+   "section": "H",
+   "pages": [
+    14
+   ],
+   "text": "On April 21, 2026, Accenture filed a Time-Sensitive Motion for Protective Order in the 376 Action (ECF No. 93). The motion sought to prevent the April 29-30, 2026 Rule 30(b)(6) deposition and requested a ruling by April 27, 2026. Accenture attached the deposition notice, including Matter for Examination No. 5, as Exhibit 1. The motion stated: “This time-sensitive motion must be decided by April 27 because Plaintiff noticed Accenture’s deposition for April 29-30.”",
+   "words": 73
+  },
+  {
+   "n": 65,
+   "section": "H",
+   "pages": [
+    14
+   ],
+   "text": "The April 21, 2026 motions sought relief reaching the Anderson deposition, the Accenture Rule 30(b)(6) deposition, and Plaintiff’s contemplated third-party discovery. Neither court had ruled on any of them.",
+   "words": 29
+  },
+  {
+   "n": 66,
+   "section": "H",
+   "pages": [
+    14
+   ],
+   "text": "Neither April 21, 2026 joint motion—in the 376 Action or the 286 Action—identified any forthcoming response from NCMEC.",
+   "words": 18
+  },
+  {
+   "n": 67,
+   "section": "I",
+   "pages": [
+    14
+   ],
+   "text": "On April 22, 2026, Hall issued two letters on NCMEC letterhead. That was one day after the filings described in Section H. It was thirteen days after NCMEC received the advance-notice package. It was before formal service of either subpoena. Each letter was keyed by caption and case number to one of the two federal actions. One letter bears on its face Case No. 6:26-cv-00376-AGM-DCI. The other bears on its face Case No. 6:26-cv-00286-AGM-DCI. Two letters, each keyed to a separate action, reflect the processing of two separate matters under two specific captions and case numbers.",
+   "words": 96
+  },
+  {
+   "n": 68,
+   "section": "I",
+   "pages": [
+    15
+   ],
+   "text": "The two letters are identical in substantive text. This Complaint refers to “the April 22, 2026 letter” to mean the content the two letters share. Each letter identified Plaintiff by the names “Marvelle J. Ballentine” and “Jay Ballentine” and by the email address jaychizza@icloud.com.",
+   "words": 44
+  },
+  {
+   "n": 69,
+   "section": "I",
+   "pages": [
+    15
+   ],
+   "text": "The letter opened with this sentence: “In response to your subpoena issued April 9, 2026, the National Center for Missing & Exploited Children (‘NCMEC’) provides its written responses as detailed below.”",
+   "words": 31
+  },
+  {
+   "n": 70,
+   "section": "I",
+   "pages": [
+    15
+   ],
+   "text": "Neither subpoena had been formally served on NCMEC in connection with Plaintiff. No process server had delivered a subpoena to NCMEC. No subpoena return, proof of service, certificate of service, or process-server affidavit existed. No court order required Hall or NCMEC to respond. The announced notice period had not run.",
+   "words": 50
+  },
+  {
+   "n": 71,
+   "section": "I",
+   "pages": [
+    15
+   ],
+   "text": "When the letters issued, none of the April 21, 2026 motions had been decided. Neither court had ruled on any motion to stay discovery or any motion for protective order. The ruling dates the movants themselves had requested had not arrived: April 24, 2026 in the 286 Action, April 27, 2026 in the 376 Action.",
+   "words": 55
+  },
+  {
+   "n": 72,
+   "section": "I",
+   "pages": [
+    15
+   ],
+   "text": "Hall did not wait for formal service of any subpoena. Hall did not wait for the courts to rule on the pending motions.",
+   "words": 23
+  },
+  {
+   "n": 73,
+   "section": "I",
+   "pages": [
+    15
+   ],
+   "text": "Every requested ruling date and every noticed deposition fell after April 22, 2026. The 286 Action ruling date fell two days after the letters issued. The 376 Action ruling date fell five days after. The Anderson deposition was set for April 28, 2026, six days after. The Accenture Rule 30(b)(6) deposition was set for April 29 and 30, 2026, seven and eight days after. No rule, order, or obligation required Hall to issue the letters before any of those dates.",
+   "words": 80
+  },
+  {
+   "n": 74,
+   "section": "I",
+   "pages": [
+    16
+   ],
+   "text": "On April 27, 2026, the magistrate judge in the 286 Action granted the motion for protective order and temporarily stayed discovery. On April 30, 2026, the magistrate judge in the 376 Action entered a report recommending that the joint motion to stay discovery be granted (ECF No. 103). On May 1, 2026, the magistrate judge in the 376 Action granted Accenture’s motion for protective order and ordered: “Discovery is temporarily stayed pending resolution of the motion to stay discovery” (ECF No. 104).",
+   "words": 82
+  },
+  {
+   "n": 75,
+   "section": "I",
+   "pages": [
+    16
+   ],
+   "text": "The letter did not produce the document Schedule A described. It stated instead: “NCMEC has received two (2) CyberTipline reports concerning (1) Marvelle J. Ballentine, (2) Jay Ballentine, and/or (3) the account-level identifier jaychizza@icloud.com between July 1, 2022 and the present.”",
+   "words": 41
+  },
+  {
+   "n": 76,
+   "section": "I",
+   "pages": [
+    16
+   ],
+   "text": "The three identifiers stated in the letter were quoted from Plaintiff’s own April 9, 2026 notice.",
+   "words": 16
+  },
+  {
+   "n": 77,
+   "section": "I",
+   "pages": [
+    16
+   ],
+   "text": "Each letter was addressed to Plaintiff alone, at his commercial mail-receiving address in Alexandria, Virginia. Neither letter bore any notation that it was copied to any court or counsel of record. Neither letter was filed in either action.",
+   "words": 38
+  },
+  {
+   "n": 78,
+   "section": "I",
+   "pages": [
+    16,
+    17
+   ],
+   "text": "Neither letter was a CyberTipline report. Neither was a referral or disclosure to any law-enforcement agency. Neither was made under, or implemented, any reporting, preservation, referral, or disclosure function described in 18 U.S.C. §§ 2258A, 2258B, or 2258C. Each letter was voluntary correspondence. It issued after signed subpoenas existed, before formal service of either, and in the absence of any court order or other legal obligation. The challenged conduct did not arise from the performance of any responsibility or function described in 18 U.S.C. § 2258D(a), 18 U.S.C. §§ 2258A or 2258C, or 34 U.S.C. § 11293. It was not undertaken as part of any effort to identify a child victim. In the alternative, the conduct alleged was intentional, was undertaken with actual malice and reckless disregard of a substantial risk of injury without legal justification, and served a purpose unrelated to any responsibility or function identified in 18 U.S.C. § 2258D(a).",
+   "words": 152
+  },
+  {
+   "n": 79,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "Hall was NCMEC’s Corporate Counsel when she drafted, signed, and transmitted the letters. She signed both in the course of her work at NCMEC’s Alexandria, Virginia headquarters.",
+   "words": 27
+  },
+  {
+   "n": 80,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "As Corporate Counsel, Hall was responsible for legal correspondence NCMEC issued in response to claimed legal process.",
+   "words": 17
+  },
+  {
+   "n": 81,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "On information and belief, NCMEC keeps ordinary legal-intake records sufficient to show whether a subpoena has been served on it.",
+   "words": 20
+  },
+  {
+   "n": 82,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "On information and belief, Hall reviewed or had access to those records, and they were sufficient to tell her, before issuance, that no subpoena had been served on NCMEC.",
+   "words": 29
+  },
+  {
+   "n": 83,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "Hall’s signature appears on each letter. Each letter identifies Hall as the sender.",
+   "words": 13
+  },
+  {
+   "n": 84,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "Hall controlled or approved the wording of the letters. Hall selected the language characterizing them as a response to a subpoena. Hall authorized their transmission.",
+   "words": 25
+  },
+  {
+   "n": 85,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "Hall drafted and transmitted the letters anyway.",
+   "words": 7
+  },
+  {
+   "n": 86,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "Before drafting, signing, and transmitting the letters, Hall reviewed or had access to the docket of Case No. 6:26-cv-00376-AGM-DCI and the docket of Case No. 6:26-cv-00286-AGM-DCI.",
+   "words": 26
+  },
+  {
+   "n": 87,
+   "section": "I",
+   "pages": [
+    17
+   ],
+   "text": "Hall had reason to know that each docket contained publicly filed claims brought by Plaintiff. Hall had reason to know that the docket of Case No. 6:26-cv-00286-AGM-DCI contained publicly filed claims predicated on the linkage of Plaintiff’s name to child-sexual-exploitation terminology.",
+   "words": 41
+  },
+  {
+   "n": 88,
+   "section": "I",
+   "pages": [
+    18
+   ],
+   "text": "Hall has not withdrawn, corrected, or retracted either letter. Hall has instead affirmatively defended the letters as accurate and proper.",
+   "words": 20
+  },
+  {
+   "n": 89,
+   "section": "J",
+   "pages": [
+    18
+   ],
+   "text": "The letter identified no report number, no report date, and no reporting electronic service provider.",
+   "words": 15
+  },
+  {
+   "n": 90,
+   "section": "J",
+   "pages": [
+    18
+   ],
+   "text": "The letter did not state that Meta submitted either report. It did not state that either report concerned Plaintiff’s Facebook account. It did not state that either report concerned Meta’s July 4, 2022 contract interference.",
+   "words": 35
+  },
+  {
+   "n": 91,
+   "section": "J",
+   "pages": [
+    18
+   ],
+   "text": "The letter joined Plaintiff’s three identifiers with “and/or.” It did not establish that any single identifier corresponded to either report.",
+   "words": 20
+  },
+  {
+   "n": 92,
+   "section": "J",
+   "pages": [
+    18
+   ],
+   "text": "The letter included no custodian-of-records declaration and no certification under Federal Rule of Evidence 902(11) or 902(12).",
+   "words": 17
+  },
+  {
+   "n": 93,
+   "section": "J",
+   "pages": [
+    18
+   ],
+   "text": "The name “Jay Ballentine,” standing alone, does not uniquely identify anyone. The letter did not state that NCMEC used any disambiguation process to determine that a CyberTipline report associated with that name concerned Plaintiff rather than another person of the same or similar name.",
+   "words": 44
+  },
+  {
+   "n": 94,
+   "section": "J",
+   "pages": [
+    18
+   ],
+   "text": "The letter did not state whether “Marvelle J. Ballentine,” “Jay Ballentine,” or jaychizza@icloud.com appeared in any CyberTipline report, in any electronic-service-provider submission, or in NCMEC’s internal records, or whether those identifiers were derived from any source independent of the letter itself.",
+   "words": 41
+  },
+  {
+   "n": 95,
+   "section": "J",
+   "pages": [
+    18
+   ],
+   "text": "The letter did not state that NCMEC had determined that “Marvelle J. Ballentine,” “Jay Ballentine,” and jaychizza@icloud.com refer to the same person.",
+   "words": 22
+  },
+  {
+   "n": 96,
+   "section": "J",
+   "pages": [
+    19
+   ],
+   "text": "Schedule A stated the period “July 2, 2022 through the date of compliance.” The letters stated the period “July 1, 2022 and the present.”",
+   "words": 24
+  },
+  {
+   "n": 97,
+   "section": "J",
+   "pages": [
+    19
+   ],
+   "text": "Schedule A referred to any “CyberTipline report, referral, or submission.” The letters stated that NCMEC had received “two (2) CyberTipline reports.”",
+   "words": 21
+  },
+  {
+   "n": 98,
+   "section": "J",
+   "pages": [
+    19
+   ],
+   "text": "The letters listed “Marvelle J. Ballentine,” “Jay Ballentine,” and jaychizza@icloud.com in the same order in which Plaintiff listed them in the April 9 materials.",
+   "words": 24
+  },
+  {
+   "n": 99,
+   "section": "K",
+   "pages": [
+    19
+   ],
+   "text": "Section 2258A of Title 18 requires an electronic service provider to report to NCMEC’s CyberTipline after obtaining actual knowledge of facts or circumstances from which there is an apparent violation of specified federal child-exploitation statutes. The CyberTipline also receives reports from other sources concerning suspected child exploitation.",
+   "words": 47
+  },
+  {
+   "n": 100,
+   "section": "K",
+   "pages": [
+    19
+   ],
+   "text": "The statutes enumerated in 18 U.S.C. § 2258A include 18 U.S.C. § 2251 (sexual exploitation of children), § 2251A (selling or buying of children), § 2252 (certain activities relating to material involving the sexual exploitation of minors), § 2252A (certain activities relating to material constituting or containing child pornography), and § 2422(b) (coercion and enticement of minors).",
+   "words": 57
+  },
+  {
+   "n": 101,
+   "section": "K",
+   "pages": [
+    19
+   ],
+   "text": "In the context alleged, a reader of the letter would understand the statement that NCMEC had received two CyberTipline reports “concerning” Plaintiff’s full legal name and identifiers to convey that NCMEC had received two reports associating Plaintiff personally with suspected child-exploitation conduct and that the reported matter could be made available to law enforcement.",
+   "words": 54
+  },
+  {
+   "n": 102,
+   "section": "K",
+   "pages": [
+    20
+   ],
+   "text": "By linking Plaintiff’s full legal name to two CyberTipline reports, the letter imputes to Plaintiff conduct constituting offenses involving moral turpitude. If the imputation were true, Plaintiff could be indicted and punished for those offenses.",
+   "words": 35
+  },
+  {
+   "n": 103,
+   "section": "K",
+   "pages": [
+    20
+   ],
+   "text": "The imputation is false. Plaintiff has not engaged in conduct constituting, or reasonably appearing to constitute, a violation of any statute enumerated in 18 U.S.C. § 2258A.",
+   "words": 27
+  },
+  {
+   "n": 104,
+   "section": "L",
+   "pages": [
+    20
+   ],
+   "text": "Each letter was transmitted to Plaintiff’s commercial mail-receiving agency address at 1520 Belle View Blvd, Ste. #5847, Alexandria, Virginia 22307.",
+   "words": 20
+  },
+  {
+   "n": 105,
+   "section": "L",
+   "pages": [
+    20
+   ],
+   "text": "A commercial mail-receiving agency operates that address. To create and maintain the mailbox account, Plaintiff had to supply identifying information, including his full legal name and photographic identification. USPS Form 1583, authorizing the agency to receive and process mail on Plaintiff’s behalf, was on file.",
+   "words": 45
+  },
+  {
+   "n": 106,
+   "section": "L",
+   "pages": [
+    20
+   ],
+   "text": "The agency maintains a mail-management system. That system associates incoming mail, scanned mail images, account records, Plaintiff’s verified identity, Plaintiff’s full legal name, and Plaintiff’s photographic identification with Plaintiff’s mailbox account.",
+   "words": 31
+  },
+  {
+   "n": 107,
+   "section": "L",
+   "pages": [
+    20
+   ],
+   "text": "In the ordinary course of business, the agency opens incoming envelopes, scans the contents, and uploads digital images to the mail-management system.",
+   "words": 22
+  },
+  {
+   "n": 108,
+   "section": "L",
+   "pages": [
+    20
+   ],
+   "text": "On or about April 28, 2026, an agency employee opened the envelope containing the two letters. To perform the scan service, the employee necessarily reviewed the contents of each letter. The employee scanned each letter and uploaded a digital reproduction of each to the mail-management system.",
+   "words": 46
+  },
+  {
+   "n": 109,
+   "section": "L",
+   "pages": [
+    20,
+    21
+   ],
+   "text": "That employee was an independent commercial mail-processing employee, authorized only to perform routine mail-processing services. The employee had no role in Plaintiff’s litigation or legal affairs. The employee had no attorney-client, fiduciary, or personal relationship with Plaintiff.",
+   "words": 37
+  },
+  {
+   "n": 110,
+   "section": "L",
+   "pages": [
+    21
+   ],
+   "text": "The employee viewed, handled, and scanned the contents of each letter in the ordinary course of the agency’s commercial mail-processing business.",
+   "words": 21
+  },
+  {
+   "n": 111,
+   "section": "L",
+   "pages": [
+    21
+   ],
+   "text": "Hall selected the transmission channel. As Corporate Counsel, she knew or had reason to know that a commercial mail-receiving agency operated the address, and that delivery through that channel required third-party employees to open, review, scan, digitize, and process the contents before Plaintiff could access them.",
+   "words": 46
+  },
+  {
+   "n": 112,
+   "section": "L",
+   "pages": [
+    21
+   ],
+   "text": "Hall directed transmission of the letters to the commercial mail-receiving agency address rather than to the clerk of court in either Middle District of Florida action, to any party’s counsel of record, or to a secure transmission channel.",
+   "words": 38
+  },
+  {
+   "n": 113,
+   "section": "L",
+   "pages": [
+    21
+   ],
+   "text": "After scanning and upload, the agency forwarded the physical envelope containing both letters to Plaintiff’s designated local mailbox in the ordinary course of its mail-forwarding operations.",
+   "words": 26
+  },
+  {
+   "n": 114,
+   "section": "L",
+   "pages": [
+    21
+   ],
+   "text": "The administrator of both the commercial mail-receiving agency account and the local mailbox account opened the forwarded envelope and read both letters in the ordinary course of her administrative duties.",
+   "words": 30
+  },
+  {
+   "n": 115,
+   "section": "L",
+   "pages": [
+    21
+   ],
+   "text": "That administrator is a person distinct from Plaintiff. She read the letters while administering the two mailbox accounts. Her reading was not needed to establish the first publication in Virginia. That publication had already occurred when the agency employee reviewed and scanned the letters.",
+   "words": 44
+  },
+  {
+   "n": 116,
+   "section": "L",
+   "pages": [
+    21
+   ],
+   "text": "The digital reproductions of the letters remain stored in the agency’s mail-management system. They are outside Plaintiff’s possession and control.",
+   "words": 20
+  },
+  {
+   "n": 117,
+   "section": "L",
+   "pages": [
+    22
+   ],
+   "text": "The mail-management system associates those reproductions with Plaintiff’s verified identity, Plaintiff’s full legal name, Plaintiff’s mailbox account, and Plaintiff’s photographic identification.",
+   "words": 21
+  },
+  {
+   "n": 118,
+   "section": "L",
+   "pages": [
+    22
+   ],
+   "text": "On information and belief, administrators, employees, contractors, and other persons with system-level access to the mail-management system can access the account records and scanned mail images associated with Plaintiff’s mailbox account.",
+   "words": 31
+  },
+  {
+   "n": 119,
+   "section": "L",
+   "pages": [
+    22
+   ],
+   "text": "Plaintiff does not know the identities of all persons with administrative or system-level access to that system.",
+   "words": 17
+  },
+  {
+   "n": 120,
+   "section": "L",
+   "pages": [
+    22
+   ],
+   "text": "Plaintiff does not control that system. He does not control its access permissions, administrative access, audit logs, retention practices, or internal dissemination of scanned mail images associated with his mailbox account.",
+   "words": 31
+  },
+  {
+   "n": 121,
+   "section": "M",
+   "pages": [
+    22
+   ],
+   "text": "On April 27, 2026, the magistrate judge in the 286 Action granted the motion for protective order and temporarily stayed discovery. The April 28, 2026 deposition of Anderson did not proceed.",
+   "words": 31
+  },
+  {
+   "n": 122,
+   "section": "M",
+   "pages": [
+    22
+   ],
+   "text": "On April 28, 2026, Plaintiff’s commercial mail-receiving agency opened and scanned the letters, making digital images accessible to Plaintiff through the mail-management system. Plaintiff opened, viewed, and read both letters that day. That day was the noticed date of the Anderson deposition. It was the eve of the noticed Accenture Rule 30(b)(6) deposition.",
+   "words": 53
+  },
+  {
+   "n": 123,
+   "section": "M",
+   "pages": [
+    22
+   ],
+   "text": "Plaintiff read the letters while physically present in Osceola County, Florida. He sustained the emotional and functional consequences of the letters there.",
+   "words": 22
+  },
+  {
+   "n": 124,
+   "section": "N",
+   "pages": [
+    23
+   ],
+   "text": "Meta and NCMEC maintain an established channel. Through it, CyberTipline reports are transmitted, and through it, Meta and NCMEC communicate concerning such reports.",
+   "words": 23
+  },
+  {
+   "n": 125,
+   "section": "N",
+   "pages": [
+    23
+   ],
+   "text": "Between April 9 and April 22, 2026, Meta, acting through one or more authorized representatives or intermediaries, and Hall, acting individually and as Corporate Counsel of NCMEC, reached an understanding. Under it, Hall would issue correspondence asserting the existence of CyberTipline reports associated with one or more of Plaintiff’s identifiers. She would do so before formal service of the subpoenas and while motions directed at the same discovery remained pending. This allegation rests on the coordinated, case-specific sequence pleaded in the numbered facts that follow in this Section: the absence of any compulsory obligation, the timing of the two letters, and their precise substitution of a source-free assertion for imminent sworn examination. On information and belief, one or more Doe Defendants participated in or implemented the understanding.",
+   "words": 127
+  },
+  {
+   "n": 126,
+   "section": "N",
+   "pages": [
+    23
+   ],
+   "text": "Nine facts support the understanding alleged in the preceding paragraph. Each is pleaded above and incorporated here.",
+   "words": 17
+  },
+  {
+   "n": 127,
+   "section": "N",
+   "pages": [
+    23
+   ],
+   "text": "First: as of April 9, 2026, NCMEC and counsel for Meta and Accenture had received identical materials. Those materials identified the same two federal actions, the same three identifiers, and the same discovery objective.",
+   "words": 34
+  },
+  {
+   "n": 128,
+   "section": "N",
+   "pages": [
+    23
+   ],
+   "text": "Second: the April 21, 2026 motions targeted the same discovery the April 9, 2026 materials described. The joint motion in the 376 Action expressly identified Plaintiff’s advance notices of intended subpoenas and Plaintiff’s CyberTipline discovery.",
+   "words": 35
+  },
+  {
+   "n": 129,
+   "section": "N",
+   "pages": [
+    23
+   ],
+   "text": "Third: the depositions covering the report-existence question were imminent. They were noticed for April 28, April 29, and April 30, 2026.",
+   "words": 21
+  },
+  {
+   "n": 130,
+   "section": "N",
+   "pages": [
+    24
+   ],
+   "text": "Fourth: Hall and NCMEC owed no compulsory obligation of any kind. Neither subpoena had been formally served. No court order existed.",
+   "words": 21
+  },
+  {
+   "n": 131,
+   "section": "N",
+   "pages": [
+    24
+   ],
+   "text": "Fifth: one day after the motions were filed, Hall issued not one generalized communication but two separate instruments. Each bore the caption and case number of one of the two actions.",
+   "words": 31
+  },
+  {
+   "n": 132,
+   "section": "N",
+   "pages": [
+    24
+   ],
+   "text": "Sixth: Hall issued the letters before the notice period that Plaintiff had said would precede formal service had expired.",
+   "words": 19
+  },
+  {
+   "n": 133,
+   "section": "N",
+   "pages": [
+    24
+   ],
+   "text": "Seventh: the letters asserted that reports exist. They omitted the reporting provider, report dates, report numbers, matched identifier, platform, account connection, and disposition.",
+   "words": 23
+  },
+  {
+   "n": 134,
+   "section": "N",
+   "pages": [
+    24
+   ],
+   "text": "Eighth: the letters supplied, outside the discovery process, an unsworn and source-free assertion on the precise subject scheduled for sworn examination. No one at Meta, Accenture, or NCMEC, and no witness, was exposed to examination on the source, meaning, or basis of that assertion.",
+   "words": 44
+  },
+  {
+   "n": 135,
+   "section": "N",
+   "pages": [
+    24
+   ],
+   "text": "Ninth: Hall issued the letters while the April 21, 2026 motions remained pending and before any court had decided whether the targeted discovery would proceed.",
+   "words": 25
+  },
+  {
+   "n": 136,
+   "section": "N",
+   "pages": [
+    24
+   ],
+   "text": "The assertion in the letters purported to answer the report-existence question stated in Matter for Examination No. 5 of Accenture’s noticed Rule 30(b)(6) deposition. It did so without requiring Accenture to designate a witness, to testify under oath, to disclose its own knowledge, or to submit to examination on the source and basis of the assertion NCMEC supplied.",
+   "words": 58
+  },
+  {
+   "n": 137,
+   "section": "N",
+   "pages": [
+    24,
+    25
+   ],
+   "text": "The identities of every person who participated in any communication between or among Meta, Accenture, NCMEC, and their representatives concerning Plaintiff, the identifiers, the reports, the subpoenas, or the two federal actions, together with the media and contents of those communications, are maintained in the records of Meta, Accenture, NCMEC, and their representatives. Plaintiff cannot reach them without discovery.",
+   "words": 59
+  },
+  {
+   "n": 138,
+   "section": "N",
+   "pages": [
+    25
+   ],
+   "text": "Hall knowingly joined and implemented the understanding. She signed the letters. On information and belief, she prepared or approved their wording and authorized their transmission.",
+   "words": 25
+  },
+  {
+   "n": 139,
+   "section": "N",
+   "pages": [
+    25
+   ],
+   "text": "On information and belief, NCMEC knowingly joined and implemented the understanding. It acted through Hall and through one or more additional personnel who approved the issuance of the letters.",
+   "words": 29
+  },
+  {
+   "n": 140,
+   "section": "O",
+   "pages": [
+    25
+   ],
+   "text": "Plaintiff commenced the 1341 Action on May 19, 2026, asserting claims arising from the April 22, 2026 letters.",
+   "words": 18
+  },
+  {
+   "n": 141,
+   "section": "O",
+   "pages": [
+    25
+   ],
+   "text": "On June 16, 2026, NCMEC and Hall jointly moved to dismiss the complaint in the 1341 Action. Their supporting memorandum (1341 Action, ECF No. 5) stated that NCMEC “did not await formal service of the subpoenas.”",
+   "words": 36
+  },
+  {
+   "n": 142,
+   "section": "O",
+   "pages": [
+    25
+   ],
+   "text": "As of July 15, 2026, Plaintiff had served no interrogatory, no request for production, no request for admission, and no deposition notice in the 1341 Action. No discovery response was due from anyone. The only discovery-related activity pending was planning under Federal Rule of Civil Procedure 26(f).",
+   "words": 47
+  },
+  {
+   "n": 143,
+   "section": "O",
+   "pages": [
+    25
+   ],
+   "text": "On July 15, 2026, NCMEC and Hall jointly moved to stay pre-answer discovery and Rule 26 obligations in the 1341 Action (1341 Action, ECF No. 11).",
+   "words": 26
+  },
+  {
+   "n": 144,
+   "section": "O",
+   "pages": [
+    25
+   ],
+   "text": "The motion stated that NCMEC “has reason to be concerned that information provided in discovery in this matter could give rise to further litigation from Mr. Ballentine.”",
+   "words": 27
+  },
+  {
+   "n": 145,
+   "section": "O",
+   "pages": [
+    26
+   ],
+   "text": "No declaration or affidavit accompanied the motion. The motion identified no specific discovery request and no particularized burden of responding to any request.",
+   "words": 23
+  },
+  {
+   "n": 146,
+   "section": "O",
+   "pages": [
+    26
+   ],
+   "text": "Plaintiff opposed the motion on July 16, 2026. By order dated July 17, 2026, the Court granted the motion and stayed discovery pending resolution of Defendants’ motion to dismiss (1341 Action, ECF Nos. 13, 15).",
+   "words": 35
+  },
+  {
+   "n": 147,
+   "section": "O",
+   "pages": [
+    26
+   ],
+   "text": "On July 27, 2026, Plaintiff moved in the 1341 Action for leave to file an amended and supplemental complaint. The proposed pleading added Meta and Doe Defendants and asserted a claim under the first clause of 42 U.S.C. § 1985(2) (1341 Action, ECF No. 18).",
+   "words": 45
+  },
+  {
+   "n": 148,
+   "section": "O",
+   "pages": [
+    26
+   ],
+   "text": "Meta was not then a party to the 1341 Action. Meta had not appeared in it.",
+   "words": 16
+  },
+  {
+   "n": 149,
+   "section": "O",
+   "pages": [
+    26
+   ],
+   "text": "On July 29, 2026, NCMEC and Hall jointly opposed that motion (1341 Action, ECF No. 20). Counsel for NCMEC and Hall signed and filed the opposition. No attorney had appeared for Meta in the 1341 Action.",
+   "words": 36
+  },
+  {
+   "n": 150,
+   "section": "O",
+   "pages": [
+    26
+   ],
+   "text": "The opposition stated that the 1341 Action “arises out of two subpoenas sent, but not formally served.”",
+   "words": 17
+  },
+  {
+   "n": 151,
+   "section": "O",
+   "pages": [
+    26
+   ],
+   "text": "The opposition stated that “NCMEC responded exactly as instructed in the subpoenas.” It characterized the letters as reflecting “a subpoena recipient following, to a ‘t,’ the instructions in the subpoenas.”",
+   "words": 30
+  },
+  {
+   "n": 152,
+   "section": "O",
+   "pages": [
+    26
+   ],
+   "text": "The opposition stated that Hall “was clearly acting in the course and scope of her employment in responding to the subpoenas,” that Hall “was working within the course and scope of her employment,” and that Hall “is entitled to the same defenses as the National Center for Missing and Exploited Children.”",
+   "words": 51
+  },
+  {
+   "n": 153,
+   "section": "O",
+   "pages": [
+    27
+   ],
+   "text": "Under the heading “There is No Basis to Include the Proposed New Defendants in this Matter,” the opposition stated that, absent the alleged conspiracy, “there would be no claim asserted as to John or Jane Does, or Meta Platforms, Inc.”",
+   "words": 40
+  },
+  {
+   "n": 154,
+   "section": "O",
+   "pages": [
+    27
+   ],
+   "text": "As of July 29, 2026, NCMEC and Hall had told the Court, in filed papers, that the letters followed Plaintiff’s subpoena instructions exactly.",
+   "words": 23
+  },
+  {
+   "n": 155,
+   "section": "O",
+   "pages": [
+    27
+   ],
+   "text": "As of July 29, 2026, NCMEC and Hall had also told the Court, in filed papers, that NCMEC “has reason to be concerned that information provided in discovery in this matter could give rise to further litigation from Mr. Ballentine.”",
+   "words": 40
+  },
+  {
+   "n": 156,
+   "section": "O",
+   "pages": [
+    27
+   ],
+   "text": "Neither the July 15, 2026 motion nor the July 29, 2026 opposition identified what information about the letters, if provided in discovery, could give rise to further litigation.",
+   "words": 28
+  },
+  {
+   "n": 157,
+   "section": "O",
+   "pages": [
+    27
+   ],
+   "text": "The statements identified in this Section are alleged as facts establishing timing, notice, knowledge, coordination, and admissions, consistent with the Scope of Allegations. No claim for relief rests on them.",
+   "words": 30
+  },
+  {
+   "n": 158,
+   "section": "O",
+   "pages": [
+    27
+   ],
+   "text": "Plaintiff then voluntarily dismissed the 1341 Action without prejudice under Federal Rule of Civil Procedure 41(a)(1)(A)(i).",
+   "words": 16
+  },
+  {
+   "n": 159,
+   "section": "O",
+   "pages": [
+    27
+   ],
+   "text": "On August 12, 2026, NCMEC filed a memorandum in support of its motion to dismiss the First Amended Complaint in this action. The memorandum stated that NCMEC “responded to the subpoenas without awaiting formal service.”",
+   "words": 35
+  },
+  {
+   "n": 160,
+   "section": "O",
+   "pages": [
+    27
+   ],
+   "text": "The August 12, 2026 memorandum stated that Plaintiff “does not have access to those reports.” It described the asserted CyberTipline linkage as involving Plaintiff, “a person with the same name,” or an e-mail address.",
+   "words": 34
+  },
+  {
+   "n": 161,
+   "section": "O",
+   "pages": [
+    28
+   ],
+   "text": "The August 12, 2026 memorandum expressly addressed Plaintiff’s allegations that he is a survivor of childhood sexual abuse and the emotional effects Plaintiff alleged followed his reading of the letters.",
+   "words": 30
+  },
+  {
+   "n": 162,
+   "section": "O",
+   "pages": [
+    28
+   ],
+   "text": "On August 13, 2026, Plaintiff asked counsel for NCMEC and Hall a question: did either CyberTipline report referenced in the letters, as originally received by NCMEC, contain or otherwise identify (1) “Marvelle J. Ballentine”; (2) “Jay Ballentine”; or (3) jaychizza@icloud.com? Counsel did not answer.",
+   "words": 44
+  },
+  {
+   "n": 163,
+   "section": "O",
+   "pages": [
+    28
+   ],
+   "text": "On August 13, 2026, counsel for NCMEC and Hall wrote: “I read your email as being upset with the language used in the memorandum-I did not intend to offend you with the phrasing, but my point was you got exactly what you asked for, using the language you provided.”",
+   "words": 49
+  },
+  {
+   "n": 164,
+   "section": "O",
+   "pages": [
+    28
+   ],
+   "text": "On August 13, 2026, Meta, Accenture, Genpact Limited, and TaskUs, Inc. jointly moved to dismiss Plaintiff’s operative complaint in the 376 Action, then pending in the United States District Court for the Northern District of California as Ballentine v. Meta Platforms, Inc., No. 3:26-cv-05939-RFL (ECF No. 152). The filing cited this action by case number.",
+   "words": 55
+  },
+  {
+   "n": 165,
+   "section": "O",
+   "pages": [
+    28
+   ],
+   "text": "At page 4, footnote 3, the August 13, 2026 filing characterized this action as “a complaint against the National Center for Missing & Exploited Children (‘NCMEC’) and its corporate counsel in the Eastern District of Virginia based on allegedly defamatory language in a letter sent by NCMEC to Plaintiff in response to a subpoena.”",
+   "words": 54
+  },
+  {
+   "n": 166,
+   "section": "O",
+   "pages": [
+    28
+   ],
+   "text": "When that filing was made, Meta was a named defendant in this action. Meta had been served in this action on July 31, 2026. The operative First Amended Complaint asserted Count IV, under the first clause of 42 U.S.C. § 1985(2), against Meta.",
+   "words": 43
+  },
+  {
+   "n": 167,
+   "section": "O",
+   "pages": [
+    29
+   ],
+   "text": "The August 13, 2026 filing identified this action. It did not identify Meta as a defendant in this action. It did not identify the claim under 42 U.S.C. § 1985(2), which alleges interference with Plaintiff’s participation in the very proceeding in which the filing was made.",
+   "words": 46
+  },
+  {
+   "n": 168,
+   "section": "O",
+   "pages": [
+    29
+   ],
+   "text": "By August 13, 2026, Meta had actual knowledge that this action exists; that this action relates to the 376 Action; and that Plaintiff has alleged against Meta a claim concerning Plaintiff’s participation in the 376 Action.",
+   "words": 36
+  },
+  {
+   "n": 169,
+   "section": "O",
+   "pages": [
+    29
+   ],
+   "text": "The August 13, 2026 filing is alleged as a subsequent fact bearing on Meta’s knowledge, position, coordination, and litigation context, consistent with the Scope of Allegations. No claim for relief rests on it.",
+   "words": 33
+  },
+  {
+   "n": 170,
+   "section": "O",
+   "pages": [
+    29
+   ],
+   "text": "On September 2, 2026, Hall moved to dismiss the First Amended Complaint (ECF No. 45). Hall expressly “adopts and joins in” NCMEC’s Motion to Dismiss and Memorandum in Support (ECF Nos. 10 and 11). She requested dismissal with prejudice on the same grounds.",
+   "words": 43
+  },
+  {
+   "n": 171,
+   "section": "O",
+   "pages": [
+    29
+   ],
+   "text": "Also on September 2, 2026, Hall opposed Plaintiff’s Rule 26(d)(1) Motion (ECF No. 46), expressly adopting and joining NCMEC’s opposition at ECF No. 33.",
+   "words": 24
+  },
+  {
+   "n": 172,
+   "section": "O",
+   "pages": [
+    29
+   ],
+   "text": "Hall’s September 2, 2026 filings are alleged as subsequent facts. They establish Hall’s express adoption of NCMEC’s positions, her continuing litigation position, and her knowledge of the matters addressed in those positions, consistent with the Scope of Allegations. No independent claim for relief rests on either filing.",
+   "words": 47
+  },
+  {
+   "n": 173,
+   "section": "O",
+   "pages": [
+    29
+   ],
+   "text": "As of the filing of this Second Amended and Supplemental Complaint, the letters remain unretracted and uncorrected.",
+   "words": 17
+  },
+  {
+   "n": 174,
+   "section": "P",
+   "pages": [
+    29,
+    30
+   ],
+   "text": "The purpose of the understanding was to deter Plaintiff, by intimidation, from continuing to attend the 376 Action and the 286 Action as a party, and from testifying freely, fully, and truthfully as a prospective witness in those pending federal proceedings, including on the CyberTipline-reporting question.",
+   "words": 46
+  },
+  {
+   "n": 175,
+   "section": "P",
+   "pages": [
+    30
+   ],
+   "text": "The intimidation targeted Plaintiff’s continued attendance as a party in the two pending federal actions and his prospective sworn testimony concerning his account, the July 4, 2022 enforcement event, the absence of any law-enforcement contact with him, and his damages.",
+   "words": 40
+  },
+  {
+   "n": 176,
+   "section": "P",
+   "pages": [
+    30
+   ],
+   "text": "Defendants knew that Plaintiff was pro se. They knew the noticed depositions depended on his personal preparation and examination. They knew the CyberTipline issue was central to the noticed examinations. They knew Plaintiff was a prospective witness concerning his account, the enforcement event, and his damages.",
+   "words": 46
+  },
+  {
+   "n": 177,
+   "section": "P",
+   "pages": [
+    30
+   ],
+   "text": "They bore the letterhead of the federally designated clearinghouse for CyberTipline reporting. They carried the signature of its Corporate Counsel. They called themselves responses to subpoenas before formal service. They associated Plaintiff’s full legal name, alternate name, and email identifier with CyberTipline reports. They omitted the reporting provider, report dates, report numbers, matched identifier, platform, account connection, and disposition. They were keyed to the two federal actions by caption and case number. They issued while the depositions remained imminent and the protective motions remained pending. They were addressed to Plaintiff alone.",
+   "words": 91
+  },
+  {
+   "n": 178,
+   "section": "P",
+   "pages": [
+    30
+   ],
+   "text": "A reasonable reader would take the letters to communicate this: NCMEC possessed reports generated in connection with apparent violations of federal child-exploitation statutes; those reports associated one or more of Plaintiff’s identifiers with the reported matter; and those reports could be available to law enforcement.",
+   "words": 45
+  },
+  {
+   "n": 179,
+   "section": "P",
+   "pages": [
+    31
+   ],
+   "text": "Plaintiff understood the letters to mean that federal reporting records connected his identity to suspected child-exploitation conduct and that law enforcement could treat him as a subject of investigation.",
+   "words": 29
+  },
+  {
+   "n": 180,
+   "section": "P",
+   "pages": [
+    31
+   ],
+   "text": "Defendants intended that fear of investigation, arrest, or prosecution would cause Plaintiff to dismiss or withdraw from the two federal actions. That would deter Plaintiff, as a party, from continuing to attend those proceedings. It would deter Plaintiff, as a prospective witness, from testifying freely, fully, and truthfully. Abandonment of the contemplated CyberTipline discovery and impairment of Plaintiff’s preparation were intended and foreseeable consequences of that deterrence. Defendants’ intent is alleged generally and rests on the facts pleaded in this Complaint.",
+   "words": 81
+  },
+  {
+   "n": 181,
+   "section": "Q",
+   "pages": [
+    31
+   ],
+   "text": "In furtherance of the understanding, Hall signed each of the two April 22, 2026 letters. On information and belief, she prepared or approved their wording and authorized their transmission.",
+   "words": 29
+  },
+  {
+   "n": 182,
+   "section": "Q",
+   "pages": [
+    31
+   ],
+   "text": "In furtherance of the understanding, Hall issued the two case-keyed letters and caused them to be mailed to Plaintiff.",
+   "words": 19
+  },
+  {
+   "n": 183,
+   "section": "Q",
+   "pages": [
+    31
+   ],
+   "text": "The letters issued and were mailed before formal service of either subpoena, before the announced notice period had run, and before adjudication of the April 21, 2026 motions.",
+   "words": 28
+  },
+  {
+   "n": 184,
+   "section": "Q",
+   "pages": [
+    31
+   ],
+   "text": "In furtherance of the understanding, NCMEC, acting through Hall and one or more additional personnel, approved the issuance of the two letters and authorized the use of NCMEC’s name, letterhead, and institutional identity in each.",
+   "words": 35
+  },
+  {
+   "n": 185,
+   "section": "R",
+   "pages": [
+    32
+   ],
+   "text": "Plaintiff’s injury began on April 28, 2026, when he read the two letters. He vomited. He wept.",
+   "words": 17
+  },
+  {
+   "n": 186,
+   "section": "R",
+   "pages": [
+    32
+   ],
+   "text": "Plaintiff understood the letters to mean that federal reporting records connected his identity to suspected child-exploitation conduct and that law enforcement could treat him as a subject of investigation. Plaintiff has engaged in no conduct constituting or appearing to constitute a violation of any statute enumerated in 18 U.S.C. § 2258A. He nonetheless lived in acute fear of imminent governmental investigation, arrest, search, and prosecution. He believed that continuing the two actions and pressing the CyberTipline issue could expose him to those consequences. That fear persisted in acute form in the days after April 28, 2026.",
+   "words": 96
+  },
+  {
+   "n": 187,
+   "section": "R",
+   "pages": [
+    32
+   ],
+   "text": "Plaintiff feared that Hall and NCMEC had sent copies of the letters to counsel for the defendants in the two actions. He feared that the letters, each bearing a federal caption and case number, would be filed on the public dockets of those actions, placing on a public federal docket a statement from the federally designated clearinghouse for CyberTipline reporting that associated his legal name with two CyberTipline reports. He feared that family members following those dockets, including family members with children, would distance themselves from him if the letters were filed.",
+   "words": 92
+  },
+  {
+   "n": 188,
+   "section": "R",
+   "pages": [
+    32
+   ],
+   "text": "Each letter was created for one pending action. Each bore that action’s caption and case number. Each purported to answer discovery directed at the CyberTipline issue. Plaintiff therefore understood the asserted reports as consequences connected to his continued pursuit of that issue in the two actions. He believed that dismissing the actions and abandoning the contemplated discovery would end the proceedings through which the asserted reports had surfaced and would reduce the perceived risk of further governmental attention.",
+   "words": 78
+  },
+  {
+   "n": 189,
+   "section": "R",
+   "pages": [
+    33
+   ],
+   "text": "The fear caused Plaintiff an acute psychological and functional injury beginning April 28, 2026. His sleep was disrupted. His eating was disrupted. He suffered intrusive fear of contact by law enforcement. He suffered recurrent involuntary recollections of his own childhood sexual abuse. He could not sustain attention on litigation materials. He lost productive and income-producing time.",
+   "words": 56
+  },
+  {
+   "n": 190,
+   "section": "R",
+   "pages": [
+    33
+   ],
+   "text": "During the acute period, Plaintiff distanced himself from his own children. He expected to be taken into custody.",
+   "words": 18
+  },
+  {
+   "n": 191,
+   "section": "R",
+   "pages": [
+    33
+   ],
+   "text": "On reading the letters, Plaintiff immediately considered dismissing both federal actions. He believed that continuing to litigate the CyberTipline issue exposed him to criminal investigation or prosecution. On multiple occasions in the days after April 28, 2026, Plaintiff refrained from dismissing the two actions only by deliberate effort.",
+   "words": 48
+  },
+  {
+   "n": 192,
+   "section": "R",
+   "pages": [
+    33
+   ],
+   "text": "During the acute period, the letters’ assertion that two CyberTipline reports existed dominated Plaintiff’s attention. He did not examine the letters’ stated procedural predicate. Days later, on reviewing the letters again, he recognized that no subpoena had been served. He understood then that the letters were voluntary correspondence, not responses compelled or authenticated through judicial process. From that realization, the letters’ perceived official and compulsory force diminished, and Plaintiff’s acute fear of imminent arrest began to subside.",
+   "words": 77
+  },
+  {
+   "n": 193,
+   "section": "R",
+   "pages": [
+    33
+   ],
+   "text": "The letters’ assertion stands unretracted and uncorrected. The digital reproductions persist in the agency’s mail-management system, outside Plaintiff’s possession and control. Apprehension concerning the asserted reports recurred while the two actions remained pending.",
+   "words": 33
+  },
+  {
+   "n": 194,
+   "section": "R",
+   "pages": [
+    33,
+    34
+   ],
+   "text": "Plaintiff continued to prosecute the two actions despite the acute impairment. He did so by deliberate effort and at materially diminished capacity. That diminished capacity affected his responses to the then-pending stay and protective-order motions, his evaluation and pursuit of the contemplated NCMEC discovery, and his administration of the canceled deposition sittings, including his communications with the court reporter and videographer he had retained.",
+   "words": 64
+  },
+  {
+   "n": 195,
+   "section": "R",
+   "pages": [
+    34
+   ],
+   "text": "Plaintiff ultimately refused to dismiss the two actions. That refusal did not eliminate the deterrent effect of the intimidation. It did not eliminate the injuries the intimidation caused.",
+   "words": 28
+  },
+  {
+   "n": 196,
+   "section": "R",
+   "pages": [
+    34
+   ],
+   "text": "The acts undertaken in furtherance of the understanding injured Plaintiff in his person. They materially impaired his continued attendance as a party in the federal proceedings. They materially impaired his ability to testify freely, fully, and truthfully as a prospective witness. The injuries alleged in this Section, including the impairment of Plaintiff’s litigation preparation, are consequences of that deterrence.",
+   "words": 59
+  },
+  {
+   "n": 197,
+   "section": "R",
+   "pages": [
+    34
+   ],
+   "text": "The conduct alleged in this Complaint caused Plaintiff humiliation, embarrassment, mental suffering, injury to reputation, and severe emotional distress.",
+   "words": 19
+  },
+  {
+   "n": 198,
+   "section": "R",
+   "pages": [
+    34
+   ],
+   "text": "As of the filing of this Complaint, Plaintiff does not know which of the three identifiers listed in the letters, if any, appears in or otherwise identifies a person in either of the two CyberTipline reports the letters reference.",
+   "words": 39
+  },
+  {
+   "n": 199,
+   "section": "R",
+   "pages": [
+    34
+   ],
+   "text": "The depositions noticed for April 28, April 29, and April 30, 2026 did not occur.",
+   "words": 15
+  },
+  {
+   "n": 200,
+   "section": "R",
+   "pages": [
+    34
+   ],
+   "text": "Plaintiff has obtained no sworn testimony answering whether Meta submitted a CyberTipline report in connection with his Facebook account or the July 4, 2022 enforcement event.",
+   "words": 26
+  },
+  {
+   "n": 201,
+   "section": "R",
+   "pages": [
+    34
+   ],
+   "text": "The 376 Action remains pending in the United States District Court for the Northern District of California as Ballentine v. Meta Platforms, Inc., No. 3:26-cv-05939-RFL.",
+   "words": 25
+  },
+  {
+   "n": 202,
+   "section": "R",
+   "pages": [
+    34
+   ],
+   "text": "The dismissal of the 286 Action remains on appeal to the United States Court of Appeals for the Eleventh Circuit, No. 26-12641. Plaintiff has filed his opening brief.",
+   "words": 28
+  },
+  {
+   "n": 203,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "Plaintiff’s legal name is Marvelle J. Ballentine.",
+   "words": 7
+  },
+  {
+   "n": 204,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "Before April 22, 2026, Plaintiff never used “Marvelle J. Ballentine” to create, register, identify, maintain, access, or operate any account on any product or service owned or operated by Meta that Plaintiff used.",
+   "words": 33
+  },
+  {
+   "n": 205,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "Plaintiff never used “Marvelle J. Ballentine” as a username, profile name, display name, account name, or other identity on any Meta product or service that Plaintiff used.",
+   "words": 27
+  },
+  {
+   "n": 206,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "Plaintiff never gave “Marvelle J. Ballentine” to Meta as the name identifying Plaintiff or any Meta account he created, maintained, or operated.",
+   "words": 22
+  },
+  {
+   "n": 207,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "Plaintiff used the name “Jay Ballentine” in connection with his Meta accounts.",
+   "words": 12
+  },
+  {
+   "n": 208,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "The Facebook account associated with the July 4, 2022 enforcement event was maintained under the name “Jay Ballentine.”",
+   "words": 18
+  },
+  {
+   "n": 209,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "Plaintiff included “Marvelle J. Ballentine” in the April 9, 2026 materials because it is his legal name and the name under which the 376 Action and the 286 Action were pending.",
+   "words": 31
+  },
+  {
+   "n": 210,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "From July 4, 2022 through the filing of this Complaint, no law-enforcement agency has contacted Plaintiff concerning any CyberTipline report associated with his Facebook account or the July 4, 2022 enforcement event.",
+   "words": 32
+  },
+  {
+   "n": 211,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "On information and belief, Meta did not submit to NCMEC, in connection with the July 4, 2022 Facebook enforcement event, a CyberTipline report that contained or otherwise identified Plaintiff as “Marvelle J. Ballentine.”",
+   "words": 33
+  },
+  {
+   "n": 212,
+   "section": "S",
+   "pages": [
+    35
+   ],
+   "text": "On information and belief, NCMEC did not receive from Meta, in connection with the July 4, 2022 Facebook enforcement event, a CyberTipline report that contained or otherwise identified Plaintiff as “Marvelle J. Ballentine.”",
+   "words": 33
+  },
+  {
+   "n": 213,
+   "section": "S",
+   "pages": [
+    36
+   ],
+   "text": "On information and belief, neither CyberTipline report referenced in the letters, as originally received by NCMEC, contained or otherwise identified Plaintiff as “Marvelle J. Ballentine.”",
+   "words": 25
+  },
+  {
+   "n": 214,
+   "section": "S",
+   "pages": [
+    36
+   ],
+   "text": "On information and belief, neither CyberTipline report referenced in the letters concerned Plaintiff personally.",
+   "words": 14
+  },
+  {
+   "n": 215,
+   "section": "S",
+   "pages": [
+    36
+   ],
+   "text": "The contents and original submitting information for the two reports referenced in the letters are maintained in records controlled by NCMEC and, to the extent Meta submitted either report, by Meta. They are unavailable to Plaintiff.",
+   "words": 36
+  },
+  {
+   "n": 216,
+   "section": "Count I",
+   "pages": [
+    36
+   ],
+   "text": "Plaintiff incorporates by reference the allegations in the Preliminary Statement, Jurisdiction and Venue, Parties, and Scope of Allegations sections, and Sections A, B, I, J, K, L, M, O, R, and S of the Facts, as if fully set forth herein.",
+   "words": 41
+  },
+  {
+   "n": 217,
+   "section": "Count I",
+   "pages": [
+    36
+   ],
+   "text": "This Count is pleaded in the alternative under Federal Rule of Civil Procedure 8(d) (2).",
+   "words": 15
+  },
+  {
+   "n": 218,
+   "section": "Count I",
+   "pages": [
+    36
+   ],
+   "text": "On or about April 22, 2026, Hall published the April 22, 2026 letter referencing Case No. 6:26-cv-00376-AGM-DCI to third parties through the transmission and processing described in Section L of the Facts.",
+   "words": 32
+  },
+  {
+   "n": 219,
+   "section": "Count I",
+   "pages": [
+    36
+   ],
+   "text": "Publication first occurred in Virginia. It occurred when the commercial mail-receiving agency employee opened, reviewed, scanned, and uploaded the letter in the ordinary course of the transmission channel Hall selected. Further circulation occurred when the administrator of Plaintiff’s mailbox accounts later opened and read the forwarded letter.",
+   "words": 47
+  },
+  {
+   "n": 220,
+   "section": "Count I",
+   "pages": [
+    37
+   ],
+   "text": "The digital reproduction of the letter, created by the agency on April 28, 2026, remains in the agency’s mail-management system. That system associates the reproduction with Plaintiff’s verified identity, Plaintiff’s full legal name, Plaintiff’s mailbox account, and Plaintiff’s photographic identification.",
+   "words": 40
+  },
+  {
+   "n": 221,
+   "section": "Count I",
+   "pages": [
+    37
+   ],
+   "text": "The letter is of and concerning Plaintiff. It identifies him as “Marvelle J. Ballentine” and “Jay Ballentine” and by the email address jaychizza@icloud.com.",
+   "words": 23
+  },
+  {
+   "n": 222,
+   "section": "Count I",
+   "pages": [
+    37
+   ],
+   "text": "The letter is defamatory per se. It imputes to Plaintiff the commission of a criminal offense involving moral turpitude for which Plaintiff, if the imputation were true, could be indicted and punished.",
+   "words": 32
+  },
+  {
+   "n": 223,
+   "section": "Count I",
+   "pages": [
+    37
+   ],
+   "text": "Hall, writing as NCMEC’s Corporate Counsel and on NCMEC letterhead, associated Plaintiff’s full legal name with two CyberTipline reports. The CyberTipline receives reports concerning suspected online child sexual exploitation, including the mandatory electronic-service-provider reports required by 18 U.S.C. § 2258A. A reasonable reader would understand the association to convey that NCMEC had received reports linking Plaintiff personally to suspected child-exploitation conduct and that the reported matter could be available to law enforcement.",
+   "words": 72
+  },
+  {
+   "n": 224,
+   "section": "Count I",
+   "pages": [
+    37,
+    38
+   ],
+   "text": "In the alternative, if the letter is not defamatory per se on its face, it is defamatory by implication. Hall used the word “concerning.” She placed Plaintiff’s full legal name in the same sentence as “two CyberTipline reports.” She included no limiting language. The letter does not state that the reports might match only one identifier, might concern a different person, might have been submitted by a non-Meta provider, might be unrelated to Plaintiff’s Facebook account, or might not have resulted in any law-enforcement referral. Those omissions caused the letter to convey that the reports concern Plaintiff personally. The circumstances alleged above support a reasonable inference that Hall intended the letter to convey that meaning. The letter conveyed that meaning to the third parties who reviewed and read it.",
+   "words": 129
+  },
+  {
+   "n": 225,
+   "section": "Count I",
+   "pages": [
+    38
+   ],
+   "text": "The imputation, whether per se or by implication, is false. Plaintiff has not engaged in conduct constituting, or reasonably appearing to constitute, a violation of any statute enumerated in 18 U.S.C. § 2258A.",
+   "words": 33
+  },
+  {
+   "n": 226,
+   "section": "Count I",
+   "pages": [
+    38
+   ],
+   "text": "On information and belief, neither report referenced in the letter concerned Plaintiff personally. On information and belief, neither report, as originally received by NCMEC, contained or otherwise identified Plaintiff as “Marvelle J. Ballentine.”",
+   "words": 33
+  },
+  {
+   "n": 227,
+   "section": "Count I",
+   "pages": [
+    38
+   ],
+   "text": "Hall acted, at a minimum, negligently. She issued the letter without verifying whether the subpoena had been formally served and without an internal review process adequate to determine the status of formal service or the absence of any obligation to respond at that time.",
+   "words": 44
+  },
+  {
+   "n": 228,
+   "section": "Count I",
+   "pages": [
+    38
+   ],
+   "text": "Hall knowingly characterized the letter as issued “[i]n response to” a subpoena before formal service. Plaintiff had not waived service. Plaintiff had not requested an early response. Hall’s knowing selection of that process language before formal service is circumstantial evidence of her intent in selecting and presenting the report assertion that accompanied it.",
+   "words": 53
+  },
+  {
+   "n": 229,
+   "section": "Count I",
+   "pages": [
+    38,
+    39
+   ],
+   "text": "Hall acted with actual malice as to the defamatory implication. She had obvious reasons to doubt that the information before her established that two reports concerned Plaintiff personally. Plaintiff had supplied the three identifiers. The letter linked them disjunctively. The letter identified no report-specific match and no disambiguation. Hall nonetheless chose wording that placed Plaintiff’s full legal name in the same sentence as “two CyberTipline reports,” and she omitted any clarification that a report might match only a different identifier, person, provider, platform, or event. These facts support the inference that Hall knew the implication was false or recklessly disregarded whether it was false, and that she intended the recipients to understand that the reports concerned Plaintiff personally. Hall also knew, or recklessly disregarded, the falsity of the source-level and person-level allegations pleaded in Section S.",
+   "words": 136
+  },
+  {
+   "n": 230,
+   "section": "Count I",
+   "pages": [
+    39
+   ],
+   "text": "Hall performed every act alleged in this Count within the scope of her employment as NCMEC’s Corporate Counsel and in performance of her responsibility for legal correspondence NCMEC issues in response to claimed legal process. She acted under her NCMEC title, on NCMEC letterhead, and from NCMEC’s Alexandria offices. NCMEC is liable for her conduct alleged in this Count.",
+   "words": 59
+  },
+  {
+   "n": 231,
+   "section": "Count I",
+   "pages": [
+    39
+   ],
+   "text": "NCMEC, acting through Hall and one or more additional personnel, approved the wording of the letter and authorized its issuance and transmission.",
+   "words": 22
+  },
+  {
+   "n": 232,
+   "section": "Count I",
+   "pages": [
+    39
+   ],
+   "text": "Because the letter is defamatory per se, Plaintiff is entitled under Virginia law to presumed damages without proof of actual injury. Plaintiff is a private-figure plaintiff.",
+   "words": 26
+  },
+  {
+   "n": 233,
+   "section": "Count I",
+   "pages": [
+    39
+   ],
+   "text": "Plaintiff has also suffered actual damages: humiliation, embarrassment, mental suffering, and injury to reputation.",
+   "words": 14
+  },
+  {
+   "n": 234,
+   "section": "Count I",
+   "pages": [
+    39
+   ],
+   "text": "The digital reproduction of the letter persists in the agency’s mail-management system, outside Plaintiff’s possession and control.",
+   "words": 17
+  },
+  {
+   "n": 235,
+   "section": "Count I",
+   "pages": [
+    39
+   ],
+   "text": "That system associates the reproduction with Plaintiff’s verified identity, Plaintiff’s full legal name, Plaintiff’s mailbox account, and Plaintiff’s photographic identification.",
+   "words": 20
+  },
+  {
+   "n": 236,
+   "section": "Count I",
+   "pages": [
+    39
+   ],
+   "text": "Plaintiff does not control that system’s access permissions, administrative access, audit logs, retention practices, or internal dissemination of scanned mail images associated with his mailbox account.",
+   "words": 26
+  },
+  {
+   "n": 237,
+   "section": "Count I",
+   "pages": [
+    39,
+    40
+   ],
+   "text": "Hall acted willfully, wantonly, and in conscious disregard of Plaintiff’s rights. She issued the letter knowing its pre-service process characterization and knowing, or recklessly disregarding, its defamatory implication. She has refused to correct it. She has defended it as accurate and proper. NCMEC approved the letter’s issuance and has not withdrawn, corrected, or retracted it. NCMEC’s filings in the 1341 Action are alleged only as evidence that, after notice of Plaintiff’s claims, NCMEC continued to maintain that the letter was accurate and proper. Plaintiff is entitled to punitive damages against Hall and NCMEC to the extent permitted by law, subject to Va. Code § 8.01-38.1.",
+   "words": 105
+  },
+  {
+   "n": 238,
+   "section": "Count II",
+   "pages": [
+    40
+   ],
+   "text": "Plaintiff incorporates by reference the allegations in the Preliminary Statement, Jurisdiction and Venue, Parties, and Scope of Allegations sections, and Sections A, B, I, J, K, L, M, O, R, and S of the Facts, as if fully set forth herein.",
+   "words": 41
+  },
+  {
+   "n": 239,
+   "section": "Count II",
+   "pages": [
+    40
+   ],
+   "text": "This Count is pleaded in the alternative under Federal Rule of Civil Procedure 8(d) (2).",
+   "words": 15
+  },
+  {
+   "n": 240,
+   "section": "Count II",
+   "pages": [
+    40
+   ],
+   "text": "On or about April 22, 2026, Hall published the April 22, 2026 letter referencing Case No. 6:26-cv-00286-AGM-DCI to third parties through the transmission and processing described in Section L of the Facts.",
+   "words": 32
+  },
+  {
+   "n": 241,
+   "section": "Count II",
+   "pages": [
+    40
+   ],
+   "text": "Publication first occurred in Virginia. It occurred when the commercial mail-receiving agency employee opened, reviewed, scanned, and uploaded the letter in the ordinary course of the transmission channel Hall selected. Further circulation occurred when the administrator of Plaintiff’s mailbox accounts later opened and read the forwarded letter.",
+   "words": 47
+  },
+  {
+   "n": 242,
+   "section": "Count II",
+   "pages": [
+    40,
+    41
+   ],
+   "text": "The digital reproduction of the letter, created by the agency on April 28, 2026, remains in the agency’s mail-management system. That system associates the reproduction with Plaintiff’s verified identity, Plaintiff’s full legal name, Plaintiff’s mailbox account, and Plaintiff’s photographic identification.",
+   "words": 40
+  },
+  {
+   "n": 243,
+   "section": "Count II",
+   "pages": [
+    41
+   ],
+   "text": "The letter is of and concerning Plaintiff. It identifies him as “Marvelle J. Ballentine” and “Jay Ballentine” and by the email address jaychizza@icloud.com.",
+   "words": 23
+  },
+  {
+   "n": 244,
+   "section": "Count II",
+   "pages": [
+    41
+   ],
+   "text": "The letter is defamatory per se. It imputes to Plaintiff the commission of a criminal offense involving moral turpitude for which Plaintiff, if the imputation were true, could be indicted and punished.",
+   "words": 32
+  },
+  {
+   "n": 245,
+   "section": "Count II",
+   "pages": [
+    41
+   ],
+   "text": "Hall, writing as NCMEC’s Corporate Counsel and on NCMEC letterhead, associated Plaintiff’s full legal name with two CyberTipline reports. The CyberTipline receives reports concerning suspected online child sexual exploitation, including the mandatory electronic-service-provider reports required by 18 U.S.C. § 2258A. A reasonable reader would understand the association to convey that NCMEC had received reports linking Plaintiff personally to suspected child-exploitation conduct and that the reported matter could be available to law enforcement.",
+   "words": 72
+  },
+  {
+   "n": 246,
+   "section": "Count II",
+   "pages": [
+    41
+   ],
+   "text": "In the alternative, if the letter is not defamatory per se on its face, it is defamatory by implication. Hall used the word “concerning.” She placed Plaintiff’s full legal name in the same sentence as “two CyberTipline reports.” She included no limiting language. The letter does not state that the reports might match only one identifier, might concern a different person, might have been submitted by a non-Meta provider, might be unrelated to Plaintiff’s Facebook account, or might not have resulted in any law-enforcement referral. Those omissions caused the letter to convey that the reports concern Plaintiff personally. The circumstances alleged above support a reasonable inference that Hall intended the letter to convey that meaning. The letter conveyed that meaning to the third parties who reviewed and read it.",
+   "words": 129
+  },
+  {
+   "n": 247,
+   "section": "Count II",
+   "pages": [
+    42
+   ],
+   "text": "The imputation, whether per se or by implication, is false. Plaintiff has not engaged in conduct constituting, or reasonably appearing to constitute, a violation of any statute enumerated in 18 U.S.C. § 2258A.",
+   "words": 33
+  },
+  {
+   "n": 248,
+   "section": "Count II",
+   "pages": [
+    42
+   ],
+   "text": "On information and belief, neither report referenced in the letter concerned Plaintiff personally. On information and belief, neither report, as originally received by NCMEC, contained or otherwise identified Plaintiff as “Marvelle J. Ballentine.”",
+   "words": 33
+  },
+  {
+   "n": 249,
+   "section": "Count II",
+   "pages": [
+    42
+   ],
+   "text": "Hall acted, at a minimum, negligently. She issued the letter without verifying whether the subpoena had been formally served and without an internal review process adequate to determine the status of formal service or the absence of any obligation to respond at that time.",
+   "words": 44
+  },
+  {
+   "n": 250,
+   "section": "Count II",
+   "pages": [
+    42
+   ],
+   "text": "Hall knowingly characterized the letter as issued “[i]n response to” a subpoena before formal service. Plaintiff had not waived service. Plaintiff had not requested an early response. Hall’s knowing selection of that process language before formal service is circumstantial evidence of her intent in selecting and presenting the report assertion that accompanied it.",
+   "words": 53
+  },
+  {
+   "n": 251,
+   "section": "Count II",
+   "pages": [
+    42,
+    43
+   ],
+   "text": "Hall acted with actual malice as to the defamatory implication. She had obvious reasons to doubt that the information before her established that two reports concerned Plaintiff personally. Plaintiff had supplied the three identifiers. The letter linked them disjunctively. The letter identified no report-specific match and no disambiguation. Hall nonetheless chose wording that placed Plaintiff’s full legal name in the same sentence as “two CyberTipline reports,” and she omitted any clarification that a report might match only a different identifier, person, provider, platform, or event. These facts support the inference that Hall knew the implication was false or recklessly disregarded whether it was false, and that she intended the recipients to understand that the reports concerned Plaintiff personally. Hall also knew, or recklessly disregarded, the falsity of the source-level and person-level allegations pleaded in Section S.",
+   "words": 136
+  },
+  {
+   "n": 252,
+   "section": "Count II",
+   "pages": [
+    43
+   ],
+   "text": "Hall performed every act alleged in this Count within the scope of her employment as NCMEC’s Corporate Counsel and in performance of her responsibility for legal correspondence NCMEC issues in response to claimed legal process. She acted under her NCMEC title, on NCMEC letterhead, and from NCMEC’s Alexandria offices. NCMEC is liable for her conduct alleged in this Count.",
+   "words": 59
+  },
+  {
+   "n": 253,
+   "section": "Count II",
+   "pages": [
+    43
+   ],
+   "text": "NCMEC, acting through Hall and one or more additional personnel, approved the wording of the letter and authorized its issuance and transmission.",
+   "words": 22
+  },
+  {
+   "n": 254,
+   "section": "Count II",
+   "pages": [
+    43
+   ],
+   "text": "Because the letter is defamatory per se, Plaintiff is entitled under Virginia law to presumed damages without proof of actual injury. Plaintiff is a private-figure plaintiff.",
+   "words": 26
+  },
+  {
+   "n": 255,
+   "section": "Count II",
+   "pages": [
+    43
+   ],
+   "text": "Plaintiff has also suffered actual damages: humiliation, embarrassment, mental suffering, and injury to reputation.",
+   "words": 14
+  },
+  {
+   "n": 256,
+   "section": "Count II",
+   "pages": [
+    43
+   ],
+   "text": "The digital reproduction of the letter persists in the agency’s mail-management system, outside Plaintiff’s possession and control.",
+   "words": 17
+  },
+  {
+   "n": 257,
+   "section": "Count II",
+   "pages": [
+    43
+   ],
+   "text": "That system associates the reproduction with Plaintiff’s verified identity, Plaintiff’s full legal name, Plaintiff’s mailbox account, and Plaintiff’s photographic identification.",
+   "words": 20
+  },
+  {
+   "n": 258,
+   "section": "Count II",
+   "pages": [
+    43
+   ],
+   "text": "Plaintiff does not control that system’s access permissions, administrative access, audit logs, retention practices, or internal dissemination of scanned mail images associated with his mailbox account.",
+   "words": 26
+  },
+  {
+   "n": 259,
+   "section": "Count II",
+   "pages": [
+    43,
+    44
+   ],
+   "text": "Hall acted willfully, wantonly, and in conscious disregard of Plaintiff’s rights. She issued the letter knowing its pre-service process characterization and knowing, or recklessly disregarding, its defamatory implication. She has refused to correct it. She has defended it as accurate and proper. NCMEC approved the letter’s issuance and has not withdrawn, corrected, or retracted it. NCMEC’s filings in the 1341 Action are alleged only as evidence that, after notice of Plaintiff’s claims, NCMEC continued to maintain that the letter was accurate and proper. Plaintiff is entitled to punitive damages against Hall and NCMEC to the extent permitted by law, subject to Va. Code § 8.01-38.1.",
+   "words": 105
+  },
+  {
+   "n": 260,
+   "section": "Count III",
+   "pages": [
+    44
+   ],
+   "text": "Plaintiff incorporates by reference the allegations in the Preliminary Statement, Jurisdiction and Venue, Parties, and Scope of Allegations sections, and Sections A, B, C, G, H, I, J, M, O, R, and S of the Facts, as if fully set forth herein.",
+   "words": 42
+  },
+  {
+   "n": 261,
+   "section": "Count III",
+   "pages": [
+    44
+   ],
+   "text": "On April 22, 2026, Hall directed two letters at Plaintiff. Each was keyed by caption and case number to a pending federal action. Each associated Plaintiff’s legal name, alternate name, and account identifier with two CyberTipline reports. Each called itself a response to a subpoena before formal service. No subpoena had been served. Plaintiff had not requested or authorized an early response. No court order required a response. A motion to stay discovery had been filed in each referenced action the day before. Hall issued the letters when no rule, order, or obligation required it, before the ruling dates the movants had requested and before the noticed depositions. Hall directed the case-keyed letters to Plaintiff alone. This Count rests on Hall’s direct transmission of that targeted correspondence to Plaintiff. It does not depend on third-party publication or reputational injury.",
+   "words": 139
+  },
+  {
+   "n": 262,
+   "section": "Count III",
+   "pages": [
+    44,
+    45
+   ],
+   "text": "Hall knew, before she issued the letters, that Plaintiff is a disclosed survivor of childhood sexual abuse. Section C alleges the disclosures. Hall understood the criminal and law-enforcement significance of associating a named individual with CyberTipline reports. She understood that invoking subpoena process before formal service would lend the assertion added official force. Hall directed at Plaintiff a communication associating his legal name with reporting concerning child sexual exploitation, the subject of the abuse he had disclosed. Hall knew, or recklessly disregarded, that directing that combination at a disclosed survivor of childhood sexual abuse created a high probability of acute emotional distress. Hall knew that the association, so directed, was substantially certain to cause Plaintiff acute emotional distress. She acted with intent to cause that distress, or in reckless disregard of the substantial certainty that it would result.",
+   "words": 138
+  },
+  {
+   "n": 263,
+   "section": "Count III",
+   "pages": [
+    45
+   ],
+   "text": "Directing at a disclosed survivor of childhood sexual abuse a false and unauthenticated association between that person and child-exploitation reporting offends the generally accepted standards of decency and morality and exceeds the bounds of what a civilized community tolerates.",
+   "words": 39
+  },
+  {
+   "n": 264,
+   "section": "Count III",
+   "pages": [
+    45
+   ],
+   "text": "Hall performed every act alleged in this Count within the scope of her employment as NCMEC’s Corporate Counsel and in performance of her responsibility for legal correspondence NCMEC issues in response to claimed legal process. NCMEC, acting through Hall and one or more additional personnel, approved the wording of the letters and authorized their issuance and transmission. NCMEC is liable for the conduct alleged in this Count.",
+   "words": 67
+  },
+  {
+   "n": 265,
+   "section": "Count III",
+   "pages": [
+    45
+   ],
+   "text": "Hall’s conduct directly and proximately caused Plaintiff severe emotional distress. Upon reading the letters on April 28, 2026, Plaintiff vomited. He suffered recurrent involuntary recollections of his own childhood sexual abuse. He lived in acute fear of imminent arrest and prosecution. Expecting to be taken into custody, he distanced himself from his own children. His sleep and eating were disrupted. He could not sustain attention on his work. That distress persisted in acute form until, days later, he recognized that no subpoena had been served. The distress was severe. It was beyond what a reasonable person could be expected to endure.",
+   "words": 101
+  },
+  {
+   "n": 266,
+   "section": "Count III",
+   "pages": [
+    46
+   ],
+   "text": "The severe emotional distress on which this Count rests arises from Hall’s direct transmission of the letters to Plaintiff and from their content. It does not arise from any apprehension that the letters would be published to, or read by, any other person.",
+   "words": 43
+  },
+  {
+   "n": 267,
+   "section": "Count III",
+   "pages": [
+    46
+   ],
+   "text": "As a direct and proximate result of the conduct alleged in this Count, Plaintiff sustained compensatory damages for mental anguish, severe emotional distress, physical manifestation, functional impairment, lost productive capacity, and loss of capacity for the enjoyment of life. Count III seeks no recovery for reputational injury.",
+   "words": 47
+  },
+  {
+   "n": 268,
+   "section": "Count III",
+   "pages": [
+    46
+   ],
+   "text": "The severe emotional distress alleged in this Count continued after the filing of the First Amended Complaint. The subsequent events alleged in Section O occurred while Plaintiff’s uncertainty concerning the two reports remained unresolved.",
+   "words": 34
+  },
+  {
+   "n": 269,
+   "section": "Count IV",
+   "pages": [
+    46
+   ],
+   "text": "Plaintiff incorporates by reference the allegations in the Preliminary Statement, Jurisdiction and Venue, Parties, and Scope of Allegations sections, and Sections A through J, Sections M through O, and Sections P through S of the Facts, as if fully set forth herein.",
+   "words": 42
+  },
+  {
+   "n": 270,
+   "section": "Count IV",
+   "pages": [
+    46
+   ],
+   "text": "Meta, Hall, and NCMEC are separate and legally distinct persons. Meta is a corporation. Hall is an individual. NCMEC is a non-profit corporation. Hall is not an officer, employee, agent, or authorized representative of Meta. NCMEC is not an affiliate, agent, or representative of Meta. The agreement alleged in Section N was reached between Meta, acting through one or more of its own officers, employees, agents, or authorized representatives, on one side, and Hall and NCMEC on the other. The combination alleged in this Count comprises at least two separate and legally distinct persons.",
+   "words": 94
+  },
+  {
+   "n": 271,
+   "section": "Count IV",
+   "pages": [
+    47
+   ],
+   "text": "Defendants reached the agreement alleged in Section N of the Facts. Section N pleads the nine facts on which that allegation rests, including the identical materials received by NCMEC and by counsel for Meta and Accenture, the April 21, 2026 motions directed at the same discovery, and the two letters, each keyed to a separate federal action, issued the next day before formal service and before any court ruled.",
+   "words": 69
+  },
+  {
+   "n": 272,
+   "section": "Count IV",
+   "pages": [
+    47
+   ],
+   "text": "The purpose of the agreement was to deter Plaintiff, by intimidation, from continuing to attend the 376 Action and the 286 Action as a party, and from testifying freely, fully, and truthfully as a prospective witness in those pending federal proceedings, as alleged in Section P of the Facts. The letters, on NCMEC letterhead and over the signature of its Corporate Counsel, associated Plaintiff’s full legal name with two CyberTipline reports, and they issued while the noticed depositions were imminent and the protective motions were pending.",
+   "words": 86
+  },
+  {
+   "n": 273,
+   "section": "Count IV",
+   "pages": [
+    47
+   ],
+   "text": "One or more Defendants committed acts in furtherance of the agreement, as alleged in Section Q of the Facts. Hall signed and transmitted the letters. NCMEC approved their issuance and authorized the use of its name, letterhead, and institutional identity.",
+   "words": 40
+  },
+  {
+   "n": 274,
+   "section": "Count IV",
+   "pages": [
+    47
+   ],
+   "text": "The acts in furtherance of the agreement injured Plaintiff in his person and materially impaired his attendance and testimony as a party and prospective witness, as alleged in Section R of the Facts. He became physically ill. He feared arrest and prosecution. He distanced himself from his children. He could not sustain attention on litigation materials.",
+   "words": 56
+  },
+  {
+   "n": 275,
+   "section": "Count IV",
+   "pages": [
+    47,
+    48
+   ],
+   "text": "Meta knowingly joined the agreement through one or more authorized representatives or intermediaries. Hall knowingly joined and implemented the agreement by preparing or approving the letters, signing them, and authorizing their transmission. NCMEC knowingly joined and implemented the agreement, acting through Hall and one or more additional personnel who approved the issuance of the letters. Each Doe Defendant is liable only to the extent the evidence establishes that the Doe knowingly joined or implemented the common plan.",
+   "words": 77
+  },
+  {
+   "n": 276,
+   "section": "Count IV",
+   "pages": [
+    48
+   ],
+   "text": "Meta’s August 13, 2026 filing in the 376 Action, alleged in Section O, is pleaded as a subsequent fact bearing on Meta’s knowledge, Meta’s state of mind, Meta’s awareness of the relationship between this action and the 376 Action, and the circumstantial allegations supporting this Count. It is not an independent basis for liability. Liability under this Count rests on the conduct alleged in Sections N, P, and Q of the Facts.",
+   "words": 72
+  },
+  {
+   "n": 277,
+   "section": "Count IV",
+   "pages": [
+    48
+   ],
+   "text": "Defendants’ conduct directly and proximately caused the injuries alleged in this Complaint.",
+   "words": 12
+  },
+  {
+   "n": 278,
+   "section": "Count IV",
+   "pages": [
+    48
+   ],
+   "text": "Defendants acted intentionally and with conscious disregard for Plaintiff’s federally protected status as a party and prospective witness, warranting punitive damages.",
+   "words": 21
+  },
+  {
+   "n": 279,
+   "section": "Count V",
+   "pages": [
+    48
+   ],
+   "text": "Plaintiff incorporates by reference the allegations in the Preliminary Statement, Jurisdiction and Venue, Parties, and Scope of Allegations sections, and Sections A through N and Sections P through S of the Facts, as if fully set forth herein.",
+   "words": 38
+  },
+  {
+   "n": 280,
+   "section": "Count V",
+   "pages": [
+    48
+   ],
+   "text": "This Count arises under the common law of Virginia.",
+   "words": 9
+  },
+  {
+   "n": 281,
+   "section": "Count V",
+   "pages": [
+    48
+   ],
+   "text": "Hall, NCMEC, Meta, and one or more Doe Defendants combined through the understanding alleged in Section N of the Facts. Meta is separate and legally distinct from Hall and from NCMEC, as this Complaint alleges. The combination comprised at least two separate and legally distinct persons.",
+   "words": 46
+  },
+  {
+   "n": 282,
+   "section": "Count V",
+   "pages": [
+    48
+   ],
+   "text": "The combination was carried out through the preparation, approval, issuance, transmission, and publication of the two April 22, 2026 letters. The publication of each letter constituted the defamation alleged in Counts I and II.",
+   "words": 34
+  },
+  {
+   "n": 283,
+   "section": "Count V",
+   "pages": [
+    49
+   ],
+   "text": "The participants understood and intended that the letters would travel through the selected commercial mail channel. They understood and intended that the third-party publication alleged in Counts I and II would occur in carrying out the understanding.",
+   "words": 37
+  },
+  {
+   "n": 284,
+   "section": "Count V",
+   "pages": [
+    49
+   ],
+   "text": "The participants committed the overt acts alleged in Section Q of the Facts. The publications alleged in Counts I and II occurred.",
+   "words": 22
+  },
+  {
+   "n": 285,
+   "section": "Count V",
+   "pages": [
+    49
+   ],
+   "text": "The participants acted intentionally, purposefully, and without lawful justification.",
+   "words": 9
+  },
+  {
+   "n": 286,
+   "section": "Count V",
+   "pages": [
+    49
+   ],
+   "text": "As a direct and proximate result of the combination and the acts in furtherance of it, Plaintiff sustained the damages alleged in Section R of the Facts and in Counts I and II: presumed damages, humiliation, embarrassment, mental suffering, and injury to reputation. Each participant is jointly and severally liable for those damages.",
+   "words": 53
+  },
+  {
+   "n": 287,
+   "section": "Count V",
+   "pages": [
+    49
+   ],
+   "text": "The participants acted willfully, wantonly, and in conscious disregard of Plaintiff’s rights, warranting punitive damages subject to Va. Code § 8.01-38.1.",
+   "words": 21
+  },
+  {
+   "n": 288,
+   "section": "Count VI",
+   "pages": [
+    49
+   ],
+   "text": "Plaintiff incorporates by reference the allegations in the Preliminary Statement, Jurisdiction and Venue, Parties, and Scope of Allegations sections, and Sections A, B, C, G, H, I, J, K, M, O, R, and S of the Facts, as if fully set forth herein.",
+   "words": 43
+  },
+  {
+   "n": 289,
+   "section": "Count VI",
+   "pages": [
+    49
+   ],
+   "text": "This Count is pleaded in the alternative under Federal Rule of Civil Procedure 8(d) (2). It does not depend on publication of either letter to any third party. It incorporates no allegation from Section L of the Facts.",
+   "words": 38
+  },
+  {
+   "n": 290,
+   "section": "Count VI",
+   "pages": [
+    49
+   ],
+   "text": "Hall directed each of the two April 22, 2026 letters to Plaintiff personally, at Plaintiff’s mailing address.",
+   "words": 17
+  },
+  {
+   "n": 291,
+   "section": "Count VI",
+   "pages": [
+    49,
+    50
+   ],
+   "text": "The words of each letter associated Plaintiff’s full legal name, alternate name, and email identifier with two CyberTipline reports, on NCMEC letterhead, over the signature of NCMEC’s Corporate Counsel, and framed as a response to subpoena process before formal service. Those words, in their usual construction and common acceptation, are insults that tend to violence and breach of the peace. In the context alleged in Section K of the Facts, the words convey the imputation described in that Section.",
+   "words": 79
+  },
+  {
+   "n": 292,
+   "section": "Count VI",
+   "pages": [
+    50
+   ],
+   "text": "The imputation each letter conveys is false. Plaintiff has not engaged in conduct constituting, or reasonably appearing to constitute, a violation of any statute enumerated in 18 U.S.C. § 2258A.",
+   "words": 30
+  },
+  {
+   "n": 293,
+   "section": "Count VI",
+   "pages": [
+    50
+   ],
+   "text": "On information and belief, neither report referenced in the letters concerned Plaintiff personally. On information and belief, neither report, as originally received by NCMEC, contained or otherwise identified Plaintiff as “Marvelle J. Ballentine.”",
+   "words": 33
+  },
+  {
+   "n": 294,
+   "section": "Count VI",
+   "pages": [
+    50
+   ],
+   "text": "Hall selected the words of each letter. She knowingly selected language stating that each letter responded to a subpoena before formal service, when Plaintiff had not waived service or requested an early response. She acted with knowledge or reckless disregard of the falsity of the imputation each letter conveyed.",
+   "words": 49
+  },
+  {
+   "n": 295,
+   "section": "Count VI",
+   "pages": [
+    50
+   ],
+   "text": "Hall performed every act alleged in this Count within the scope of her employment as NCMEC’s Corporate Counsel. NCMEC, acting through Hall and one or more additional personnel, approved the wording of the letters and authorized their issuance and transmission. NCMEC is liable for the conduct alleged in this Count.",
+   "words": 50
+  },
+  {
+   "n": 296,
+   "section": "Count VI",
+   "pages": [
+    50
+   ],
+   "text": "As a direct and proximate result of the conduct alleged in this Count, Plaintiff sustained the damages alleged in Section R of the Facts: humiliation, embarrassment, mental suffering, and severe emotional distress.",
+   "words": 32
+  },
+  {
+   "n": 297,
+   "section": "Count VI",
+   "pages": [
+    50
+   ],
+   "text": "Hall and NCMEC acted willfully, wantonly, and in conscious disregard of Plaintiff’s rights, warranting punitive damages subject to Va. Code § 8.01-38.1.",
+   "words": 22
+  }
+ ],
+ "other": [
+  {
+   "part": "caption",
+   "pages": [
+    1,
+    2
+   ],
+   "text": "EXHIBIT A\nUNITED STATES DISTRICT COURT\nFOR THE EASTERN DISTRICT OF VIRGINIA\nALEXANDRIA DIVISION\nMARVELLE J. BALLENTINE,\nPlaintiff,\nv. Case No. 1:26-cv-02331-RDA-IDD\nThe Honorable Judge\nRossie D. Alston Jr.\nKATIE HALL, individually;\nNATIONAL CENTER FOR MISSING & EXPLOITED CHILDREN;\nMETA PLATFORMS, INC.;\nand JOHN/JANE DOES 1-6,\nDefendants.\nSECOND AMENDED AND SUPPLEMENTAL COMPLAINT\nDEMAND FOR JURY TRIAL"
+  },
+  {
+   "part": "end matter",
+   "pages": [
+    51,
+    52
+   ],
+   "text": "PRAYER FOR RELIEF\nWHEREFORE, Plaintiff respectfully requests that this Court enter judgment in his favor and\nagainst Defendants and grant the following relief:\nA. On Counts I and II, against Defendants Hall and NCMEC, jointly and severally: (1)\ncompensatory damages in the amount of $42,820,260, including presumed damages and\nactual damages; and (2) punitive damages to the extent supported by actual malice findings,\nsubject to the cap established by Va. Code § 8.01-38.1.\nB. On Count III, against Defendants Hall and NCMEC, jointly and severally:\ncompensatory damages.\nC. On Count IV, against all Defendants, jointly and severally: compensatory damages\nin an amount to be determined by the jury; and punitive damages.\nD. On Count V, against all Defendants, jointly and severally: compensatory damages\nin an amount to be determined by the jury; and punitive damages subject to Va. Code §\n8.01-38.1.\nE. On Count VI, against Defendants Hall and NCMEC, jointly and severally:\ncompensatory damages; and punitive damages subject to Va. Code § 8.01-38.1.\nF. Costs of suit.\nG. Pre-judgment and post-judgment interest at the legal rate.\nH. Such other and further relief as the Court deems just and proper.\nDEMAND FOR JURY TRIAL\nPursuant to Federal Rule of Civil Procedure 38(b), Plaintiff demands a trial by jury on all\nissues so triable.¹\nDate: September 7, 2026 Respectfully submitted,\nMarvelle J. Ballentine\nPlaintiff, pro se\n1520 Belle View Blvd, Ste. #5847\nAlexandria, Virginia 22307\n(407) 794-6503\njayballentine@protonmail.com\n¹ Nomination of Judge Clarence Thomas to be Associate Justice of the Supreme Court of the\nUnited States: Hearings Before the S. Comm. on the Judiciary, 102d Cong. (1991) (statement of\nJudge Clarence Thomas, Oct. 11, 1991):\n“...It’s a national disgrace. And from my standpoint as a black American, as far as\nI’m concerned, it is a high-tech lynching...”\n“I would have preferred an assassin’s bullet to this kind of living hell that they have\nput me and my family through... I would rather die than withdraw.”"
+  }
+ ]
+}
