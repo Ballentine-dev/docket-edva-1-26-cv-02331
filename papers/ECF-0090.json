@@ -9,6 +9,46 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 12,
+ "words": 2991,
+ "refers_to": [
+  {
+   "id": "ECF-0084",
+   "description": "Order denying early interrogatories and leave to amend",
+   "words": "the Pending Objections in re 84 Order by Marvelle J. Ballentin"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0091",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting the motion to set aside denials",
+   "words": "Memorandum in Support re 90 MOTION to Set Aside the Amendme"
+  },
+  {
+   "id": "ECF-0092",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on that set-aside motion",
+   "words": "of Waiver of Oral Argument re 90 MOTION to Set Aside the Amendme"
+  },
+  {
+   "id": "ECF-0101",
+   "filed_by": "Meta",
+   "description": "Meta opposes the motions at ECF 90, 93",
+   "words": "E in Opposition re 93 MOTION, 90 MOTION to Set Aside 84 Order on"
+  },
+  {
+   "id": "ECF-0102",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's reply supporting the motions at ECF 90, 93",
+   "words": "idated Reply in Support in re 90 MOTION to Set Aside the Amendme"
+  },
+  {
+   "id": "NOH-A",
+   "filed_by": "Plaintiff",
+   "description": "Notices ECF 89, 90, 93, 97, 98 for December 16",
+   "words": "Noticed for hearing"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -58,6 +98,5 @@
    "page": 12,
    "text": "Case 1:26-cv-02331-RDA-IDD Document90_ Filed 10/13/26 Page 12 of 12 PagelD#\n893\n\nGENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\nCERTIFICATION\n\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\n\nDate: October 13, 2026\n\n—rD\n\nMarvelle J. Ballentine\nPlaintiff, pro se\n\n12"
   }
- ],
- "words": 2991
+ ]
 }

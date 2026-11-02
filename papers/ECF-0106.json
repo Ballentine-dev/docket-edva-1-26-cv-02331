@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 12,
+ "words": 3115,
+ "refers_to": [
+  {
+   "id": "ECF-0105",
+   "description": "Asks to order a Rule 26(f) conference",
+   "words": "Memorandum in Support in re 105 MOTION for an Order Directing C"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0107",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's declaration and exhibits on Rule 26(f) efforts",
+   "words": "Declaration in re 106 Memorandum in Support, filed by Mar"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -58,6 +74,5 @@
    "page": 12,
    "text": "Case 1:26-cv-02331-RDA-WEF             Document 106        Filed 10/28/26    Page 12 of 12 PageID#\n                                              1093\n\n\n\n      GENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\n                                          CERTIFICATION\n\n         Plaintiff prepared this filing in part using generative AI-assisted agentic motion drafting\n\n  through a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\n\n  reviewed all citations to legal authorities and the record for accuracy.\n\n         Date: October 28, 2026\n\n\n\n\n                                                                             Marvelle J. Ballentine\n                                                                                  Plaintiff, pro se\n\n\n\n\n                                                   12"
   }
- ],
- "words": 3115
+ ]
 }

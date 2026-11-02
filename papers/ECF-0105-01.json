@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 3,
+ "words": 638,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -22,6 +25,5 @@
    "page": 3,
    "text": "Case 1:26-cv-02331-RDA-WEF            Document 105-1        Filed 10/28/26        Page 3 of 3 PageID#\n                                             1081\n\n\n\n  Fed. R. Civ. P. 26(f)(l) and 26(f)(4) and Local Civil Rule 26(A)(l) are shortened to the extent\n\n  necessary to meet the dates set by this Order or by any such order.\n\n         8.      Existing matters. Nothing in this Order adjudicates any pending motion, defense,\n\n  or objection, including the pending motions to dismiss (ECF 10, 21, 45) and the pending objections\n\n  and applications concerning ECF 84 and ECF 96, and nothing in this Order modifies any existing\n\n  order except as expressly provided. Participation in the conference does not waive any defense,\n\n  including any asserted immunity, and does not require any party's agreement with any other\n\n  party's proposal.\n\n         It is SO ORDERED.\n\n  Alexandria, Virginia\n  _ _ _ _ ,2026\n\n                                                                                William E. Fitzpatrick\n                                                                        United States Magistrate Judge\n\n\n\n\n                                                  3"
   }
- ],
- "words": 638
+ ]
 }

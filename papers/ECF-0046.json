@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 224,
+ "refers_to": [
+  {
+   "id": "ECF-0015",
+   "description": "Asks leave to serve three early interrogatories on NCMEC",
+   "words": "Opposition to 15 MOTION for Leave to Serve Three"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0052",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's reply to Hall's opposition on interrogatories",
+   "words": "REPLY to 46 Opposition, filed by Marvelle J. Ba"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +34,5 @@
    "page": 2,
    "text": "CERTIFICATE OF SERVICE\n\n       I hereby certify that true and correct copies of this Opposition were electronically filed\n\nand served, and were served via first-class mail, postage prepaid, and electronic mail, on this 2nd\n\nday of September, 2026, upon:\n\n                      Marvelle J. Ballentine\n                      1520 Belle View Boulevard, Suite 5847\n                      Alexandria, VA 22307\n                      jayballentine@protonmail.com\n                      Pro Se Plaintiff\n\n\n                                                      /s/ Padraic K. Keane\n                                                     Padraic K. Keane"
   }
- ],
- "words": 224
+ ]
 }

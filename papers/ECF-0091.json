@@ -9,6 +9,20 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 29,
+ "words": 8847,
+ "refers_to": [
+  {
+   "id": "ECF-0084",
+   "description": "Order denying early interrogatories and leave to amend",
+   "words": "ion of the Pending Objections 84 Order filed by Marvelle J. Bal"
+  },
+  {
+   "id": "ECF-0090",
+   "description": "Asks Alston to set aside those same denials",
+   "words": "Memorandum in Support re 90 MOTION to Set Aside the Amendme"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -126,6 +140,5 @@
    "page": 29,
    "text": "Case 1:26-cv-02331-RDA-IDD Document91_ Filed 10/13/26 Page 29 of 29 PagelD#\n933\n\nGENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\nCERTIFICATION\n\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\n\nDate: October 13, 2026\n\n—rD\n\nMarvelle J. Ballentine\nPlaintiff, pro se\n\n29"
   }
- ],
- "words": 8847
+ ]
 }

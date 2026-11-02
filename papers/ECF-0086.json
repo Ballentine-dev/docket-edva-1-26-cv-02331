@@ -9,6 +9,32 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 9,
+ "words": 2027,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0087",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting the motion to disqualify Judge Davis",
+   "words": "Memorandum in Support re 86 MOTION to Disqualify Magistrate"
+  },
+  {
+   "id": "ECF-0088",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on the disqualification motion",
+   "words": "of Waiver of Oral Argument re 86 MOTION to Disqualify Magistrate"
+  },
+  {
+   "id": "ECF-0096",
+   "filed_by": "Court",
+   "description": "Order denying disqualification as moot after case reassignment",
+   "words": "nd for Priority Determination 86 (Motion). This matter can be reso"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0096",
+  "words": "DENIED AS MOOT"
+ },
  "pages": [
   {
    "page": 1,
@@ -46,6 +72,5 @@
    "page": 9,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 86 Filed 10/13/26 Page 9 of 9 PagelD# 831\n\nGENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\nCERTIFICATION\n\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\n\nDate: October 13, 2026\n\n—rD\n\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 2027
+ ]
 }

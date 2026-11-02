@@ -9,6 +9,38 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 7,
+ "words": 1383,
+ "refers_to": [
+  {
+   "id": "ECF-0015",
+   "description": "Asks leave to serve three early interrogatories on NCMEC",
+   "words": "of His Rule 26(d)(1) Motion, ECF No. 15, Addressing NCMEC's Septem"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0079",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting leave to supplement that memorandum",
+   "words": "Memorandum in Support re 78 MOTION for Leave to File a Supp"
+  },
+  {
+   "id": "ECF-0080",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on that supplement request",
+   "words": "of Waiver of Oral Argument re 78 MOTION for Leave to File a Supp"
+  },
+  {
+   "id": "ECF-0082",
+   "filed_by": "Court",
+   "description": "Order granting supplement; accepted as reply on interrogatories",
+   "words": "ORDER granting 78 Motion for Leave to File a Supp"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0082",
+  "words": "granting 78 Motion"
+ },
  "pages": [
   {
    "page": 1,
@@ -38,6 +70,5 @@
    "page": 7,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 78 Filed 09/18/26 Page 7 of 7 PagelD# 783\n\nhis Rule 72(a) Objections. ECF No. 68. Plaintiff requests approval of this method, or specification\nof a different method, for any requirement that remains in effect.\n\nDate: September 18, 2026\n\nrp\n\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 1383
+ ]
 }

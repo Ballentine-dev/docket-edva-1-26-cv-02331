@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 9,
+ "words": 2231,
+ "refers_to": [
+  {
+   "id": "ECF-0054",
+   "description": "Asks leave to serve four early interrogatories on Meta",
+   "words": "Reply in Support of 54 MOTION Under Federal Rule of Ci"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -46,6 +55,5 @@
    "page": 9,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 81 Filed 09/21/26 Page 9 of 9 PagelD# 807\n\nGENERATIVE-ARTIFICIAL-INTELLIGENCE DISCLOSURE AND\n\nCITATION CERTIFICATION PURSUANT TO ECF NOS. 63 AND 65\n\nPursuant to the Orders entered September 9, 2026 (ECF No. 63) and September 10, 2026\n(ECF No. 65), Plaintiff states as follows.\n\n1. Identification of use. Plaintiff used generative artificial intelligence in the preparation\nof the Reply, the Certificate of Service, the Certification Pursuant to Local Civil Rule 83.1(N), and\nthis Disclosure and Certification. The assistance consisted of research, drafting, and revision of\ntext; retrieval of docket entries and filed documents from the public RECAP archive; and\nverification of record citations against the docket. Plaintiff reviewed, edited, and adopted each\ndocument as his own submission.\n\n2. Citation review. Plaintiff certifies that he has reviewed each citation to legal authority\nand each citation to the record in the documents identified in paragraph 1 for accuracy. Plaintiff\nperformed that review using automated citation-verification tools to verify cited authorities against\npublished sources and by comparing each record citation to the document as docketed.\n\n3. Method. ECF Nos. 63 and 65 do not specify the form or placement of this disclosure.\nPlaintiff places the disclosure and certification following the signature block of the filing it covers.\nPlaintiff provides this disclosure and certification while maintaining the objections presented in\nECF Nos. 66 and 68.\n\nDate: September 21, 2026\n\nrp\n\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 2231
+ ]
 }

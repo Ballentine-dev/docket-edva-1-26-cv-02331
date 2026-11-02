@@ -9,6 +9,20 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 26,
+ "words": 8004,
+ "refers_to": [
+  {
+   "id": "ECF-0066",
+   "description": "Objections to magistrate's orders at ECF 63, 64, 65",
+   "words": "Marvelle J. Ballentine in re 66 MOTION Re: Rule 72(a) Objection"
+  },
+  {
+   "id": "ECF-0067",
+   "description": "Asks to set aside redline order, restore argument",
+   "words": "e's Ruling or Recommendation, 67 MOTION to Set Aside ECF No. 64,"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -114,6 +128,5 @@
    "page": 26,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 68 _ Filed 09/14/26 Page 26 of 26 PagelD#\n722\n\nGENERATIVE-ARTIFICIAL-INTELLIGENCE DISCLOSURE AND\n\nCITATION CERTIFICATION (ECF Nos. 63, 65)\n\nPlaintiff used generative artificial intelligence in the preparation of this Memorandum. The\nassistance consisted of research, drafting, and revision of text; retrieval of docket entries and filed\ndocuments from the public RECAP archive; and verification of record citations against the docket.\nPlaintiff reviewed, edited, and adopted this Memorandum as his own submission. Plaintiff certifies\nthat he has reviewed each citation to legal authority and each citation to the record in this\nMemorandum for accuracy, by using automated citation-verification tools to verify cited\nauthorities against published sources, and by comparing each record citation to the document as\ndocketed. Plaintiff supplies this disclosure and certification while maintaining the authority-and-\n\nscope objection stated in Part IX of the Memorandum in Support of his Rule 72(a) Objections.\n\nrp\n\nMarvelle J. Ballentine\nSeptember 13, 2026"
   }
- ],
- "words": 8004
+ ]
 }

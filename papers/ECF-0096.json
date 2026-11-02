@@ -9,11 +9,50 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 1,
+ "words": 146,
+ "refers_to": [
+  {
+   "id": "ECF-0086",
+   "description": "Asks to disqualify Magistrate Judge Davis, decide first",
+   "words": "nd for Priority Determination 86 (Motion). This matter can be reso"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0097",
+   "filed_by": "Plaintiff",
+   "description": "Objections to order calling disqualification motion moot",
+   "words": "Rule 72(a) Objections to 96 ORDER, filed by Marvelle J. Ba"
+  },
+  {
+   "id": "ECF-0098",
+   "filed_by": "Plaintiff",
+   "description": "Asks Alston to set aside that mootness order",
+   "words": "Marvelle J. Ballentine in re 96 ORDER. (triv)"
+  },
+  {
+   "id": "PKG-01-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks Alston to decide ECF 96 questions first",
+   "words": "Proceedings Concerning ECF No. 96"
+  },
+  {
+   "id": "PKG-02-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks to vacate mootness order over Davis's Meta stock",
+   "words": "Motion to Vacate ECF No. 96"
+  }
+ ],
+ "decides": [
+  {
+   "id": "ECF-0086",
+   "words": "DENIED AS MOOT"
+  }
+ ],
  "pages": [
   {
    "page": 1,
    "text": "Case 1:26-cv-02331-RDA-WEF              Document 96      Filed 10/22/26      Page 1 of 1 PageID# 976\n\n\n                                IN THE UNITED STATES DISTRICT COURT\n                                FOR THE EASTERN DISTRICT OF VIRGINIA\n                                           Alexandria Division\n\n\n   MARVELLE J. BALLENTINE                            )\n                                                     )\n                                                     )\n                   Plaintiff,                        )\n                                                     )\n   v.                                                )   Civil Action No. 1:26-cv-2331 (RDA/IDD)\n                                                     )\n   KATIE HALL, et al.,                               )\n                                                     )\n                                                     )\n                   Defendants.                       )\n                                                     )\n\n                                                ORDER\n\n        This matter is before the Court on Plaintiff’s Motion to Disqualify Magistrate Judge Ivan D. Davis\n\nUnder 28 U.S.C. § 455(b)(4) and § 455(a), and for Priority Determination [Dkt. No. 86] (“Motion”). This\n\nmatter can be resolved without oral argument, as such argument would not aid the decisional process.\n\nUpon consideration of Motion, it is hereby\n\n        ORDERED that Plaintiff’s Motion is DENIED AS MOOT. The case has been reassigned to\n\nMagistrate Judge William E. Fitzpatrick.\n\n        ENTERED this 22nd day of October 2026.\n\n\n\n                                                                            /s/\n                                                                Ivan D. Davis\n           Alexandria, Virginia                                 United States Magistrate Judge"
   }
- ],
- "words": 146
+ ]
 }

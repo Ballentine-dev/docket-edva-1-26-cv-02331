@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 3,
+ "words": 658,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -22,6 +25,5 @@
    "page": 3,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 68-1 Filed 09/14/26 Page 3 of 3 PagelD#\n\n725\n10. As of the execution of this declaration, I have not received a mailed copy of ECF\nNo. 62, 63, 64, or 65 at my address of record.\n11. I file documents in this action through the Court's Electronic Document Submission\n\nSystem. Using that system has not enrolled me in electronic noticing. My accepted submissions\nhave been marked filed as of the date I submitted them.\n\n12. Generative artificial intelligence assisted with the form of this declaration. The\nfactual statements are my own and are based on my personal knowledge. I have reviewed the\nrecord references in this declaration for accuracy.\n\nI declare under penalty of perjury under the laws of the United States of America that the\nforegoing is true and correct.\n\nExecuted on September 13, 2026.\n\nrp\n\nMarvelle J. Ballentine"
   }
- ],
- "words": 658
+ ]
 }

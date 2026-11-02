@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 4,
+ "words": 604,
+ "refers_to": [
+  {
+   "id": "ECF-0026",
+   "description": "Asks leave to supplement the complaint; later withdrawn",
+   "words": "Reply in Support of His Motion for Leave to File a Supplemental Complaint"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -26,6 +35,5 @@
    "page": 4,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 35 _ Filed 08/26/26 Page 4 of 4 PagelD# 378\n\nCERTIFICATION PURSUANT TO LOCAL CIVIL RULE 83.1(N)\n\nPursuant to Local Civil Rule 83.1(N), I declare under penalty of perjury that no attorney\nhas prepared, or assisted in the preparation of, the foregoing Reply in Support of Plaintiff’s Motion\nfor Leave to File a Supplemental Complaint Pursuant to Federal Rule of Civil Procedure 15(d)\n\n(ECF No. 26).\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\n~*D\n\nSignature of Pro Se Litigant\n\nDated: August 26, 2026"
   }
- ],
- "words": 604
+ ]
 }

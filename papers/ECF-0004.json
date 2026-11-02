@@ -9,6 +9,16 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 575,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "NoNumber-2026-08-06-112",
+   "filed_by": "Court",
+   "description": "Clerk flags wrong summons page on ECF 4",
+   "words": "Notice of Correction in re 4 SUMMONS Returned Executed. The f"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +28,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD                              Document 4   Filed 08/06/26          Page 2 of 2 PageID# 62\nAO 440 (Rev. 06/12) Summons in a Civil Action (Page 2)\n\nCivil Action No. 1:26-cv-02331-RDA-IDD\n\n                                                          PROOF OF SERVICE\n                          (This section should not be filed with the court unless required by Fed. R. Civ. P. 4 (l))\n\n        This summons for (name of individual and title, if any) Meta Platforms, Inc. was received by me on (date) 7/30/26.\n\n                 I personally served the summons on the individual at (place)                                 on (date)\n                                           ; or\n                 I left the summons at the individual’s residence or usual place of abode with (name)                                  ,a\n                 person of suitable age and discretion who resides there, on (date)                                  , and mailed a copy to\n                 the individual’s last known address; or\n          X      I served the summons on (name of individual) Rebecca Vang / Associate Intake Coordinator , who is designated by\n                 law to accept service of process on behalf of (name of organization) CSC Lawyers Incorporatin Service on (date)\n                 Fri, Jul 31 2026 ; or\n                 I returned the summons unexecuted because:                                ; or\n                 Other:                                  ; or\n\n        My fees are $ 0.00 for travel and $ 63.25 for services, for a total of $ 63.25.\n\n        I declare under penalty of perjury that this information is true.\n\n\nDate: 08/02/2026\n\n\n\n                                                                                              Server's signature\n                                                                       Demian Ross #2011-66\n                                                                                           Printed name and title\n\n\n                                                                       5407 Palm Avenue, Sacramento, CA 95841\n                                                                                                  Server's address\n\nAdditional information regarding attempted service, etc.:\n1) Successful Attempt: Jul 31, 2026, 1:30 pm PDT at CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N,\nSacramento, CA 95833 received by Rebecca Vang / Associate Intake Coordinator.\n\nDocumetns served: Letter to Meta Platofrms re: Settlement Communications, Settlement Communication - Subject to Federal Rule\nof Evidence 408 - NCMEC, Settlement Communication - Subject to Federal Rule of Evidence 408 - Hall, AO440, Complaint"
   }
- ],
- "words": 575
+ ]
 }

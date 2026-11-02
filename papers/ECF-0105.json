@@ -9,6 +9,32 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 9,
+ "words": 1829,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0106",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting the Rule 26(f) conference motion",
+   "words": "Memorandum in Support in re 105 MOTION for an Order Directing C"
+  },
+  {
+   "id": "ECF-0108",
+   "filed_by": "Court",
+   "description": "Order denying ECF 103, 105 without prejudice",
+   "words": "ordingly, Plaintiffs Motions (Dkts. 103, 105 ) are DENIED without prej"
+  },
+  {
+   "id": "PKG-05-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
+   "words": "Motion to Reconsider ECF No. 108 as to ECF No. 105"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0108",
+  "words": "DENIED without prejudice"
+ },
  "pages": [
   {
    "page": 1,
@@ -46,6 +72,5 @@
    "page": 9,
    "text": "Case 1:26-cv-02331-RDA-WEF             Document 105         Filed 10/28/26   Page 9 of 9 PageID#\n                                             1078\n\n\n\n     GENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\n                                         CERTIFICATION\n\n        Plaintiff prepared this filing in part using generative AI-assisted agentic motion drafting\n\n through a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\n\n reviewed all citations to legal authorities and the record for accuracy.\n\n        Date: October 28, 2026\n\n\n\n\n                                                                             Marvelle J. Ballentine\n                                                                                  Plaintiff, pro se\n\n\n\n\n                                                   9"
   }
- ],
- "words": 1829
+ ]
 }

@@ -9,11 +9,13 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 1,
+ "words": 127,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
    "text": "Case 1:26-cv-02331-RDA-IDD          Document 45-1        Filed 09/02/26     Page 1 of 1 PageID#\n                                           436\n\n\n\n                          UNITED STATES DISTRICT COURT\n                       FOR THE EASTERN DISTRICT OF VIRGINIA\n                                 Alexandria Division\n\n MARVELLE J. BALLENTINE,                     )\n                                             )\n         Plaintiff,                          )\n                                             )\n v.                                          )       Case No. 1:26-CV-02331-RDA-IDD\n                                             )\n THE NATIONAL CENTER FOR                     )\n MISSING & EXPLOITED CHILDREN,               )\n ET AL.,                                     )\n                                             )\n         Defendants.                         )\n\n                                             ORDER\n\n         UPON CONSIDERATION of the Motion to Dismiss of Defendant Katie Hall, Esq., any\n\n Opposition thereto, and the entire record herein, it is, this _____ day of _________________,\n\n 2026,\n\n         ORDERED, that the Motion be, and the same hereby is, GRANTED; and it is\n\n         FURTHER ORDERED, that Plaintiff’s Amended Complaint is dismissed, with prejudice,\n\n as to Defendant Katie Hall, Esq.\n\n\n\n\n                                                     U.S. District Court Judge\n\n Copies to: Pro Se Plaintiff and All Counsel of Record"
   }
- ],
- "words": 127
+ ]
 }

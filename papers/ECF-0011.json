@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 17,
+ "words": 5238,
+ "refers_to": [
+  {
+   "id": "ECF-0010",
+   "description": "NCMEC asks the Court to dismiss the complaint",
+   "words": "Memorandum in Support of 10 MOTION to Dismiss filed by Nati"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -78,6 +87,5 @@
    "page": 17,
    "text": "Case 1:26-cv-02331-RDA-IDD           Document 11        Filed 08/12/26     Page 17 of 17 PageID#\n                                             227\n\n\n\n subpoenas as he did. That regret is not a basis for liability on the part of NCMEC, and the matter\n\n should be dismissed. Further, given that Plaintiff previously filed, and voluntarily dismissed, a\n\n highly-similar complaint, has already amended his Complaint in this action once, and given that\n\n amendment would be futile, NCMEC respectfully requests that dismissal be with prejudice, and\n\n Plaintiff not be granted leave to amend.\n\n                                              Respectfully submitted,\n\n                                              JORDAN COYNE LLP\n\n                                               /s/ Padraic K. Keane\n                                              10201 Fairfax Boulevard, Suite 520\n                                              Fairfax, VA 22030\n                                              (703) 246-0900\n                                              Fax: (703) 591-3673\n                                              p.keane@jocs-law.com\n                                              Counsel for Defendant the National Center\n                                              For Missing and Exploited Children\n\n\n\n\n                                                 17"
   }
- ],
- "words": 5238
+ ]
 }

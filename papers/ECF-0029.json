@@ -9,6 +9,20 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 5,
+ "words": 744,
+ "refers_to": [
+  {
+   "id": "ECF-0010",
+   "description": "NCMEC asks the Court to dismiss the complaint",
+   "words": "MOTION to Continue Hearing on Motion to Dismiss"
+  },
+  {
+   "id": "ECF-0026",
+   "description": "Asks leave to supplement the complaint; later withdrawn",
+   "words": "pending Resolution of Rule 15(d) Motion"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +44,5 @@
    "page": 5,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 29 Filed 08/20/26 Page 5 of 5 PagelD# 334\n\nCERTIFICATE OF SERVICE\n\nI certify that on August 20, 2026, I submitted the foregoing Plaintiff’s Motion to Continue\nHearing on NCMEC’s Motion to Dismiss Pending Resolution of Plaintiff’s Rule 15(d) Motion,\nwhich contains the certification required by Local Civil Rule 83.1(N), to the Clerk of Court through\nthe Court’s Electronic Document Submission System for docketing on CM/ECF. Upon docketing,\ncounsel for Defendant National Center for Missing & Exploited Children will receive notice\nthrough the Court’s CM/ECF system. Pursuant to Federal Rules of Civil Procedure 5(a)(1) and 5(b)\n(2)(C), I served a true and correct copy of the foregoing by first-class mail, postage prepaid,\naddressed as follows: Katie Hall, c/o National Center for Missing & Exploited Children, 333 John\nCarlyle Street, Suite 125, Alexandria, Virginia 22314; and Meta Platforms, Inc., c/o CSC -\n\nLawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California\n\nrp\n\nMarvelle J. Ballentine\n\n95833."
   }
- ],
- "words": 744
+ ]
 }

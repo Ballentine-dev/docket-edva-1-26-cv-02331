@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 7,
+ "words": 1367,
+ "refers_to": [
+  {
+   "id": "ECF-0043",
+   "description": "Asks leave to file sur-reply to Meta's reply",
+   "words": "Memorandum in Support in re 43 MOTION for Leave to File Sur-Re"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -38,6 +47,5 @@
    "page": 7,
    "text": "CERTIFICATION PURSUANT TO LOCAL CIVIL RULE 83.1(N)\n\nPursuant to Local Civil Rule 83.1(N), I declare under penalty of perjury that no attorney\nhas prepared, or assisted in the preparation of, the foregoing Memorandum in Support of Plaintiff’s\n\nMotion for Leave to File Sur-Reply.\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\nrp\n\nSignature of Pro Se Litigant\nDated: September 1, 2026"
   }
- ],
- "words": 1367
+ ]
 }

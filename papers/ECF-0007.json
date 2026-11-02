@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 10,
+ "words": 2303,
+ "refers_to": [
+  {
+   "id": "ECF-0006",
+   "description": "Plaintiff's first motion for partial summary judgment",
+   "words": "Memorandum in Support in re 6 MOTION for Partial Summary Judg"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0009",
+   "filed_by": "Plaintiff",
+   "description": "Amended proof of service of summary judgment papers",
+   "words": "for Partial Summary Judgment, 7 Memorandum in Support. (triv)"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -50,6 +66,5 @@
    "page": 10,
    "text": "Case 1:26-cv-02331-RDA-IDD          Document 7        Filed 08/06/26      Page 10 of 10 PageID# 129\n                                                                                                        08/06/2026\n\n\n\n\n                            UNITED STATES DISTRICT COURT\n                         FOR THE EASTERN DISTRICT OF VIRGINIA\n                                 ALEXANDRIA DIVISION\n\n\n  MARVELLE J. BALLENTINE,\n\n                 Plaintiff,\n\n                 V.                                              Case No. 1:26-cv-02331-RDA-IDD\n                                                                 The Honorable Judge\n                                                                 Rossie D. Alston Jr.\n\n\n  KATIE HALL, individually;\n  NATIONAL CENTER FOR MISSING & EXPLOITED CHILDREN;\n  META PLATFORMS, INC.;\n  and JOHN/JANE DOES 1-6,\n\n         Defendants.\n\n\n                        LOCAL CIVIL RULE 83.l(N) CERTIFICATION\n\n  I, Marvelle J. Ballentine, Plaintiff pro se in the above-captioned action, declare under penalty of\n\n  perjury pursuant to 28 U.S.C. § 1746 that no attorney has prepared, or assisted in the preparation\n\n  of, Plaintiff's Motion for Partial Summary Judgment, the Memorandum in Support thereof, the\n\n  Declaration of Marvelle J. Ballentine and Exhibits 1 through 8 thereto, or the Proposed Order,\n\n  filed in the above-captioned action.\n\n\n  Executed on August 6, 2026.\n\n\n\n\n                                                                               Marvelle J. Ballentine\n                                                                                    Plaintiff, Pro Se\n                                                                   1520 Belle View Blvd, Ste. #5847\n                                                                              Alexandria, VA 22307\n                                                                                    (407) 794-6503\n                                                                      jayballentine@protonmail.com"
   }
- ],
- "words": 2303
+ ]
 }

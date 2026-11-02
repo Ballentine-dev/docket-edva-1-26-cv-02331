@@ -9,6 +9,20 @@
  "status": "Docketed",
  "text_source": "Plaintiff's file copy, not the docketed image",
  "page_count": null,
+ "words": 565,
+ "refers_to": [
+  {
+   "id": "ECF-0084",
+   "description": "Order denying early interrogatories and leave to amend",
+   "words": "ion of the Pending Objections 84 Order o by Marvelle J. Ballent"
+  },
+  {
+   "id": "ECF-0090",
+   "description": "Asks Alston to set aside those same denials",
+   "words": "of Waiver of Oral Argument re 90 MOTION to Set Aside the Amendme"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +44,5 @@
    "page": 5,
    "text": "GENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\nCERTIFICATION\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\nDate: October 13, 2026\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 565
+ ]
 }

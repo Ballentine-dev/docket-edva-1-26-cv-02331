@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 4,
+ "words": 416,
+ "refers_to": [
+  {
+   "id": "ECF-0054",
+   "description": "Asks leave to serve four early interrogatories on Meta",
+   "words": "Marvelle J. Ballentine in re 54 MOTION Under Federal Rule of Ci"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -26,6 +35,5 @@
    "page": 4,
    "text": "Case 1:26-cv-02331-RDA-IDD Document56~ Filed 09/03/26 Page 4 of 4 PagelD# 478\n\nCERTIFICATE OF SERVICE\n\nI hereby certify that on September 3, 2026, I submitted the foregoing Notice of Hearing,\ntogether with the accompanying Local Civil Rule 83.1(N) Certification, to the Clerk of Court for\nfiling through the Court’s Electronic Document Submission System (EDSS).\n\nI further certify that, upon the Clerk’s docketing of the submission on the Court’s Case\nManagement/Electronic Case Filing (CM/ECF) system, a Notice of Electronic Filing will be\ntransmitted to all counsel of record, who are registered users of that system and will be served\n\nthrough that means.\n\n—rD\n\nMarvelle J. Ballentine"
   }
- ],
- "words": 416
+ ]
 }

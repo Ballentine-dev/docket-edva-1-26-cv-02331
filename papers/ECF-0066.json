@@ -9,6 +9,44 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 11,
+ "words": 2146,
+ "refers_to": [
+  {
+   "id": "ECF-0063",
+   "description": "Order denying remote appearance as moot, cancelling interrogatory hearing",
+   "words": "Marvelle J. Ballentine in re 63 ORDER, 64 ORDER, 65 ORDER.  (t"
+  },
+  {
+   "id": "ECF-0064",
+   "description": "Order requiring a redline of the proposed complaint",
+   "words": "J. Ballentine in re 63 ORDER, 64 ORDER, 65 ORDER.  (triv)"
+  },
+  {
+   "id": "ECF-0065",
+   "description": "Order cancelling hearing, setting briefing, requiring AI disclosure",
+   "words": "ine in re 63 ORDER, 64 ORDER, 65 ORDER.  (triv)"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0068",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting those objections and the set-aside motion",
+   "words": "Marvelle J. Ballentine in re 66 MOTION Re: Rule 72(a) Objection"
+  },
+  {
+   "id": "ECF-0076",
+   "filed_by": "Plaintiff",
+   "description": "Asks leave to report later record developments on objections",
+   "words": "Relevant to Pending Rule 72(a) Objections"
+  },
+  {
+   "id": "ECF-0085",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on ECF 66, 67, 76",
+   "words": "of Waiver of Oral Argument re 66 MOTION Re: Rule 72(a) Objection"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -54,6 +92,5 @@
    "page": 11,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 66 Filed 09/14/26 Page 11 of 11 PagelD#\n665\n\nPlaintiff requests approval of this method, or specification of a different method, for any\n\nrequirement that remains in effect.\n\nDate: September 13, 2026\n\nrp\n\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 2146
+ ]
 }

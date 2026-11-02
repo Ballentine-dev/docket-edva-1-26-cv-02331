@@ -6,7 +6,8 @@
 "description": "Attachment 1 to ECF 1: Receipt 100017629",
 "page_count": 1,
 "words": 122,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0001-02",
@@ -15,7 +16,8 @@
 "description": "Attachment 2 to ECF 1: Civil Cover Sheet",
 "page_count": 2,
 "words": 1850,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0001",
@@ -24,7 +26,8 @@
 "description": "Original complaint against Hall, NCMEC, Meta, and Does",
 "page_count": 49,
 "words": 13235,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0002",
@@ -33,7 +36,8 @@
 "description": "Clerk issues summonses for the named defendants",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "ECF-0003",
@@ -42,7 +46,8 @@
 "description": "Proof NCMEC was served with the summons",
 "page_count": 2,
 "words": 567,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0004",
@@ -51,7 +56,8 @@
 "description": "Proof Meta was served with the summons",
 "page_count": 2,
 "words": 575,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0005",
@@ -60,7 +66,8 @@
 "description": "First amended complaint, the operative pleading in the case",
 "page_count": 50,
 "words": 13260,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0006-01",
@@ -69,7 +76,8 @@
 "description": "Attachment 1 to ECF 6: Proposed Order",
 "page_count": 2,
 "words": 262,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0006",
@@ -78,7 +86,8 @@
 "description": "Plaintiff's first motion for partial summary judgment",
 "page_count": 5,
 "words": 923,
-"text": true
+"text": true,
+"decided_by": "ECF-0012"
 },
 {
 "id": "ECF-0007-01",
@@ -87,7 +96,8 @@
 "description": "Attachment 1 to ECF 7: Declaration",
 "page_count": 5,
 "words": 903,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007-02",
@@ -96,7 +106,8 @@
 "description": "Attachment 2 to ECF 7: Exhibit 1",
 "page_count": 26,
 "words": 8123,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007-03",
@@ -105,7 +116,8 @@
 "description": "Attachment 3 to ECF 7: Exhibit 2",
 "page_count": 4,
 "words": 697,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007-04",
@@ -114,7 +126,8 @@
 "description": "Attachment 4 to ECF 7: Exhibit 3",
 "page_count": 9,
 "words": 2405,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007-05",
@@ -123,7 +136,8 @@
 "description": "Attachment 5 to ECF 7: Exhibit 4",
 "page_count": 3,
 "words": 385,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007-06",
@@ -132,7 +146,8 @@
 "description": "Attachment 6 to ECF 7: Exhibit 5",
 "page_count": 10,
 "words": 4248,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007-07",
@@ -141,7 +156,8 @@
 "description": "Attachment 7 to ECF 7: Exhibit 6",
 "page_count": 3,
 "words": 948,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007-08",
@@ -150,7 +166,8 @@
 "description": "Attachment 8 to ECF 7: Exhibit 7",
 "page_count": 3,
 "words": 1023,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007-09",
@@ -159,7 +176,8 @@
 "description": "Attachment 9 to ECF 7: Exhibit 8",
 "page_count": 11,
 "words": 1626,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0007",
@@ -168,7 +186,8 @@
 "description": "Memorandum, declaration, and exhibits supporting partial summary judgment",
 "page_count": 10,
 "words": 2303,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0008",
@@ -177,7 +196,8 @@
 "description": "Certification that no attorney helped prepare complaint",
 "page_count": null,
 "words": 125,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0009",
@@ -186,7 +206,8 @@
 "description": "Amended proof of service of summary judgment papers",
 "page_count": 3,
 "words": 366,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0010-01",
@@ -195,7 +216,8 @@
 "description": "Attachment 1 to ECF 10: Proposed Order",
 "page_count": 1,
 "words": 130,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0010",
@@ -204,7 +226,8 @@
 "description": "NCMEC asks the Court to dismiss the complaint",
 "page_count": 2,
 "words": 364,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0011",
@@ -213,7 +236,8 @@
 "description": "NCMEC's memorandum supporting its motion to dismiss",
 "page_count": 17,
 "words": 5238,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0012",
@@ -222,7 +246,8 @@
 "description": "Order denying summary judgment without prejudice to renewal",
 "page_count": 1,
 "words": 195,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0013",
@@ -231,7 +256,8 @@
 "description": "Plaintiff notices hearing on summary judgment for September 18",
 "page_count": null,
 "words": 391,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0014",
@@ -240,7 +266,8 @@
 "description": "NCMEC notices its dismissal motion for September 25",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "ECF-0015-01",
@@ -249,7 +276,8 @@
 "description": "Attachment 1 to ECF 15: Exhibit A",
 "page_count": 2,
 "words": 266,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0015-02",
@@ -258,7 +286,8 @@
 "description": "Attachment 2 to ECF 15: Proposed Order",
 "page_count": 2,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "ECF-0015",
@@ -267,7 +296,8 @@
 "description": "Asks leave to serve three early interrogatories on NCMEC",
 "page_count": 5,
 "words": 826,
-"text": true
+"text": true,
+"decided_by": "ECF-0084"
 },
 {
 "id": "ECF-0016-01",
@@ -276,7 +306,8 @@
 "description": "Attachment 1 to ECF 16: Exhibit A",
 "page_count": 2,
 "words": 266,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0016",
@@ -285,7 +316,8 @@
 "description": "Memorandum supporting three early interrogatories on NCMEC",
 "page_count": 7,
 "words": 1950,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0017",
@@ -294,7 +326,8 @@
 "description": "Plaintiff notices hearing on the three-interrogatory motion",
 "page_count": null,
 "words": 408,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0018",
@@ -303,7 +336,8 @@
 "description": "Second proof of service on Meta filed",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "ECF-0019",
@@ -312,7 +346,8 @@
 "description": "Notice of amended proof of service on Meta",
 "page_count": null,
 "words": 491,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0020",
@@ -321,7 +356,8 @@
 "description": "Plaintiff's protective opposition to NCMEC's motion to dismiss",
 "page_count": 14,
 "words": 3606,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0021",
@@ -330,7 +366,8 @@
 "description": "Meta asks the Court to dismiss amended complaint",
 "page_count": 2,
 "words": 305,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0022",
@@ -339,7 +376,8 @@
 "description": "Meta's memorandum supporting its motion to dismiss",
 "page_count": 16,
 "words": 4613,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0023",
@@ -348,7 +386,8 @@
 "description": "Meta waives oral argument on its dismissal motion",
 "page_count": 2,
 "words": 282,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0024",
@@ -357,7 +396,8 @@
 "description": "Meta's corporate disclosure statement of ownership and affiliates",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "ECF-0025",
@@ -366,7 +406,8 @@
 "description": "Court's notice explaining pro se response to dismissal motion",
 "page_count": 1,
 "words": 205,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0026-01",
@@ -375,7 +416,8 @@
 "description": "Attachment 1 to ECF 26: Proposed Supplemental Complaint (1st submission)",
 "page_count": 8,
 "words": 1422,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0026-02",
@@ -384,7 +426,8 @@
 "description": "Attachment 2 to ECF 26: Proposed Supplemental Complaint (2nd submission)",
 "page_count": 10,
 "words": 2085,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0026",
@@ -393,7 +436,8 @@
 "description": "Asks leave to supplement the complaint; later withdrawn",
 "page_count": 4,
 "words": 623,
-"text": true
+"text": true,
+"decided_by": "ECF-0062"
 },
 {
 "id": "ECF-0027",
@@ -402,7 +446,8 @@
 "description": "Memorandum supporting the motion to supplement the complaint",
 "page_count": 6,
 "words": 1482,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0028",
@@ -411,7 +456,8 @@
 "description": "Plaintiff notices supplemental complaint motion for September 25",
 "page_count": null,
 "words": 400,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0029",
@@ -420,7 +466,8 @@
 "description": "Asks to continue dismissal hearing pending supplement motion",
 "page_count": 5,
 "words": 744,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0030",
@@ -429,7 +476,8 @@
 "description": "Plaintiff's second protective opposition to NCMEC's dismissal motion",
 "page_count": 25,
 "words": 8781,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0031",
@@ -438,7 +486,8 @@
 "description": "Plaintiff's declaration supporting the three-interrogatory motion",
 "page_count": 3,
 "words": 495,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0032",
@@ -447,7 +496,8 @@
 "description": "NCMEC opposes leave to supplement the complaint",
 "page_count": 5,
 "words": 1371,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0033",
@@ -456,7 +506,8 @@
 "description": "NCMEC opposes the motion for three early interrogatories",
 "page_count": 5,
 "words": 1313,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0034",
@@ -465,7 +516,8 @@
 "description": "Hillary Dang enters appearance as counsel for Meta",
 "page_count": 2,
 "words": 217,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0035",
@@ -474,7 +526,8 @@
 "description": "Plaintiff's reply supporting leave to supplement the complaint",
 "page_count": 4,
 "words": 604,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0036",
@@ -483,7 +536,8 @@
 "description": "Plaintiff's reply supporting early limited discovery from NCMEC",
 "page_count": 6,
 "words": 1029,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0037",
@@ -492,7 +546,8 @@
 "description": "Proof Katie Hall was served with the summons",
 "page_count": null,
 "words": 535,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0038",
@@ -501,7 +556,8 @@
 "description": "NCMEC notices dismissal motion for September 30 hearing",
 "page_count": 2,
 "words": 198,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0039",
@@ -510,7 +566,8 @@
 "description": "Meta's reply supporting its motion to dismiss",
 "page_count": 9,
 "words": 2559,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0040",
@@ -519,7 +576,8 @@
 "description": "Plaintiff waives oral argument on NCMEC and Meta dismissal motions",
 "page_count": 4,
 "words": 371,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0041-01",
@@ -528,7 +586,8 @@
 "description": "Attachment 1 to ECF 41: Proposed Order",
 "page_count": 1,
 "words": 159,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0041",
@@ -537,7 +596,8 @@
 "description": "Asks to appear remotely at September 25 hearing",
 "page_count": 4,
 "words": 570,
-"text": true
+"text": true,
+"decided_by": "ECF-0063"
 },
 {
 "id": "ECF-0042-01",
@@ -546,7 +606,8 @@
 "description": "Attachment 1 to ECF 42: Proposed Order",
 "page_count": 1,
 "words": 171,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0042",
@@ -555,7 +616,8 @@
 "description": "Asks to vacate September 30 hearing, decide on papers",
 "page_count": 4,
 "words": 510,
-"text": true
+"text": true,
+"decided_by": "ECF-0050"
 },
 {
 "id": "ECF-0043-01",
@@ -564,7 +626,8 @@
 "description": "Attachment 1 to ECF 43: Exhibit A - Sur-Reply",
 "page_count": 8,
 "words": 1574,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0043-02",
@@ -573,7 +636,8 @@
 "description": "Attachment 2 to ECF 43: Proposed Order",
 "page_count": 2,
 "words": 165,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0043",
@@ -582,7 +646,8 @@
 "description": "Asks leave to file sur-reply to Meta's reply",
 "page_count": 5,
 "words": 746,
-"text": true
+"text": true,
+"decided_by": "ECF-0070"
 },
 {
 "id": "ECF-0044",
@@ -591,7 +656,8 @@
 "description": "Memorandum supporting leave to file the sur-reply",
 "page_count": 7,
 "words": 1367,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0045-01",
@@ -600,7 +666,8 @@
 "description": "Attachment 1 to ECF 45: Proposed Order",
 "page_count": 1,
 "words": 127,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0045",
@@ -609,7 +676,8 @@
 "description": "Hall asks the Court to dismiss the complaint",
 "page_count": 2,
 "words": 420,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0046",
@@ -618,7 +686,8 @@
 "description": "Hall opposes the motion for three early interrogatories",
 "page_count": 2,
 "words": 224,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0047",
@@ -627,7 +696,8 @@
 "description": "Hall opposes leave to supplement the complaint",
 "page_count": 2,
 "words": 222,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0048",
@@ -636,7 +706,8 @@
 "description": "Court's notice explaining response to Hall's dismissal motion",
 "page_count": 1,
 "words": 195,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0049",
@@ -645,7 +716,8 @@
 "description": "NCMEC opposes vacating the September 30 hearing",
 "page_count": 3,
 "words": 670,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0050",
@@ -654,7 +726,8 @@
 "description": "Order vacating September 30 hearing; decided on papers",
 "page_count": 1,
 "words": 191,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0051",
@@ -663,7 +736,8 @@
 "description": "Plaintiff's protective opposition to Hall's motion to dismiss",
 "page_count": 5,
 "words": 710,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0052",
@@ -672,7 +746,8 @@
 "description": "Plaintiff's reply to Hall's opposition on interrogatories",
 "page_count": 4,
 "words": 361,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0053",
@@ -681,7 +756,8 @@
 "description": "Meta opposes leave to supplement the complaint",
 "page_count": 5,
 "words": 1198,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0054-01",
@@ -690,7 +766,8 @@
 "description": "Attachment 1 to ECF 54: Exhibit A",
 "page_count": 2,
 "words": 253,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0054",
@@ -699,7 +776,8 @@
 "description": "Asks leave to serve four early interrogatories on Meta",
 "page_count": 5,
 "words": 883,
-"text": true
+"text": true,
+"decided_by": "ECF-0084"
 },
 {
 "id": "ECF-0055",
@@ -708,7 +786,8 @@
 "description": "Memorandum supporting four early interrogatories on Meta",
 "page_count": 8,
 "words": 2086,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0056",
@@ -717,7 +796,8 @@
 "description": "Plaintiff notices four-interrogatory motion for September 25",
 "page_count": 4,
 "words": 416,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0057-01",
@@ -726,7 +806,8 @@
 "description": "Attachment 1 to ECF 57: Proposed Order",
 "page_count": 2,
 "words": 313,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0057",
@@ -735,7 +816,8 @@
 "description": "Plaintiff withdraws the motion to supplement the complaint",
 "page_count": 7,
 "words": 1090,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0058-01",
@@ -744,7 +826,8 @@
 "description": "Attachment 1 to ECF 58: Proposed Order",
 "page_count": 2,
 "words": 314,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0058",
@@ -753,7 +836,8 @@
 "description": "Asks to cancel September 25 hearing on that motion",
 "page_count": 7,
 "words": 1093,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0059-01",
@@ -762,7 +846,8 @@
 "description": "Attachment 1 to ECF 59: Exhibit A",
 "page_count": 52,
 "words": 13571,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0059-02",
@@ -771,7 +856,8 @@
 "description": "Attachment 2 to ECF 59: Exhibit B",
 "page_count": 4,
 "words": 461,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0059-03",
@@ -780,7 +866,8 @@
 "description": "Attachment 3 to ECF 59: Proposed Order",
 "page_count": 2,
 "words": 369,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0059",
@@ -789,7 +876,8 @@
 "description": "Asks leave to file second amended, supplemental complaint",
 "page_count": 10,
 "words": 2065,
-"text": true
+"text": true,
+"decided_by": "ECF-0084"
 },
 {
 "id": "ECF-0060-01",
@@ -798,7 +886,8 @@
 "description": "Attachment 1 to ECF 60: Exhibit A",
 "page_count": 52,
 "words": 14233,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0060-02",
@@ -807,7 +896,8 @@
 "description": "Attachment 2 to ECF 60: Exhibit B",
 "page_count": 4,
 "words": 465,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0060",
@@ -816,7 +906,8 @@
 "description": "Memorandum and proposed complaint supporting that leave request",
 "page_count": 20,
 "words": 5555,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0061",
@@ -825,7 +916,8 @@
 "description": "Plaintiff waives oral argument on that leave request",
 "page_count": 6,
 "words": 588,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0062",
@@ -834,7 +926,8 @@
 "description": "Order accepting withdrawal, cancelling hearing on ECF 26",
 "page_count": 1,
 "words": 224,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0063",
@@ -843,7 +936,8 @@
 "description": "Order denying remote appearance as moot, cancelling interrogatory hearing",
 "page_count": 2,
 "words": 308,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0064",
@@ -852,7 +946,8 @@
 "description": "Order requiring a redline of the proposed complaint",
 "page_count": 1,
 "words": 179,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0065",
@@ -861,7 +956,8 @@
 "description": "Order cancelling hearing, setting briefing, requiring AI disclosure",
 "page_count": 2,
 "words": 261,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0066-01",
@@ -870,7 +966,8 @@
 "description": "Attachment 1 to ECF 66: Proposed Order",
 "page_count": 3,
 "words": 553,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0066-02",
@@ -879,7 +976,8 @@
 "description": "Attachment 2 to ECF 66: Proposed Order",
 "page_count": 7,
 "words": 1838,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0066",
@@ -888,7 +986,8 @@
 "description": "Objections to magistrate's orders at ECF 63, 64, 65",
 "page_count": 11,
 "words": 2146,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0067-01",
@@ -897,7 +996,8 @@
 "description": "Attachment 1 to ECF 67: Proposed Order",
 "page_count": 3,
 "words": 550,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0067-02",
@@ -906,7 +1006,8 @@
 "description": "Attachment 2 to ECF 67: Proposed Order",
 "page_count": 7,
 "words": 1836,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0067",
@@ -915,7 +1016,8 @@
 "description": "Asks to set aside redline order, restore argument",
 "page_count": 11,
 "words": 2150,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0068-01",
@@ -924,7 +1026,8 @@
 "description": "Attachment 1 to ECF 68: Exhibit A/Declaration",
 "page_count": 3,
 "words": 658,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0068",
@@ -933,7 +1036,8 @@
 "description": "Memorandum supporting those objections and the set-aside motion",
 "page_count": 26,
 "words": 8004,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0069",
@@ -942,7 +1046,8 @@
 "description": "Meta opposes leave to file a sur-reply",
 "page_count": 5,
 "words": 930,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0070",
@@ -951,7 +1056,8 @@
 "description": "Order granting leave and deeming the sur-reply filed",
 "page_count": 1,
 "words": 171,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0071",
@@ -960,7 +1066,8 @@
 "description": "Plaintiff's sur-reply to Meta's reply on dismissal",
 "page_count": 8,
 "words": 1670,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0072",
@@ -969,7 +1076,8 @@
 "description": "Meta's corrected opposition to leave for a sur-reply",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "ECF-0073",
@@ -978,7 +1086,8 @@
 "description": "Meta opposes the motion for four early interrogatories",
 "page_count": 7,
 "words": 1765,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0074",
@@ -987,7 +1096,8 @@
 "description": "NCMEC and Hall oppose leave to file amended complaint",
 "page_count": 7,
 "words": 2111,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0075",
@@ -996,7 +1106,8 @@
 "description": "Plaintiff's reply supporting leave to file a sur-reply",
 "page_count": null,
 "words": 522,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0076-01",
@@ -1005,7 +1116,8 @@
 "description": "Attachment 1 to ECF 76: Exhibit A",
 "page_count": 2,
 "words": 276,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0076-02",
@@ -1014,7 +1126,8 @@
 "description": "Attachment 2 to ECF 76: Proposed Order",
 "page_count": 2,
 "words": 183,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0076",
@@ -1023,7 +1136,8 @@
 "description": "Asks leave to report later record developments on objections",
 "page_count": 6,
 "words": 1015,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0077",
@@ -1032,7 +1146,8 @@
 "description": "Memorandum supporting leave to report those later developments",
 "page_count": 3,
 "words": 423,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0078-01",
@@ -1041,7 +1156,8 @@
 "description": "Attachment 1 to ECF 78: Exhibit A",
 "page_count": 7,
 "words": 1677,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0078-02",
@@ -1050,7 +1166,8 @@
 "description": "Attachment 2 to ECF 78: Proposed Order",
 "page_count": 2,
 "words": 224,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0078",
@@ -1059,7 +1176,8 @@
 "description": "Asks leave to supplement memorandum on three-interrogatory motion",
 "page_count": 7,
 "words": 1383,
-"text": true
+"text": true,
+"decided_by": "ECF-0082"
 },
 {
 "id": "ECF-0079",
@@ -1068,7 +1186,8 @@
 "description": "Memorandum supporting leave to supplement that memorandum",
 "page_count": 4,
 "words": 740,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0080",
@@ -1077,7 +1196,8 @@
 "description": "Plaintiff waives oral argument on that supplement request",
 "page_count": 2,
 "words": 187,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0081",
@@ -1086,7 +1206,8 @@
 "description": "Plaintiff's reply supporting the four early interrogatories",
 "page_count": 9,
 "words": 2231,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0082",
@@ -1095,7 +1216,8 @@
 "description": "Order granting supplement; accepted as reply on interrogatories",
 "page_count": 2,
 "words": 295,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0083",
@@ -1104,7 +1226,8 @@
 "description": "Meta opposes leave to file the amended complaint",
 "page_count": 5,
 "words": 1012,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0084",
@@ -1113,7 +1236,8 @@
 "description": "Order denying early interrogatories and leave to amend",
 "page_count": 2,
 "words": 361,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0085",
@@ -1122,7 +1246,8 @@
 "description": "Plaintiff waives oral argument on ECF 66, 67, 76",
 "page_count": null,
 "words": 723,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0086-01",
@@ -1131,7 +1256,8 @@
 "description": "Attachment 1 to ECF 86: Declaration",
 "page_count": 2,
 "words": 321,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0086-02",
@@ -1140,7 +1266,8 @@
 "description": "Attachment 2 to ECF 86: Exhibit A",
 "page_count": 5,
 "words": 1042,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0086-03",
@@ -1149,7 +1276,8 @@
 "description": "Attachment 3 to ECF 86: Exhibit B",
 "page_count": 9,
 "words": 2021,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0086-04",
@@ -1158,7 +1286,8 @@
 "description": "Attachment 4 to ECF 86: Proposed Order",
 "page_count": 2,
 "words": 438,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0086",
@@ -1167,7 +1296,8 @@
 "description": "Asks to disqualify Magistrate Judge Davis, decide first",
 "page_count": 9,
 "words": 2027,
-"text": true
+"text": true,
+"decided_by": "ECF-0096"
 },
 {
 "id": "ECF-0087",
@@ -1176,7 +1306,8 @@
 "description": "Memorandum supporting the motion to disqualify Judge Davis",
 "page_count": 15,
 "words": 4177,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0088",
@@ -1185,7 +1316,8 @@
 "description": "Plaintiff waives oral argument on the disqualification motion",
 "page_count": null,
 "words": 559,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0089",
@@ -1194,7 +1326,8 @@
 "description": "Objections to order denying amendment and early interrogatories",
 "page_count": 12,
 "words": 3003,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0090-01",
@@ -1203,7 +1336,8 @@
 "description": "Attachment 1 to ECF 90: Proposed Order",
 "page_count": 4,
 "words": 1105,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0090-02",
@@ -1212,7 +1346,8 @@
 "description": "Attachment 2 to ECF 90: Proposed Order",
 "page_count": 3,
 "words": 730,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0090-03",
@@ -1221,7 +1356,8 @@
 "description": "Attachment 3 to ECF 90: Proposed Order",
 "page_count": 4,
 "words": 983,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0090",
@@ -1230,7 +1366,8 @@
 "description": "Asks Alston to set aside those same denials",
 "page_count": 12,
 "words": 2991,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0091",
@@ -1239,7 +1376,8 @@
 "description": "Memorandum supporting the motion to set aside denials",
 "page_count": 29,
 "words": 8847,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0092",
@@ -1248,7 +1386,8 @@
 "description": "Plaintiff waives oral argument on that set-aside motion",
 "page_count": null,
 "words": 565,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0093-01",
@@ -1257,7 +1396,8 @@
 "description": "Attachment 1 to ECF 93: Proposed Order",
 "page_count": 4,
 "words": 876,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0093-02",
@@ -1266,7 +1406,8 @@
 "description": "Attachment 2 to ECF 93: Proposed Order",
 "page_count": 5,
 "words": 1298,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0093",
@@ -1275,7 +1416,8 @@
 "description": "Asks to vacate two orders and change referral",
 "page_count": 9,
 "words": 2141,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0094",
@@ -1284,7 +1426,8 @@
 "description": "Memorandum supporting vacatur and change of the referral",
 "page_count": 14,
 "words": 3861,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0095",
@@ -1293,7 +1436,8 @@
 "description": "Plaintiff waives oral argument on the vacatur motion",
 "page_count": null,
 "words": 649,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0096",
@@ -1302,7 +1446,8 @@
 "description": "Order denying disqualification as moot after case reassignment",
 "page_count": 1,
 "words": 146,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0097",
@@ -1311,7 +1456,8 @@
 "description": "Objections to order calling disqualification motion moot",
 "page_count": 10,
 "words": 2261,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0098",
@@ -1320,7 +1466,8 @@
 "description": "Asks Alston to set aside that mootness order",
 "page_count": null,
 "words": 2141,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0099-01",
@@ -1329,7 +1476,8 @@
 "description": "Attachment 1 to ECF 99: Exhibit A - (Proposed) Supplement",
 "page_count": 6,
 "words": 783,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0099",
@@ -1338,7 +1486,8 @@
 "description": "Memorandum supporting the motion to set aside mootness order",
 "page_count": 16,
 "words": 4345,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0100",
@@ -1347,7 +1496,8 @@
 "description": "Plaintiff waives oral argument on that motion",
 "page_count": null,
 "words": 331,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0101",
@@ -1356,7 +1506,8 @@
 "description": "Meta opposes the motions at ECF 90, 93",
 "page_count": 9,
 "words": 2594,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0102",
@@ -1365,7 +1516,8 @@
 "description": "Plaintiff's reply supporting the motions at ECF 90, 93",
 "page_count": 10,
 "words": 2488,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0103-01",
@@ -1374,7 +1526,8 @@
 "description": "Attachment 1 to ECF 103: Proposed Order",
 "page_count": 2,
 "words": 423,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0103",
@@ -1383,7 +1536,8 @@
 "description": "Asks for a scheduling order and pretrial conference",
 "page_count": 7,
 "words": 1286,
-"text": true
+"text": true,
+"decided_by": "ECF-0108"
 },
 {
 "id": "ECF-0104",
@@ -1392,7 +1546,8 @@
 "description": "Memorandum supporting the motion for a scheduling order",
 "page_count": 10,
 "words": 2293,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0105-01",
@@ -1401,7 +1556,8 @@
 "description": "Attachment 1 to ECF 105: Proposed Order",
 "page_count": 3,
 "words": 638,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0105",
@@ -1410,7 +1566,8 @@
 "description": "Asks to order a Rule 26(f) conference",
 "page_count": 9,
 "words": 1829,
-"text": true
+"text": true,
+"decided_by": "ECF-0108"
 },
 {
 "id": "ECF-0106",
@@ -1419,7 +1576,8 @@
 "description": "Memorandum supporting the Rule 26(f) conference motion",
 "page_count": 12,
 "words": 3115,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0107-01",
@@ -1428,7 +1586,8 @@
 "description": "Attachment 1 to ECF 107: Exhibit A",
 "page_count": null,
 "words": 1306,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0107-02",
@@ -1437,7 +1596,8 @@
 "description": "Attachment 2 to ECF 107: Exhibit B",
 "page_count": null,
 "words": 310,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0107-03",
@@ -1446,7 +1606,8 @@
 "description": "Attachment 3 to ECF 107: Exhibit C-1",
 "page_count": null,
 "words": 830,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0107-04",
@@ -1455,7 +1616,8 @@
 "description": "Attachment 4 to ECF 107: Exhibit C-2",
 "page_count": null,
 "words": 267,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0107",
@@ -1464,7 +1626,8 @@
 "description": "Plaintiff's declaration and exhibits on Rule 26(f) efforts",
 "page_count": null,
 "words": 997,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "ECF-0108",
@@ -1473,7 +1636,8 @@
 "description": "Order denying ECF 103, 105 without prejudice",
 "page_count": 2,
 "words": 345,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-08-06-112",
@@ -1482,7 +1646,8 @@
 "description": "Clerk flags wrong summons page on ECF 4",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-08-06-118",
@@ -1491,7 +1656,8 @@
 "description": "Clerk tells Plaintiff to notice hearing or waive",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-08-12-119",
@@ -1500,7 +1666,8 @@
 "description": "Clerk tells Plaintiff to notice hearing or waive",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-08-17-108",
@@ -1509,7 +1676,8 @@
 "description": "Clerk: summary judgment hearing will not be set",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-08-25-109",
@@ -1518,7 +1686,8 @@
 "description": "Clerk tells NCMEC to re-notice its hearing date",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-08-25-111",
@@ -1527,7 +1696,8 @@
 "description": "Hearing set September 25 on ECF 15",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-09-01-121",
@@ -1536,7 +1706,8 @@
 "description": "Hearing set September 30 on NCMEC's dismissal motion",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-09-02-120",
@@ -1545,7 +1716,8 @@
 "description": "September 30 hearing terminated under ECF 50",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-09-08-116",
@@ -1554,7 +1726,8 @@
 "description": "Hearing set September 25 on ECF 54",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-09-09-113",
@@ -1563,7 +1736,8 @@
 "description": "Hearing on ECF 15 terminated; decided on papers",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-09-09-114",
@@ -1572,7 +1746,8 @@
 "description": "Hearing on ECF 26 terminated after withdrawal",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-09-09-115",
@@ -1581,7 +1756,8 @@
 "description": "Clerk tells Plaintiff to notice ECF 41 or waive",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-09-10-110",
@@ -1590,7 +1766,8 @@
 "description": "Hearing on ECF 54 terminated; decided on papers",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "NoNumber-2026-10-22-117",
@@ -1599,7 +1776,8 @@
 "description": "Case reassigned from Judge Davis to Judge Fitzpatrick",
 "page_count": null,
 "words": 0,
-"text": false
+"text": false,
+"decided_by": null
 },
 {
 "id": "PKG-01-1",
@@ -1608,7 +1786,8 @@
 "description": "Motion: Asks Alston to decide ECF 96 questions first",
 "page_count": 7,
 "words": 1046,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-01-2",
@@ -1617,7 +1796,8 @@
 "description": "Memorandum In Support: Asks Alston to decide ECF 96 questions first",
 "page_count": 6,
 "words": 1056,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-01-3",
@@ -1626,7 +1806,8 @@
 "description": "Proposed Order: Asks Alston to decide ECF 96 questions first",
 "page_count": 3,
 "words": 446,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-01-4",
@@ -1635,7 +1816,8 @@
 "description": "Notice Of Waiver Of Oral Argument: Asks Alston to decide ECF 96 questions first",
 "page_count": 5,
 "words": 507,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-02-1",
@@ -1644,7 +1826,8 @@
 "description": "Motion: Asks to vacate mootness order over Davis's Meta stock",
 "page_count": 12,
 "words": 2895,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-02-2",
@@ -1653,7 +1836,8 @@
 "description": "Memorandum In Support: Asks to vacate mootness order over Davis's Meta stock",
 "page_count": 19,
 "words": 5401,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-02-3",
@@ -1662,7 +1846,8 @@
 "description": "Proposed Order A: Asks to vacate mootness order over Davis's Meta stock",
 "page_count": 3,
 "words": 497,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-02-4",
@@ -1671,7 +1856,8 @@
 "description": "Proposed Order B: Asks to vacate mootness order over Davis's Meta stock",
 "page_count": 3,
 "words": 713,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-03-1",
@@ -1680,7 +1866,8 @@
 "description": "Motion: Asks leave to amend complaint and add Souras",
 "page_count": 9,
 "words": 1863,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-03-2",
@@ -1689,7 +1876,8 @@
 "description": "Memorandum In Support: Asks leave to amend complaint and add Souras",
 "page_count": 20,
 "words": 5836,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-03-3",
@@ -1698,7 +1886,8 @@
 "description": "Declaration: Asks leave to amend complaint and add Souras",
 "page_count": 4,
 "words": 654,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-03-4",
@@ -1707,7 +1896,8 @@
 "description": "Exhibit A - Proposed Second Amended Complaint: Asks leave to amend complaint and add Souras",
 "page_count": 58,
 "words": 15155,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-03-5",
@@ -1716,7 +1906,8 @@
 "description": "Exhibit B - Comparison Against Ecf 1: Asks leave to amend complaint and add Souras",
 "page_count": 49,
 "words": 18833,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-03-6",
@@ -1725,7 +1916,8 @@
 "description": "Exhibit C - Comparison Against Ecf 5: Asks leave to amend complaint and add Souras",
 "page_count": 51,
 "words": 19229,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-03-7",
@@ -1734,7 +1926,8 @@
 "description": "Proposed Order: Asks leave to amend complaint and add Souras",
 "page_count": 2,
 "words": 363,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-04-1",
@@ -1743,7 +1936,8 @@
 "description": "Motion: Asks ruling that Hall acted as NCMEC's employee",
 "page_count": 9,
 "words": 1938,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-04-2",
@@ -1752,7 +1946,8 @@
 "description": "Memorandum In Support: Asks ruling that Hall acted as NCMEC's employee",
 "page_count": 24,
 "words": 6987,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-04-3",
@@ -1761,7 +1956,8 @@
 "description": "Declaration: Asks ruling that Hall acted as NCMEC's employee",
 "page_count": 4,
 "words": 746,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-04-4",
@@ -1770,7 +1966,8 @@
 "description": "Exhibit 3: Asks ruling that Hall acted as NCMEC's employee",
 "page_count": 9,
 "words": 2405,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-04-5",
@@ -1779,7 +1976,8 @@
 "description": "Exhibit 4: Asks ruling that Hall acted as NCMEC's employee",
 "page_count": 3,
 "words": 386,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-04-6",
@@ -1788,7 +1986,8 @@
 "description": "Exhibit 5: Asks ruling that Hall acted as NCMEC's employee",
 "page_count": 10,
 "words": 4248,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-04-7",
@@ -1797,7 +1996,8 @@
 "description": "Proposed Order A: Asks ruling that Hall acted as NCMEC's employee",
 "page_count": 4,
 "words": 828,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-04-8",
@@ -1806,7 +2006,8 @@
 "description": "Proposed Order B: Asks ruling that Hall acted as NCMEC's employee",
 "page_count": 5,
 "words": 1230,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-05-1",
@@ -1815,7 +2016,8 @@
 "description": "Motion: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
 "page_count": 10,
 "words": 2181,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-05-2",
@@ -1824,7 +2026,8 @@
 "description": "Memorandum In Support: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
 "page_count": 22,
 "words": 6353,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-05-3",
@@ -1833,7 +2036,8 @@
 "description": "Proposed Order A: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
 "page_count": 4,
 "words": 909,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-05-4",
@@ -1842,7 +2046,8 @@
 "description": "Proposed Order B: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
 "page_count": 3,
 "words": 609,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-06-1",
@@ -1851,7 +2056,8 @@
 "description": "Motion: Asks Fitzpatrick to reconsider denying a scheduling order",
 "page_count": 8,
 "words": 1501,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-06-2",
@@ -1860,7 +2066,8 @@
 "description": "Memorandum In Support: Asks Fitzpatrick to reconsider denying a scheduling order",
 "page_count": 20,
 "words": 5274,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-06-3",
@@ -1869,7 +2076,8 @@
 "description": "Proposed Order A: Asks Fitzpatrick to reconsider denying a scheduling order",
 "page_count": 3,
 "words": 738,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-06-4",
@@ -1878,7 +2086,8 @@
 "description": "Proposed Order B: Asks Fitzpatrick to reconsider denying a scheduling order",
 "page_count": 3,
 "words": 551,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-07-1",
@@ -1887,7 +2096,8 @@
 "description": "Motion: Asks to correct what ECF 108 says Alston chose",
 "page_count": 8,
 "words": 1317,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-07-2",
@@ -1896,7 +2106,8 @@
 "description": "Memorandum In Support: Asks to correct what ECF 108 says Alston chose",
 "page_count": 12,
 "words": 2757,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-07-3",
@@ -1905,7 +2116,8 @@
 "description": "Proposed Order: Asks to correct what ECF 108 says Alston chose",
 "page_count": 2,
 "words": 405,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-08-1",
@@ -1914,7 +2126,8 @@
 "description": "Motion: Asks Court to notice a California court filing",
 "page_count": 7,
 "words": 1268,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-08-2",
@@ -1923,7 +2136,8 @@
 "description": "Memorandum In Support: Asks Court to notice a California court filing",
 "page_count": 6,
 "words": 1028,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-08-3",
@@ -1932,7 +2146,8 @@
 "description": "Exhibit A - N.D. Cal. Ecf No. 152: Asks Court to notice a California court filing",
 "page_count": 26,
 "words": 8899,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-08-4",
@@ -1941,7 +2156,8 @@
 "description": "Proposed Order: Asks Court to notice a California court filing",
 "page_count": 2,
 "words": 358,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-09-1",
@@ -1950,7 +2166,8 @@
 "description": "Motion: Asks leave to report events since ECF 93, 97–99",
 "page_count": 6,
 "words": 747,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-09-2",
@@ -1959,7 +2176,8 @@
 "description": "Memorandum In Support: Asks leave to report events since ECF 93, 97–99",
 "page_count": 4,
 "words": 499,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-09-3",
@@ -1968,7 +2186,8 @@
 "description": "Notice: Asks leave to report events since ECF 93, 97–99",
 "page_count": 4,
 "words": 545,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-09-4",
@@ -1977,7 +2196,8 @@
 "description": "Proposed Order: Asks leave to report events since ECF 93, 97–99",
 "page_count": 1,
 "words": 159,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-10-1",
@@ -1986,7 +2206,8 @@
 "description": "Motion: Asks leave to file statement of procedural irregularities",
 "page_count": 6,
 "words": 719,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-10-2",
@@ -1995,7 +2216,8 @@
 "description": "Memorandum In Support: Asks leave to file statement of procedural irregularities",
 "page_count": 7,
 "words": 1333,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-10-3",
@@ -2004,7 +2226,8 @@
 "description": "Declaration: Asks leave to file statement of procedural irregularities",
 "page_count": 3,
 "words": 323,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-10-4",
@@ -2013,7 +2236,8 @@
 "description": "Proposed Order: Asks leave to file statement of procedural irregularities",
 "page_count": 2,
 "words": 160,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "PKG-10-5",
@@ -2022,7 +2246,8 @@
 "description": "Exhibit A - Consolidated Statement: Asks leave to file statement of procedural irregularities",
 "page_count": 22,
 "words": 5963,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "NOH-A",
@@ -2031,7 +2256,8 @@
 "description": "Notices ECF 89, 90, 93, 97, 98 for December 16",
 "page_count": 5,
 "words": 665,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "NOH-B",
@@ -2040,7 +2266,8 @@
 "description": "Notices Packages 4, 8, 9, 10 for December 16",
 "page_count": 5,
 "words": 582,
-"text": true
+"text": true,
+"decided_by": null
 },
 {
 "id": "NOH-C",
@@ -2049,6 +2276,7 @@
 "description": "Notices Packages 2, 3, 5, 6, 7 for December 4",
 "page_count": 5,
 "words": 571,
-"text": true
+"text": true,
+"decided_by": null
 }
 ]

@@ -9,6 +9,50 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 5,
+ "words": 746,
+ "refers_to": [
+  {
+   "id": "ECF-0039",
+   "description": "Meta's reply supporting its motion to dismiss",
+   "words": "Marvelle J. Ballentine in re 39 Memorandum of Law in Support.  (tri"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0044",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting leave to file the sur-reply",
+   "words": "Memorandum in Support in re 43 MOTION for Leave to File Sur-Re"
+  },
+  {
+   "id": "ECF-0069",
+   "filed_by": "Meta",
+   "description": "Meta opposes leave to file a sur-reply",
+   "words": "RESPONSE in Opposition re 43 MOTION for Leave to File a Sur-"
+  },
+  {
+   "id": "ECF-0070",
+   "filed_by": "Court",
+   "description": "Order granting leave and deeming the sur-reply filed",
+   "words": "Plaintiff's Motion for Leave to File Sur-Reply is GRANTED"
+  },
+  {
+   "id": "ECF-0072",
+   "filed_by": "Meta",
+   "description": "Meta's corrected opposition to leave for a sur-reply",
+   "words": "RESPONSE in Opposition re 43 MOTION for Leave to File a Sur-"
+  },
+  {
+   "id": "ECF-0075",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's reply supporting leave to file a sur-reply",
+   "words": "Reply in Support in re 43 MOTION for Leave to File Sur-Re"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0070",
+  "words": "GRANTED"
+ },
  "pages": [
   {
    "page": 1,
@@ -30,6 +74,5 @@
    "page": 5,
    "text": "CERTIFICATION PURSUANT TO LOCAL CIVIL RULE 83.1(N)\n\nPursuant to Local Civil Rule 83.1(N), I declare under penalty of perjury that no attorney\nhas prepared, or assisted in the preparation of, the foregoing Motion for Leave to File Sur-Reply\nto Defendant Meta Platforms, Inc.’s Reply in Support of Motion to Dismiss, and the accompanying\n\nProposed Order.\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\nrp\n\nSignature of Pro Se Litigant\nDated: September 1, 2026"
   }
- ],
- "words": 746
+ ]
 }

@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "Plaintiff's file copy, not the docketed image",
  "page_count": null,
+ "words": 391,
+ "refers_to": [
+  {
+   "id": "ECF-0006",
+   "description": "Plaintiff's first motion for partial summary judgment",
+   "words": "for September 18, 2026) in re 6 MOTION for Partial Summary Judg"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "NoNumber-2026-08-17-108",
+   "filed_by": "Court",
+   "description": "Clerk: summary judgment hearing will not be set",
+   "words": "NOTICE re 13 Notice of Hearing: The parties"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -22,6 +38,5 @@
    "page": 3,
    "text": "UNITED STATES DISTRICT COURT\nFOR THE EASTERN DISTRICT OF VIRGINIA\nALEXANDRIA DIVISION\nMARVELLE J. BALLENTINE,\nPlaintiff,\nV.\nCase No. 1:26-cv-02331-RDA-IDD\nThe Honorable Judge\nRossie D. Alston Jr.\nKATIE HALL, individually;\nNATIONAL CENTER FOR MISSING & EXPLOITED CHILDREN;\nMETA PLATFORMS, INC.;\nand JOHN/JANE DOES 1-6,\nDefendants.\nLOCAL RULE 83.1(N) CERTIFICATION\nI declare under penalty of perjury that:\nNo attorney has prepared, or assisted in the preparation of, the foregoing Notice of Hearing.\nMarvelle J. Ballentine\nPlaintiff, pro se\nExecuted on: August 12, 2026"
   }
- ],
- "words": 391
+ ]
 }

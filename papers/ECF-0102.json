@@ -9,6 +9,20 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 10,
+ "words": 2488,
+ "refers_to": [
+  {
+   "id": "ECF-0090",
+   "description": "Asks Alston to set aside those same denials",
+   "words": "idated Reply in Support in re 90 MOTION to Set Aside the Amendme"
+  },
+  {
+   "id": "ECF-0093",
+   "description": "Asks to vacate two orders and change referral",
+   "words": "on of the Pending Objections, 93 MOTION for Targeted Vactur of E"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -50,6 +64,5 @@
    "page": 10,
    "text": "Case 1:26-cv-02331-RDA-WEF             Document 102        Filed 10/28/26    Page 10 of 10 PageID#\n                                              1050\n\n\n\n      GENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\n                                          CERTIFICATION\n\n         Plaintiff prepared this filing in part using generative AI-assisted agentic motion drafting\n\n  through a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\n\n  reviewed all citations to legal authorities and the record for accuracy.\n\n         Date: October 28, 2026\n\n\n\n\n                                                                             Marvelle J. Ballentine\n                                                                                  Plaintiff, pro se\n\n\n\n\n                                                   10"
   }
- ],
- "words": 2488
+ ]
 }

@@ -9,6 +9,21 @@
  "status": "Docketed",
  "text_source": "No document text available from a free source",
  "page_count": null,
- "pages": [],
- "words": 0
+ "words": 0,
+ "refers_to": [
+  {
+   "id": "ECF-0010",
+   "description": "NCMEC asks the Court to dismiss the complaint",
+   "words": "te (September 25, 2026) in re 10 MOTION to Dismiss (Keane, Padra"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "NoNumber-2026-08-25-109",
+   "filed_by": "Court",
+   "description": "Clerk tells NCMEC to re-notice its hearing date",
+   "words": "Notice of Correction re 14 Notice of Hearing Date: Counsel"
+  }
+ ],
+ "pages": []
 }

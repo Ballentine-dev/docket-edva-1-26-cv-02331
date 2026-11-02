@@ -9,6 +9,32 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 4,
+ "words": 510,
+ "refers_to": [
+  {
+   "id": "ECF-0010",
+   "description": "NCMEC asks the Court to dismiss the complaint",
+   "words": "Marvelle J. Ballentine in re 10 MOTION to Dismiss. (triv)"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0049",
+   "filed_by": "NCMEC",
+   "description": "NCMEC opposes vacating the September 30 hearing",
+   "words": "Opposition to 42 MOTION to Vacate filed by Natio"
+  },
+  {
+   "id": "ECF-0050",
+   "filed_by": "Court",
+   "description": "Order vacating September 30 hearing; decided on papers",
+   "words": "ORDER granting 42 Motion to Vacate the September"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0050",
+  "words": "granting 42 Motion to Vacate"
+ },
  "pages": [
   {
    "page": 1,
@@ -26,6 +52,5 @@
    "page": 4,
    "text": "CERTIFICATION PURSUANT TO LOCAL CIVIL RULE 83.1(N)\n\nPursuant to Local Civil Rule 83.1(N), I declare under penalty of perjury that no attorney has\nprepared, or assisted in the preparation of, the foregoing Motion to Vacate the September 30, 2026\n\nHearing and to Decide the Motion to Dismiss on the Papers.\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\nYD\n\nSignature of Pro Se Litigant\nDated: August 31, 2026"
   }
- ],
- "words": 510
+ ]
 }

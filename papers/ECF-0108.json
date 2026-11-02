@@ -9,6 +9,49 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 345,
+ "refers_to": [
+  {
+   "id": "ECF-0103",
+   "description": "Asks for a scheduling order and pretrial conference",
+   "words": "ordingly, Plaintiffs Motions (Dkts. 103, 105 ) are DENIED without prej"
+  },
+  {
+   "id": "ECF-0105",
+   "description": "Asks to order a Rule 26(f) conference",
+   "words": "ordingly, Plaintiffs Motions (Dkts. 103, 105 ) are DENIED without prej"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "PKG-05-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
+   "words": "Motion to Reconsider ECF No. 108 as to ECF No. 105"
+  },
+  {
+   "id": "PKG-06-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks Fitzpatrick to reconsider denying a scheduling order",
+   "words": "Motion to Reconsider ECF No. 108 as to ECF No. 103"
+  },
+  {
+   "id": "PKG-07-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks to correct what ECF 108 says Alston chose",
+   "words": "Motion to Clarify or Correct ECF No. 108"
+  }
+ ],
+ "decides": [
+  {
+   "id": "ECF-0103",
+   "words": "DENIED without prejudice"
+  },
+  {
+   "id": "ECF-0105",
+   "words": "DENIED without prejudice"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +61,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-WEF            Document 108        Filed 10/29/26     Page 2 of 2 PageID#\n                                            1115\n\n\n\n motions to dismiss or to remand arc resolved to avoid expensive or otherwise burdensome\n\n\n discovery on potentially frivolous claims.” Giirri Rubio v. MiilUn, No. 25-CV-2756-ABA, 2026\n\n WI. 1194557, at *3 (D. Md. May 1, 2026). Here, the record reflects that the District Judge has\n\n chosen to refrain from beginning any discovery until resolution of the pending motions to dismiss.\n\n Accordingly, Plaintiffs Motions (Dkts. 103, 105) arc DKNIKl) without prejudice.\n\n        ENTERED this 29lh day of October, 2026.\n\n\n\n\n                                                       WILLIAM E. LITZPATRICK\n                                                       UNITED STA'I'ES MAGISTRATE JUDGE"
   }
- ],
- "words": 345
+ ]
 }

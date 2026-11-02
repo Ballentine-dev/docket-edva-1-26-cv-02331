@@ -9,6 +9,33 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 6,
+ "words": 1015,
+ "refers_to": [
+  {
+   "id": "ECF-0066",
+   "description": "Objections to magistrate's orders at ECF 63, 64, 65",
+   "words": "Relevant to Pending Rule 72(a) Objections"
+  },
+  {
+   "id": "ECF-0067",
+   "description": "Asks to set aside redline order, restore argument",
+   "words": "Relevant to Pending Rule 72(a) Objections"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0077",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting leave to report those later developments",
+   "words": "Memorandum in Support re 76 MOTION for Leave to File Notice"
+  },
+  {
+   "id": "ECF-0085",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on ECF 66, 67, 76",
+   "words": "Determination of ECF No. 59, 76 MOTION for Leave to File Notice"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -34,6 +61,5 @@
    "page": 6,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 76 Filed 09/18/26 Page 6 of 6 PagelD# 769\n\nhis Rule 72(a) Objections. ECF No. 68. Plaintiff requests approval of this method, or specification\nof a different method, for any requirement that remains in effect.\n\nDate: September 18, 2026\n\nrp\n\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 1015
+ ]
 }

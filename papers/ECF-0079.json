@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 4,
+ "words": 740,
+ "refers_to": [
+  {
+   "id": "ECF-0078",
+   "description": "Asks leave to supplement memorandum on three-interrogatory motion",
+   "words": "Memorandum in Support re 78 MOTION for Leave to File a Supp"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -26,6 +35,5 @@
    "page": 4,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 79 _ Filed 09/18/26 Page 4 of 4 PagelD# 796\n\nGENERATIVE-ARTIFICIAL-INTELLIGENCE DISCLOSURE AND\n\nCITATION CERTIFICATION PURSUANT TO ECF NOS. 63 AND 65\n\nPursuant to the Orders entered September 9, 2026 (ECF No. 63) and September 10, 2026\n(ECF No. 65), Plaintiff states as follows. Plaintiff used generative artificial intelligence in the\npreparation of this Memorandum. The assistance consisted of research, drafting, and revision of\ntext; retrieval of docket entries and filed documents from the public RECAP archive; and\nverification of record citations against the docket. Plaintiff reviewed, edited, and adopted this\nMemorandum as his own submission. Plaintiff certifies that he has reviewed each citation to legal\nauthority and each citation to the record in this Memorandum for accuracy, using automated\n\ncitation-verification tools to verify cited authorities against published sources and by comparing\n\nrp\n\nMarvelle J. Ballentine\nSeptember 18, 2026\n\neach record citation to the document as docketed."
   }
- ],
- "words": 740
+ ]
 }

@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 3,
+ "words": 495,
+ "refers_to": [
+  {
+   "id": "ECF-0015",
+   "description": "Asks leave to serve three early interrogatories on NCMEC",
+   "words": "Declaration in Support in re 15 MOTION for Leave to Serve Three"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -22,6 +31,5 @@
    "page": 3,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 31 Filed 08/24/26 Page 3 of 3 PagelD# 362\n\nCERTIFICATION PURSUANT TO LOCAL CIVIL RULE 83.1(N)\n\nPursuant to Local Civil Rule 83.1(N), I declare under penalty of perjury that no attorney\nhas prepared, or assisted in the preparation of, the foregoing Declaration of Marvelle J. Ballentine\nin Support of Plaintiff’s Motion for Leave to Serve Three Limited Interrogatories on NCMEC\n\nBefore the Rule 26(f) Conference (ECF No. 15).\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\n~*D\n\nSignature of Pro Se Litigant\n\nDated: August 24, 2026"
   }
- ],
- "words": 495
+ ]
 }

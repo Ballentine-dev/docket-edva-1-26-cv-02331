@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 7,
+ "words": 1677,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -38,6 +41,5 @@
    "page": 7,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 78-1 Filed 09/18/26 Page 7 of 7 PagelD#\n790\n\nGENERATIVE-ARTIFICIAL-INTELLIGENCE DISCLOSURE AND\n\nCITATION CERTIFICATION PURSUANT TO ECF NOS. 63 AND 65\n\nPursuant to the Orders entered September 9, 2026 (ECF No. 63) and September 10, 2026\n(ECF No. 65), Plaintiff states as follows. Plaintiff used generative artificial intelligence in the\npreparation of this Supplemental Memorandum. The assistance consisted of research, drafting, and\nrevision of text; retrieval of docket entries and filed documents from the public RECAP archive;\nand verification of record citations against the docket. Plaintiff reviewed, edited, and adopted this\nSupplemental Memorandum as his own submission. Plaintiff certifies that he has reviewed each\ncitation to legal authority and each citation to the record in this Supplemental Memorandum for\naccuracy, using automated citation-verification tools to verify cited authorities against published\n\nsources and by comparing each record citation to the document as docketed.\n\nrp\n\nMarvelle J. Ballentine\nSeptember 18, 2026"
   }
- ],
- "words": 1677
+ ]
 }

@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 5,
+ "words": 1012,
+ "refers_to": [
+  {
+   "id": "ECF-0059",
+   "description": "Asks leave to file second amended, supplemental complaint",
+   "words": "RESPONSE in Opposition re 59 MOTION to Amend/Correct MOTION"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +39,5 @@
    "page": 5,
    "text": "CERTIFICATE OF SERVICE\n\n       I hereby certify that on September 22, I caused DEFENDANT META PLATFORMS,\n\nINC.’S RESPONSE IN OPPOSITION TO PLAINTIFF’S MOTION FOR LEAVE TO FILE\n\nSECOND AMENDED COMPLAINT to be electronically filed using the Court’s CM/ECF\n\nsystem, and also caused a copy of the foregoing to be mailed via First Class U.S. Postal Mail,\n\npostage prepaid to pro se plaintiff at the following address.\n\n       Marvelle J. Ballentine\n       1520 Belle View Bld., Ste. 5847\n       Alexandria, VA 22307\n\nThis 22nd day of September, 2026.\n\n\n                                                By: /s/ Hillary Dang\n\n                                                Hillary Dang\n                                                Virginia State Bar No. 92188\n                                                Orrick, Herrington & Sutcliffe LLP\n                                                2100 Pennsylvania Avenue NW\n                                                Washington, D.C. 20037\n                                                T: +1 202 339 8400\n                                                F: +1 202 339 8500\n                                                hdang@orrick.com\n\n\n\n\n                                                 5"
   }
- ],
- "words": 1012
+ ]
 }

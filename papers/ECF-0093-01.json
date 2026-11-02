@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 4,
+ "words": 876,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -26,6 +29,5 @@
    "page": 4,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 93-1 Filed 10/13/26 Page 4 of 4 PagelD#\n951\n\nTt is so ORDERED.\n\nAlexandria, Virginia\n, 2026\n\nRossie D. Alston, Jr.\nUnited States District Judge"
   }
- ],
- "words": 876
+ ]
 }

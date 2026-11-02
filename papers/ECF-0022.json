@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 16,
+ "words": 4613,
+ "refers_to": [
+  {
+   "id": "ECF-0021",
+   "description": "Meta asks the Court to dismiss amended complaint",
+   "words": "andum of Law in Support in re 21 MOTION to Dismiss First Amended"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -74,6 +83,5 @@
    "page": 16,
    "text": "CERTIFICATE OF SERVICE\n\n       I hereby certify that on August 21, 2026, I caused DEFENDANT META PLATFORMS,\n\nINC.’S MEMORANDUM OF LAW IN SUPPORT OF THEIR MOTION TO DISMISS to be\n\nelectronically filed using the Court’s CM/ECF system, and also caused a copy of the foregoing to\n\nbe emailed and mailed via First Class U.S. Postal Mail, postage prepaid to pro se plaintiff at the\n\nfollowing address.\n\n       Marvelle J. Ballentine\n       1520 Belle View Bld., Ste. 5847\n       Alexandria, VA 22307\n       jayballentine@protonmail.com\n\nThis 21st day of August, 2026.\n\n\n                                               By: /s/ Jesse Beringer\n\n                                               Jesse Beringer\n                                               Virginia State Bar No. 88418\n                                               Orrick, Herrington & Sutcliffe LLP\n                                               2100 Pennsylvania Avenue NW\n                                               Washington, D.C. 20037\n                                               T: +1 202 339 8400\n                                               F: +1 202 339 8500\n                                               jberinger@orrick.com\n\n\n\n\n                                                16"
   }
- ],
- "words": 4613
+ ]
 }

@@ -8,7 +8,7 @@ These are court filings. Allegations in them are not findings.
 
 Give your tool this repository's address, or paste this:
 
-> Read https://raw.githubusercontent.com/Ballentine-dev/docket-edva-1-26-cv-02331/main/menu.md. It lists every paper in Ballentine v. Hall. To read a paper, open https://raw.githubusercontent.com/Ballentine-dev/docket-edva-1-26-cv-02331/main/papers/ID.json, replacing ID with the paper's ID from the menu, such as ECF-0084. Read only the papers you need. Answer from their text and cite the ECF number and page.
+> Read https://raw.githubusercontent.com/Ballentine-dev/docket-edva-1-26-cv-02331/main/menu.md. It lists every paper in Ballentine v. Hall. To read a paper, open https://raw.githubusercontent.com/Ballentine-dev/docket-edva-1-26-cv-02331/main/papers/ID.json, replacing ID with the paper's ID from the menu, such as ECF-0084. Read only the papers you need. Each paper lists the papers connected to it under refers_to and referred_to_by. Answer from their text and cite the ECF number and page.
 
 ## What is here
 
@@ -17,6 +17,7 @@ Give your tool this repository's address, or paste this:
 | `menu.md`, `menu.json` | One row per paper: ID, date, who filed it, a short description, pages, words |
 | `papers/` | One file per paper, with the text page by page |
 | `pleadings/` | The two complaints paragraph by paragraph, with their own menu |
+| `links.json` | Which papers refer to which, with the words each link rests on |
 | `master-docket.json` | Every paper in one file, for download or search |
 | `case.json` | Court, judges, parties |
 | `tools/docket.py` | Command-line lookup; needs only Python 3 |
@@ -27,6 +28,9 @@ python3 tools/docket.py get 84
 python3 tools/docket.py get 84 2
 python3 tools/docket.py para 5 112-118
 python3 tools/docket.py find "exact phrase"
+python3 tools/docket.py search discovery scheduling
+python3 tools/docket.py around 108
+python3 tools/docket.py check 84 2 "discovery officially begins"
 ```
 
 The tool also runs by itself, reading this repository over the web.
@@ -39,7 +43,11 @@ The tool also runs by itself, reading this repository over the web.
 
 ## Each paper's fields
 
-`id`, `cite`, `date`, `filed_by`, `description`, `docket_title`, `status`, `text_source`, `page_count`, `words`, `pages` (each with `page` and `text`).
+`id`, `cite`, `date`, `filed_by`, `description`, `docket_title`, `status`, `text_source`, `page_count`, `words`, `refers_to`, `referred_to_by`, `decided_by` and `decides` where they apply, and `pages` (each with `page` and `text`).
+
+## Links between papers
+
+Each paper's file lists the papers it refers to and the papers that refer to it, so opening one order shows what surrounds it. The links come from the words of the docket and the papers, and those words are stored with each link. They show that one paper names another, not what it argues. A paper can discuss another without a link appearing here, because the links do not come from reading each paper's body.
 
 ## How far to rely on the text
 

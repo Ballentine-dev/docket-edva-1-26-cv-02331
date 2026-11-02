@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 217,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -18,6 +21,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD           Document 34        Filed 08/26/26      Page 2 of 2 PageID# 374\n\n\n\n\n                                   CERTIFICATE OF SERVICE\n\n         I hereby certify that on August 26, 2026, I caused foregoing to be electronically filed\n\n  using the Court’s CM/ECF system, and also caused a copy of the foregoing to be emailed and\n\n  mailed via First Class U.S. Postal Mail, postage prepaid to pro se plaintiff at the following\n\n  address.\n\n         Marvelle J. Ballentine\n         1520 Belle View Bld., Ste. 5847\n         Alexandria, VA 22307\n         jayballentine@protonmail.com\n\n  This 26th day of August, 2026.\n\n\n                                                 By: /s/ Hillary Dang\n                                                 Hillary Dang"
   }
- ],
- "words": 217
+ ]
 }

@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 198,
+ "refers_to": [
+  {
+   "id": "ECF-0010",
+   "description": "NCMEC asks the Court to dismiss the complaint",
+   "words": "Notice of Hearing Date re 10 MOTION to Dismiss (Keane, Padra"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0050",
+   "filed_by": "Court",
+   "description": "Order vacating September 30 hearing; decided on papers",
+   "words": "ticed for September 30, 2026 (Dkt. 38) on the Defendant Nation"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +34,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD          Document 38        Filed 08/31/26      Page 2 of 2 PageID# 388\n\n\n\n\n                                  CERTIFICATE OF SERVICE\n\n         I hereby certify that on August 31, 2026, a true and correct copy of the foregoing Notice of\n\n  Hearing was served via U.S Mail and Email upon all counsel of record.\n\n\n                                                      /s/ Padraic K. Keane\n                                                      Padraic K. Keane\n\n\n\n\n                                                  2"
   }
- ],
- "words": 198
+ ]
 }

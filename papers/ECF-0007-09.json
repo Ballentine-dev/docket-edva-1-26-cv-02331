@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 11,
+ "words": 1626,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -54,6 +57,5 @@
    "page": 11,
    "text": "Case 1:26-cv-02331-RDA-IDDDocument 7-9 Filed 08/06/26 Page 11 of 11 PageID#\n                                   203\n    2025 CyberTipline Reports by Electronic Service Providers (ESPs)   l0\n\n\n           ESP                                                                                       Reports\n           Yubo                                                                                              731\n           Zello                                                                                               7\n           Zoom Video Communications, Inc                                                                    768\n\n\n\n\nThe following is a breakdown of reports submitted to the CyberTipline by other hotlines or services.\n\n\n\n           Hotline Reporters                                                                         Reports\n            INHOPE                                                                                    225,349\n            NTOC                                                                                        14,373\n            Polaris Project                                                                                  312\n            Take It Down                                                                               130,362\n\n\n\n\n                                     NCMEC.org/CyberTiplineData\n                   Copyright © 2026 National Center for Missing & Exploited Children. All rights reserved."
   }
- ],
- "words": 1626
+ ]
 }

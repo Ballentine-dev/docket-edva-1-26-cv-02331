@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "Plaintiff's file copy, not the docketed image",
  "page_count": null,
+ "words": 997,
+ "refers_to": [
+  {
+   "id": "ECF-0106",
+   "description": "Memorandum supporting the Rule 26(f) conference motion",
+   "words": "Declaration in re 106 Memorandum in Support, filed by Mar"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -34,6 +43,5 @@
    "page": 6,
    "text": "Exhibit\nA\nB\nC-1\nC-2\nEXHIBIT INDEX\nContents\nRule 26(f) Conference by Written Exchange — Common Agenda for All\nAppearing Parties, transmitted October 16, 2026 (unchanged).\nOctober 16, 2026 transmission email, with headers and attachment names.\nOctober 28, 2026 email from Plaintiff to Padraic K. Keane, counsel for NCMEC\nand Hall, and Mr. Keane's same-day reply, with headers.\nOctober 28, 2026 email from Plaintiff to Jesse Beringer and Hillary Dang, counsel\nfor Meta, with headers.\n6"
   }
- ],
- "words": 997
+ ]
 }

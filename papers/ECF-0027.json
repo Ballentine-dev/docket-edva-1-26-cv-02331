@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 6,
+ "words": 1482,
+ "refers_to": [
+  {
+   "id": "ECF-0026",
+   "description": "Asks leave to supplement the complaint; later withdrawn",
+   "words": "Memorandum in Support in re 26 MOTION for Leave to File Supple"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -34,6 +43,5 @@
    "page": 6,
    "text": "Case 1:26-cv-02331-RDA-IDD          Document 27        Filed 08/21/26     Page 6 of 6 PageID# 325\n\n\n\n\n         III.    The Pending Rule 12 Posture Does Not Make Supplementation Futile.\n\n         Rule 15(d) expressly permits subsequent events to be added to an existing pleading. The\n\n  presence of pending Rule 12 motions does not change the temporal character or the relevance of\n\n  those subsequent events.\n\n         Exhibit A does not create independent causes of action from the post-filing litigation\n\n  statements. For Count III, the subsequent events bear on existing issues of knowledge, state of\n\n  mind, intent or recklessness, and continuing injury. For Count IV, Meta's filing bears on existing\n\n  issues of knowledge, awareness, state of mind, and circumstantial evidence.\n\n         The question this Motion presents is whether the subsequent events may be pleaded, not\n\n  whether Counts III and IV ultimately succeed. The Court can grant leave without resolving the\n\n  merits of either count.\n\n                                          CONCLUSION\n\n         The Court should grant Plaintiff leave under Federal Rule of Civil Procedure 15(d) to file\n\n  the Proposed Supplemental Complaint attached as Exhibit A.\n\n\n\n  Date: August 20, 2026                                                     Respectfully submitted,\n\n\n\n\n                                                                             Marvelle J. Ballentine\n                                                                                    Plaintiff, pro se\n                                                                 1520 Belle View Blvd, Ste. #5847\n                                                                       Alexandria, Virginia 22307\n                                                                                   (407) 794-6503\n                                                                    jayballentine@protonmail.com"
   }
- ],
- "words": 1482
+ ]
 }

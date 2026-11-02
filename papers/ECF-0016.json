@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 7,
+ "words": 1950,
+ "refers_to": [
+  {
+   "id": "ECF-0015",
+   "description": "Asks leave to serve three early interrogatories on NCMEC",
+   "words": "Memorandum in Support in re 15 MOTION for Leave to Serve Three"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -38,6 +47,5 @@
    "page": 7,
    "text": "Case 1:26-cv-02331-RDA-IDD Document16- Filed 08/20/26 Page 7 of 7 PagelD# 249\n\nThe Fourth Circuit has recognized that dispositive relief ordinarily should not rest on facts\nwithin the moving party’s exclusive control when the opposing party has been denied any\nopportunity to test them. Harrods Ltd. v. Sixty Internet Domain Names, 302 F.3d 214, 244—47 (4th\nCir. 2002). NCMEC asks the Court to resolve a fact-dependent truth argument against Plaintiff on\nthe basis of Plaintiff’s lack of access to records NCMEC controls; the three answers requested are\nthe least discovery that could test that argument. Harrods arose under Rule 56, and Plaintiff does\nnot contend that the Court cannot rule on NCMEC’s motion without discovery.\n\nCONCLUSION\n\nThis Motion asks for three answers. NCMEC asks for dismissal. NCMEC says its April 22\nstatement was true. NCMEC will not say whom the statement was about. It told the Court the\nreports may concern Plaintiff, a person with his name, or an email address. Only the reports can\nsupply that source-level answer. NCMEC has them. Plaintiff does not. NCMEC relies on that fact\nto argue Plaintiff cannot dispute truth at all. A party should not obtain dismissal on a fact-dependent\ntruth theory by relying on records it alone controls while refusing the limited discovery necessary\nto test that theory. The Court should not decide truth on records one side holds and the other side\nhas never seen. Three closed questions cure that. Rule 26(d)(1) permits them. The Motion should\nbe granted.\n\nDate: August 20, 2026 Respectfully submitted,\n\nrp\n\nMarvelle J. Ballentine\n\nPlaintiff, pro se\n\n1520 Belle View Blvd, Ste. #5847\nAlexandria, Virginia 22307\n\n(407) 794-6503\njayballentine@protonmail.com"
   }
- ],
- "words": 1950
+ ]
 }

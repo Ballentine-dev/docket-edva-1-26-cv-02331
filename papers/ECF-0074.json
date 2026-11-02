@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 7,
+ "words": 2111,
+ "refers_to": [
+  {
+   "id": "ECF-0059",
+   "description": "Asks leave to file second amended, supplemental complaint",
+   "words": "Opposition to 59 MOTION to Amend/Correct MOTION"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0082",
+   "filed_by": "Court",
+   "description": "Order granting supplement; accepted as reply on interrogatories",
+   "words": "Opposition to Plaintiff's Motion for Leave to File Second Amended Complaint 74"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -38,6 +54,5 @@
    "page": 7,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 74 _ Filed 09/18/26 Page 7 of 7 PagelD# 758\n\nIV. CONCLUSION\n\nIn light of the foregoing, NCMEC respectfully submits that Plaintiff's Motion for Leave\nto File a Second Amended Complaint be denied, on the basis of futility, or in the alternative that\nthe Motion be held in abeyance until the Court has had the opportunity to rule on the pending\nMotions to Dismiss, in the event the Court believes that any defects in the pleadings could be\n\naddressed via amendment.\n\nRespectfully submitted,\nJORDAN COYNE LLP\n\n/s/ Padraic K. Keane\n10201 Fairfax Boulevard, Suite 520\nFairfax, VA 22030\n(703) 246-0900\nFax: (703) 591-3673\np.keane@jocs-law.com\nCounsel for Defendants Katie Hall, Esq. &\nthe National Center for Missing and Exploited\nChildren\n\nCERTIFICATE OF SERVICE\n\nI hereby certify that true and correct copies of this Opposition were electronically filed\nand served, and were served via first-class mail, postage prepaid, and electronic mail, on this\n18th day of September, 2026, upon:\n\nMarvelle J. Ballentine\n\n1520 Belle View Boulevard, Suite 5847\nAlexandria, VA 22307\njayballentine@protonmail.com\n\nPro Se Plaintiff\n\n/s/ Padraic K. Keane\nPadraic K. Keane"
   }
- ],
- "words": 2111
+ ]
 }

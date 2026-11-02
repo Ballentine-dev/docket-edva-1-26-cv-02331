@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 266,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -18,6 +21,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD Document15-1 Filed 08/20/26 Page 2 of 2 PagelD#\n240\n\nINTERROGATORY NO. 2: Subject to the same exclusions, did either report, as\noriginally received by NCMEC, contain or otherwise identify “Jay Ballentine”?\n\nINTERROGATORY NO. 3: Subject to the same exclusions, did either report, as\noriginally received by NCMEC, contain’ or _ otherwise identify\njaychizza@icloud.com?\n\nDate: August 20, 2026 Respectfully submitted,\n\nrp\n\nMarvelle J. Ballentine\n\nPlaintiff, pro se\n\n1520 Belle View Blvd, Ste. #5847\nAlexandria, Virginia 22307\n\n(407) 794-6503\njayballentine@protonmail.com"
   }
- ],
- "words": 266
+ ]
 }

@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 20,
+ "words": 5555,
+ "refers_to": [
+  {
+   "id": "ECF-0059",
+   "description": "Asks leave to file second amended, supplemental complaint",
+   "words": "Memorandum in Support in re 59 MOTION for Leave to File Second"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0064",
+   "filed_by": "Court",
+   "description": "Order requiring a redline of the proposed complaint",
+   "words": "ion of the Amended Complaint [Dkt. Nos. 59-1, 60-1], no later than Septembe"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -90,6 +106,5 @@
    "page": 20,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 60 _ Filed 09/08/26 Page 20 of 20 PagelD#\n584\n\n5. Memorandum in Support of Plaintiff’s Motion for Leave to File Second Amended\nand Supplemental Complaint Pursuant to Federal Rules of Civil Procedure 15(a)(2)\nand 15(d), and Request for Expedited Determination on the Papers;\n\n6. the Certificate of Service accompanying the Motion; and\n\n7. this Certification Pursuant to Local Civil Rule 83.1(N).\n\nThis certification applies to each and every document identified above.\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\nDp\n\nSignature of Pro Se Litigant\nExecuted on: September 7, 2026"
   }
- ],
- "words": 5555
+ ]
 }

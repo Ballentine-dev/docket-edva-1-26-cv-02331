@@ -9,11 +9,13 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 1,
+ "words": 130,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
    "text": "UNITED STATES DISTRICT COURT\n                      FOR THE EASTERN DISTRICT OF VIRGINIA\n                                Alexandria Division\n\nMARVELLE J. BALLENTINE,                       )\n                                              )\n       Plaintiff,                             )\n                                              )\nv.                                            )      Case No. 1:26-CV-02331-RDA-IDD\n                                              )\nTHE NATIONAL CENTER FOR                       )\nMISSING & EXPLOITED CHILDREN,                 )\nET AL.,                                       )\n                                              )\n       Defendants.                            )\n\n                                             ORDER\n\n       UPON CONSIDERATION of the Motion to Dismiss of Defendant the National Center\n\nfor Missing & Exploited Children, any Opposition thereto, and the entire record herein, it is, this\n\n_____ day of _________________, 2026,\n\n       ORDERED, that the Motion be, and the same hereby is, GRANTED; and it is\n\n       FURTHER ORDERED, that Plaintiff’s Complaint is dismissed, with prejudice, as to the\n\nNational Center for Missing & Exploited Children, and as to its employee, Defendant Hall.\n\n\n\n\n                                                     U.S. District Court Judge\n\nCopies to: Pro Se Plaintiff and All Counsel of Record"
   }
- ],
- "words": 130
+ ]
 }

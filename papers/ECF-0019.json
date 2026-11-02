@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "Plaintiff's file copy, not the docketed image",
  "page_count": null,
+ "words": 491,
+ "refers_to": [
+  {
+   "id": "ECF-0018",
+   "description": "Second proof of service on Meta filed",
+   "words": "Marvelle J. Ballentine in re 18 SUMMONS Returned Executed. (triv"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -22,6 +31,5 @@
    "page": 3,
    "text": "CERTIFICATE OF SERVICE\nI certify that on August 20, 2026, I submitted the foregoing Notice, together with the\ncorrected return attached hereto, to the Clerk of Court through the Court's Electronic Document\nSubmission System for docketing on CM/ECF. Upon docketing, counsel for Defendant National\nCenter for Missing & Exploited Children will receive notice through the Court's CM/ECF system.\nPursuant to Federal Rules of Civil Procedure 5(a)(1) and 5(b)(2)(C), I served a true and correct\ncopy of the foregoing by first-class mail, postage prepaid, addressed as follows: Katie Hall, c/o\nNational Center for Missing & Exploited Children, 333 John Carlyle Street, Suite 125, Alexandria,\nVirginia 22314; and Meta Platforms, Inc., c/o CSC - Lawyers Incorporating Service, 2710\nGateway Oaks Drive, Suite 150N, Sacramento, California 95833.\nMarvelle J. Ballentine"
   }
- ],
- "words": 491
+ ]
 }

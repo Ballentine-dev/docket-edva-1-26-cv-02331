@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 6,
+ "words": 1029,
+ "refers_to": [
+  {
+   "id": "ECF-0015",
+   "description": "Asks leave to serve three early interrogatories on NCMEC",
+   "words": "Reply in Support of His Motion for Leave to Serve Limited Discovery"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -34,6 +43,5 @@
    "page": 6,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 36 Filed 08/27/26 Page 6 of 6 PagelD# 384\n\nCERTIFICATION PURSUANT TO LOCAL CIVIL RULE 83.1(N)\n\nPursuant to Local Civil Rule 83.1(N), I declare under penalty of perjury that no attorney has\nprepared, or assisted in the preparation of, the foregoing Reply in Support of Plaintiff’s Motion for\nLeave to Serve Limited Discovery Pursuant to Federal Rule of Civil Procedure 26(d)(1) (ECF No.\n\n15).\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\n~*D\n\nSignature of Pro Se Litigant\n\nDated: August 27, 2026"
   }
- ],
- "words": 1029
+ ]
 }
