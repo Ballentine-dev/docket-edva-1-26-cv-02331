@@ -1,6 +1,6 @@
 # Docket menu: Ballentine v. Hall, No. 1:26-cv-02331 (E.D. Va.)
 
-One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are pointers only, not a source. A word count of 0 means no text is available.
+One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are pointers only, not a source. A word count of 0 means no text is available. A blank in Decided by does not mean a motion is pending.
 
 ## Docket entries
 
