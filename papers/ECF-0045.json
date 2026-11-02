@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 420,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0048",
+   "filed_by": "Court",
+   "description": "Court's notice explaining response to Hall's dismissal motion",
+   "words": "an opposing party has filed a motion to dismiss"
+  },
+  {
+   "id": "ECF-0051",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's protective opposition to Hall's motion to dismiss",
+   "words": "Protective Opposition to 45 MOTION to Dismiss, filed by Mar"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +34,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD           Document 45        Filed 09/02/26      Page 2 of 2 PageID# 435\n\n\n\n\n  support a claim of intentional infliction of emotional distress; and because Plaintiff’s claims of\n\n  conspiracy are predicated on conclusory, illogical allegations.\n\n         WHEREFORE, for the reasons set forth above, Defendant Katie Hall, Esq. respectfully\n\n  requests that Plaintiff’s First Amended Complaint be dismissed, with prejudice, and for such\n\n  additional relief as this Honorable Court may deem necessary and appropriate.\n\n                                                Respectfully submitted,\n\n                                                JORDAN COYNE LLP\n\n                                                 /s/ Padraic K. Keane\n                                                10201 Fairfax Boulevard, Suite 520\n                                                Fairfax, VA 22030\n                                                (703) 246-0900\n                                                Fax: (703) 591-3673\n                                                p.keane@jocs-law.com\n                                                Counsel for Defendants Katie Hall, Esq. &\n                                                the National Center for Missing and Exploited\n                                                Children\n\n                                    CERTIFICATE OF SERVICE\n\n         I hereby certify that true and correct copies of this Motion to Dismiss and the proposed\n\n  Order were electronically filed and served, and were served via first-class mail, postage prepaid,\n\n  and electronic mail, on this 2nd day of September, 2026, upon:\n\n                         Marvelle J. Ballentine\n                         1520 Belle View Boulevard, Suite 5847\n                         Alexandria, VA 22307\n                         jayballentine@protonmail.com\n                         Pro Se Plaintiff\n\n\n                                                         /s/ Padraic K. Keane\n                                                        Padraic K. Keane"
   }
- ],
- "words": 420
+ ]
 }

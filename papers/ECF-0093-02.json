@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 5,
+ "words": 1298,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +33,5 @@
    "page": 5,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 93-2 Filed 10/13/26 Page 5 of 5 PagelD#\n956\n\nORDERED that the Interim Order entered at ECF No. ___ expires upon entry of this Order.\n\nThe Clerk is DIRECTED to send a copy of this Order to Plaintiff at his address of record\nand to all counsel of record.\n\nIt is so ORDERED.\n\nAlexandria, Virginia\n, 2026\n\nRossie D. Alston, Jr.\nUnited States District Judge"
   }
- ],
- "words": 1298
+ ]
 }

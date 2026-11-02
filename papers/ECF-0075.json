@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "Plaintiff's file copy, not the docketed image",
  "page_count": null,
+ "words": 522,
+ "refers_to": [
+  {
+   "id": "ECF-0043",
+   "description": "Asks leave to file sur-reply to Meta's reply",
+   "words": "Reply in Support in re 43 MOTION for Leave to File Sur-Re"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +39,5 @@
    "page": 5,
    "text": "CERTIFICATE OF SERVICE\nI certify that on September 17, 2026, I submitted the foregoing Plaintiff's Reply in Support\nof Motion for Leave to File Sur-Reply, which contains the disclosure and certification required by\nthe Court and the certification required by Local Civil Rule 83.1(N), to the Clerk of Court through\nthe Court's Electronic Document Submission System for docketing on CM/ECF. Upon docketing,\ncounsel of record will receive notice through the Court's CM/ECF system.\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 522
+ ]
 }

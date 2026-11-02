@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 7,
+ "words": 1765,
+ "refers_to": [
+  {
+   "id": "ECF-0054",
+   "description": "Asks leave to serve four early interrogatories on Meta",
+   "words": "RESPONSE in Opposition re 54 MOTION Under Federal Rule of Ci"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -38,6 +47,5 @@
    "page": 7,
    "text": "Case 1:26-cv-02331-RDA-IDD            Document 73       Filed 09/17/26      Page 7 of 7 PageID# 751\n\n\n\n\n                                   CERTIFICATE OF SERVICE\n\n         I hereby certify that on September 17, 2026, I caused the foregoing to be electronically\n\n  filed using the Court’s CM/ECF system, and also caused a copy of the foregoing to be mailed via\n\n  First Class U.S. Postal Mail, postage prepaid to pro se plaintiff at the following address.\n\n         Marvelle J. Ballentine\n         1520 Belle View Bld., Ste. 5847\n         Alexandria, VA 22307\n\n  This 17th day of September, 2026.\n\n\n                                                  By: /s/ Hillary Dang\n                                                  Hillary Dang\n\n\n\n\n                                                   7"
   }
- ],
- "words": 1765
+ ]
 }

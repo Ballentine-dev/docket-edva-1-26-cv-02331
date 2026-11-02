@@ -9,6 +9,14 @@
  "status": "Docketed",
  "text_source": "Docket text only; this row has no document",
  "page_count": null,
- "pages": [],
- "words": 0
+ "words": 0,
+ "refers_to": [
+  {
+   "id": "ECF-0050",
+   "description": "Order vacating September 30 hearing; decided on papers",
+   "words": "r 9/30/2026 is terminated per ECF 50. (kgall)"
+  }
+ ],
+ "referred_to_by": [],
+ "pages": []
 }

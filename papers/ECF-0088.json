@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "Plaintiff's file copy, not the docketed image",
  "page_count": null,
+ "words": 559,
+ "refers_to": [
+  {
+   "id": "ECF-0086",
+   "description": "Asks to disqualify Magistrate Judge Davis, decide first",
+   "words": "of Waiver of Oral Argument re 86 MOTION to Disqualify Magistrate"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +39,5 @@
    "page": 5,
    "text": "GENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\nCERTIFICATION\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\nDate: October 13, 2026\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 559
+ ]
 }

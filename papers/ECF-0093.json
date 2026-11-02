@@ -9,6 +9,63 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 9,
+ "words": 2141,
+ "refers_to": [
+  {
+   "id": "ECF-0064",
+   "description": "Order requiring a redline of the proposed complaint",
+   "words": "MOTION for Targeted Vactur of ECF Nos. 64 and 84, Withdrawal or Modificatio"
+  },
+  {
+   "id": "ECF-0084",
+   "description": "Order denying early interrogatories and leave to amend",
+   "words": "MOTION for Targeted Vactur of ECF Nos. 64 and 84, Withdrawal or Modificatio"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0094",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting vacatur and change of the referral",
+   "words": "Memorandum in Support re 93 MOTION for Targeted Vactur of E"
+  },
+  {
+   "id": "ECF-0095",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on the vacatur motion",
+   "words": "of Waiver of Oral Argument re 93 MOTION for Targeted Vactur of E"
+  },
+  {
+   "id": "ECF-0098",
+   "filed_by": "Plaintiff",
+   "description": "Asks Alston to set aside that mootness order",
+   "words": "and Grant Leave to Supplement ECF No. 93, filed by Marvelle J. Ball"
+  },
+  {
+   "id": "ECF-0101",
+   "filed_by": "Meta",
+   "description": "Meta opposes the motions at ECF 90, 93",
+   "words": "RESPONSE in Opposition re 93 MOTION, 90 MOTION to Set Aside"
+  },
+  {
+   "id": "ECF-0102",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's reply supporting the motions at ECF 90, 93",
+   "words": "on of the Pending Objections, 93 MOTION for Targeted Vactur of E"
+  },
+  {
+   "id": "NOH-A",
+   "filed_by": "Plaintiff",
+   "description": "Notices ECF 89, 90, 93, 97, 98 for December 16",
+   "words": "Noticed for hearing"
+  },
+  {
+   "id": "PKG-09-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks leave to report events since ECF 93, 97–99",
+   "words": "Relevant to ECF Nos. 93 and 97–99"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -46,6 +103,5 @@
    "page": 9,
    "text": "Case 1:26-cv-02331-RDA-IDD Document93_ Filed 10/13/26 Page 9 of 9 PagelD# 947\n\nGENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\nCERTIFICATION\n\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\n\nDate: October 13, 2026\n\n—rD\n\nMarvelle J. Ballentine\nPlaintiff, pro se"
   }
- ],
- "words": 2141
+ ]
 }

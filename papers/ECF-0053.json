@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 5,
+ "words": 1198,
+ "refers_to": [
+  {
+   "id": "ECF-0026",
+   "description": "Asks leave to supplement the complaint; later withdrawn",
+   "words": "RESPONSE in Opposition re 26 MOTION to Amend/Correct filed b"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +39,5 @@
    "page": 5,
    "text": "Case 1:26-cv-02331-RDA-IDD           Document 53        Filed 09/03/26     Page 5 of 5 PageID# 459\n\n\n\n\n         I hereby certify that on September 3, I caused DEFENDANT META PLATFORMS,\n\n  INC.’S RESPONSE IN OPPOSITION TO PLAINTIFF’S MOTION FOR LEAVE TO FILE\n\n  SUPPLEMENTAL COMPLAINT to be electronically filed using the Court’s CM/ECF system,\n\n  and also caused a copy of the foregoing to be emailed and mailed via First Class U.S. Postal\n\n  Mail, postage prepaid to pro se plaintiff at the following address.\n\n         Marvelle J. Ballentine\n         1520 Belle View Bld., Ste. 5847\n         Alexandria, VA 22307\n         jayballentine@protonmail.com\n\n  This 3rd day of September, 2026.\n\n\n                                                  By: /s/ Jesse Beringer\n\n                                                  Jesse Beringer\n                                                  Virginia State Bar No. 88418\n                                                  Orrick, Herrington & Sutcliffe LLP\n                                                  2100 Pennsylvania Avenue NW\n                                                  Washington, D.C. 20037\n                                                  T: +1 202 339 8400\n                                                  F: +1 202 339 8500\n                                                  jberinger@orrick.com\n\n\n\n\n                                                   5"
   }
- ],
- "words": 1198
+ ]
 }

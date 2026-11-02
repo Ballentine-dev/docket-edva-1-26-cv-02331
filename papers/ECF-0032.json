@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "OCR of the docketed PDF",
  "page_count": 5,
+ "words": 1371,
+ "refers_to": [
+  {
+   "id": "ECF-0026",
+   "description": "Asks leave to supplement the complaint; later withdrawn",
+   "words": "Opposition to 26 MOTION to Amend/Correct filed b"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +39,5 @@
    "page": 5,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 32\nFiled 08/26/26 Page 5 of 5 PagelD# 367\nrequested to subpoenas. Rather, it certainly appears that this is a further attempt to prolong what\nNCMEC believes is frivolous litigation. Given the lack of any meaningful explanation as to why\nsupplementation is necessary, and given the events Plaintiff claims give rise to the need for\nsupplementation, NCMEC respectfully submits that Plaintiff's Motion should be denied\nRespectfully submitted,\nJORDAN COYNE LLP\nIs/ Padraic K. Keane\n10201 Fairfax Boulevard, Suite 520\nFairfax, VA 22030\n(703) 246-0900\nFax: (703) 591-3673\np.keane@jocs-law.com\nCounsel for Defendant the National Center\nFor Missing and Exploited Children\nCERTIFICATE OF SERVICE\nI hereby certify that true and correct copies of the foregoing were electronically filed and\nserved on all counsel of record, and were served via first-class mail, postage prepaid, and\nelectronic mail, on this 26th day of August, 2026, upon:\nMarvelle J. Ballentine\n1520 Belle View Boulevard, Suite 5847\nAlexandria, VA 22307\njayballentine@protonmail.com\nPro Se Plaintiff\n/s/ Padraic K. Keane\nPadraic K. Keane\n5"
   }
- ],
- "words": 1371
+ ]
 }

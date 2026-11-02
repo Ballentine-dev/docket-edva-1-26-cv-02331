@@ -9,6 +9,62 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 10,
+ "words": 2065,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0060",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum and proposed complaint supporting that leave request",
+   "words": "Memorandum in Support in re 59 MOTION for Leave to File Second"
+  },
+  {
+   "id": "ECF-0061",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on that leave request",
+   "words": "Waiver of Oral Argument in re 59 MOTION for Leave to File Second"
+  },
+  {
+   "id": "ECF-0064",
+   "filed_by": "Court",
+   "description": "Order requiring a redline of the proposed complaint",
+   "words": "ion of the Amended Complaint [Dkt. Nos. 59-1, 60-1], no later than Septembe"
+  },
+  {
+   "id": "ECF-0067",
+   "filed_by": "Plaintiff",
+   "description": "Asks to set aside redline order, restore argument",
+   "words": "nt Following Determination of ECF No. 59, filed by Marvelle J. Ball"
+  },
+  {
+   "id": "ECF-0074",
+   "filed_by": "NCMEC and Hall",
+   "description": "NCMEC and Hall oppose leave to file amended complaint",
+   "words": "Opposition to 59 MOTION to Amend/Correct MOTION"
+  },
+  {
+   "id": "ECF-0083",
+   "filed_by": "Meta",
+   "description": "Meta opposes leave to file the amended complaint",
+   "words": "RESPONSE in Opposition re 59 MOTION to Amend/Correct MOTION"
+  },
+  {
+   "id": "ECF-0084",
+   "filed_by": "Court",
+   "description": "Order denying early interrogatories and leave to amend",
+   "words": "Leave to File Second Amended Complaint 59 is DENIED. Plaintiff was"
+  },
+  {
+   "id": "PKG-03-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks leave to amend complaint and add Souras",
+   "words": "moved for leave to file a second amended and supplemental complaint (ECF No. 59)"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0084",
+  "words": "DENIED"
+ },
  "pages": [
   {
    "page": 1,
@@ -50,6 +106,5 @@
    "page": 10,
    "text": "Case 1:26-cv-02331-RDA-IDD         Document 59       Filed 09/08/26      Page 10 of 10 PageID#\n                                           506\n\n\n\n       5.     Memorandum in Support of Plaintiff's Motion for Leave to File Second Amended\n\n              and Supplemental Complaint Pursuant to Federal Rules of Civil Procedure 15(a)(2)\n\n              and lS(d), and Request for Expedited Determination on the Papers;\n\n       6.     the Certificate of Service accompanying the Motion; and\n\n        7.    this Certification Pursuant to Local Civil Rule 83.l(N).\n\n       This certification applies to each and every document identified above.\n\n       Name of Pro Se Litigant: Marvelle J. Ballentine\n\n\n\n\n                                                                     Signature of Pro Se Litigant\n Executed on: September 7, 2026"
   }
- ],
- "words": 2065
+ ]
 }

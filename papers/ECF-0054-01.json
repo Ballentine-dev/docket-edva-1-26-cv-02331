@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 253,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -18,6 +21,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD Document54-1 Filed 09/03/26 Page 2 of 2 PagelD#\n466\n\nINTERROGATORY NO. 3: Did any such report, as submitted by Meta, contain or\notherwise identify “Jay Ballentine”?\n\nINTERROGATORY NO. 4: Did any such report, as submitted by Meta, contain or\notherwise identify jaychizza@icloud.com?\n\nDate: September 3, 2026 Respectfully submitted,\n\nrp\n\nMarvelle J. Ballentine\n\nPlaintiff, pro se\n\n1520 Belle View Blvd, Ste. #5847\nAlexandria, Virginia 22307\n\n(407) 794-6503\njayballentine@protonmail.com"
   }
- ],
- "words": 253
+ ]
 }

@@ -9,6 +9,16 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 49,
+ "words": 13235,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0064",
+   "filed_by": "Court",
+   "description": "Order requiring a redline of the proposed complaint",
+   "words": "ade to Plaintiff's Complaint [Dkt. No. 1]. Signed by Magistrate J"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -206,6 +216,5 @@
    "page": 49,
    "text": "Case 1:26-cv-02331-RDA-IDD                 Document 1               Filed 07/30/26        Page 49 of 49 PageID# 49\n\n\n\n\n                                         UNITED STATES DISTRICT COURT\n                                         EASTERN DISTRICT OF VIRGINIA\n                                                                             DIVISION\n\n\n\n\nmarvU.1^              ^iVe ,\\'b\n             V.\n                                                                 Civil Action Number;    j            1^331\n\ny'/A.'H'-g- iVvi)      cf~\n              Defendan(:(s),\n\n\n\n                                    LOCAL RULE 83.1 (N) CERTIFICATION\n\n\n     I declare under penalty of perjury that:\n                                                                          r iD(WP 1              iC                  0^\n     No attorney has prepared or assisted in the preparation of                         (Title of Document)\n\n     MaA/Mp                 (24iie£^\n     Name of ProTe Party (Print or Type)\n\n\n      Signature oCPro Se Parly\n\n      Executed on:                          (Dale)\n\n                                                             OR\n\n\n\n      The following attorney(s) prepared or assisted me in preparation of                    (Title of Document)\n\n\n\n      (Name of Attorney)\n\n\n      (Address of Attorney)\n\n\n      (Teleplione Number of Attorney)\n      Prepared, or assisted in tlic preparation of. this document.\n\n\n      (Name o’f Pro Se Party (Print or Type)\n\n       Signature of Pro Sc 1‘arty\n\n       Executed on:                                  (^i )aic)"
   }
- ],
- "words": 13235
+ ]
 }

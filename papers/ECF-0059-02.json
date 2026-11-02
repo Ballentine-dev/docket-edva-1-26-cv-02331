@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 4,
+ "words": 461,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -26,6 +29,5 @@
    "page": 4,
    "text": "Case 1:26-cv-02331-RDA-IDD Document59-2 Filed 09/08/26 Page 4 of 4 PagelD#\n562\n\nI declare under penalty of perjury that the foregoing is true and correct pursuant to 28\n\nU.S.C. § 1746.\n\nExecuted on September 7, 2026.\n\n—rD\n\nMarvelle J. Ballentine\n\nPlaintiff, pro se\n\n1520 Belle View Blvd., Ste. #5847\nAlexandria, Virginia 22307\n\n(407) 794-6503\njayballentine@protonmail.com"
   }
- ],
- "words": 461
+ ]
 }

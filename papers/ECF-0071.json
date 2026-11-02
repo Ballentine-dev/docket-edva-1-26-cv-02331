@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 8,
+ "words": 1670,
+ "refers_to": [
+  {
+   "id": "ECF-0039",
+   "description": "Meta's reply supporting its motion to dismiss",
+   "words": "Sur-Reply to 39 Reply to Response to Motion fi"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -42,6 +51,5 @@
    "page": 8,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 71 Filed 09/17/26 Page 8 of 8 PagelD# 739\n\nCERTIFICATION PURSUANT TO LOCAL CIVIL RULE 83.1(N)\n\nPursuant to Local Civil Rule 83.1(N), I declare under penalty of perjury that no attorney\nhas prepared, or assisted in the preparation of, the foregoing Proposed Sur-Reply to Defendant\nMeta Platforms, Inc.’s Reply in Support of Motion to Dismiss, attached as Exhibit A to Plaintiff’s\n\nMotion for Leave to File Sur-Reply.\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\nrp\n\nSignature of Pro Se Litigant\nDated: September 1, 2026"
   }
- ],
- "words": 1670
+ ]
 }

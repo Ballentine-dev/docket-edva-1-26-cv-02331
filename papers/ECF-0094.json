@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 14,
+ "words": 3861,
+ "refers_to": [
+  {
+   "id": "ECF-0093",
+   "description": "Asks to vacate two orders and change referral",
+   "words": "Memorandum in Support re 93 MOTION for Targeted Vactur of E"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -66,6 +75,5 @@
    "page": 14,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 94 _ Filed 10/13/26 Page 14 of 14 PagelD#\n970\n\nGENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\nCERTIFICATION\n\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\n\nDate: October 13, 2026\n\n—rD\n\nMarvelle J. Ballentine\nPlaintiff, pro se\n\n14"
   }
- ],
- "words": 3861
+ ]
 }

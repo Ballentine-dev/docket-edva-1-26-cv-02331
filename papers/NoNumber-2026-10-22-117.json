@@ -9,6 +9,8 @@
  "status": "Docketed",
  "text_source": "Docket text only; this row has no document",
  "page_count": null,
- "pages": [],
- "words": 0
+ "words": 0,
+ "refers_to": [],
+ "referred_to_by": [],
+ "pages": []
 }

@@ -9,6 +9,8 @@
  "status": "Docketed",
  "text_source": "No document text available from a free source",
  "page_count": 2,
- "pages": [],
- "words": 0
+ "words": 0,
+ "refers_to": [],
+ "referred_to_by": [],
+ "pages": []
 }

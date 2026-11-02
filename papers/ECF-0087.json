@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 15,
+ "words": 4177,
+ "refers_to": [
+  {
+   "id": "ECF-0086",
+   "description": "Asks to disqualify Magistrate Judge Davis, decide first",
+   "words": "Memorandum in Support re 86 MOTION to Disqualify Magistrate"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -70,6 +79,5 @@
    "page": 15,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 87 Filed 10/13/26 Page 15 of 15 PagelD#\n864\n\nGENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\nCERTIFICATION\n\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\n\nDate: October 13, 2026\n\n—rD\n\nMarvelle J. Ballentine\nPlaintiff, pro se\n\n15"
   }
- ],
- "words": 4177
+ ]
 }

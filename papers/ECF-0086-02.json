@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 5,
+ "words": 1042,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -30,6 +33,5 @@
    "page": 5,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 86-2 Filed 10/13/26\n838\n\nVill. Additional Information or Explanations\n\nADDITIONAL INFORMATION OR EXPLANATION\n1. All previously held assets in estate were distributed to heirs on or before May 4, 2025\n\nProduced by Administrative Office of the United States Courts\n\nPage 5 of 5 PagelD#\nPage 4/4"
   }
- ],
- "words": 1042
+ ]
 }

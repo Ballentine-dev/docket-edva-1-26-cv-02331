@@ -9,6 +9,34 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 305,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0022",
+   "filed_by": "Meta",
+   "description": "Meta's memorandum supporting its motion to dismiss",
+   "words": "andum of Law in Support in re 21 MOTION to Dismiss First Amended"
+  },
+  {
+   "id": "ECF-0023",
+   "filed_by": "Meta",
+   "description": "Meta waives oral argument on its dismissal motion",
+   "words": "Waiver of Oral Argument in re 21 MOTION to Dismiss First Amended"
+  },
+  {
+   "id": "ECF-0039",
+   "filed_by": "Meta",
+   "description": "Meta's reply supporting its motion to dismiss",
+   "words": "andum of Law in Support in re 21 MOTION to Dismiss First Amended"
+  },
+  {
+   "id": "ECF-0040",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on NCMEC and Meta dismissal motions",
+   "words": "e in re 10 MOTION to Dismiss, 21 MOTION to Dismiss First Amended"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +46,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD           Document 21        Filed 08/21/26    Page 2 of 2 PageID# 276\n\n\n\n\n                                   CERTIFICATE OF SERVICE\n\n         I hereby certify that on August 21, 2026, I caused DEFENDANT META PLATFORMS,\n\n  INC.’S MOTION TO DISMISS to be electronically filed using the Court’s CM/ECF system, and\n\n  also caused a copy of the foregoing to be emailed and mailed via First Class U.S. Postal Mail,\n\n  postage prepaid pro se plaintiff at the following address.\n\n         Marvelle J. Ballentine\n         1520 Belle View Bld., Ste. 5847\n         Alexandria, VA 22307\n         jayballentine@protonmail.com\n\n  This 21st day of August, 2026.\n\n\n                                                 By: /s/ Jesse Beringer____\n\n                                                 Jesse Beringer\n                                                 Virginia State Bar No. 88418\n                                                 Orrick, Herrington & Sutcliffe LLP\n                                                 2100 Pennsylvania Avenue NW\n                                                 Washington, D.C. 20037\n                                                 T: +1 202 339 8400\n                                                 F: +1 202 339 8500\n                                                 jberinger@orrick.com\n\n                                                 Counsel for Defendant Meta Platforms, Inc.\n\n\n\n\n                                                   2"
   }
- ],
- "words": 305
+ ]
 }

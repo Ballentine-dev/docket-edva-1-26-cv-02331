@@ -9,6 +9,62 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 5,
+ "words": 883,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0055",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting four early interrogatories on Meta",
+   "words": "Memorandum in Support in re 54 MOTION Under Federal Rule of Ci"
+  },
+  {
+   "id": "ECF-0056",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff notices four-interrogatory motion for September 25",
+   "words": "Marvelle J. Ballentine in re 54 MOTION Under Federal Rule of Ci"
+  },
+  {
+   "id": "ECF-0065",
+   "filed_by": "Court",
+   "description": "Order cancelling hearing, setting briefing, requiring AI disclosure",
+   "words": "Plaintiff's Motion under Rule 26(d)(1) to Serve Four Limited Interrogatories on Meta"
+  },
+  {
+   "id": "ECF-0073",
+   "filed_by": "Meta",
+   "description": "Meta opposes the motion for four early interrogatories",
+   "words": "RESPONSE in Opposition re 54 MOTION Under Federal Rule of Ci"
+  },
+  {
+   "id": "ECF-0081",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's reply supporting the four early interrogatories",
+   "words": "Reply in Support of 54 MOTION Under Federal Rule of Ci"
+  },
+  {
+   "id": "ECF-0084",
+   "filed_by": "Court",
+   "description": "Order denying early interrogatories and leave to amend",
+   "words": "s 15 and Motion to Serve Four Interrogatories 54 are DENIED as premature."
+  },
+  {
+   "id": "NoNumber-2026-09-08-116",
+   "filed_by": "Court",
+   "description": "Hearing set September 25 on ECF 54",
+   "words": "ate Judge Ivan D. Davis as to 54 MOTION Under Federal Rule of Ci"
+  },
+  {
+   "id": "NoNumber-2026-09-10-110",
+   "filed_by": "Court",
+   "description": "Hearing on ECF 54 terminated; decided on papers",
+   "words": "Motion Hearing (for Dkt. No. 54) TERMINATED. Motion will"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0084",
+  "words": "DENIED as premature"
+ },
  "pages": [
   {
    "page": 1,
@@ -30,6 +86,5 @@
    "page": 5,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 54 _ Filed 09/03/26 Page 5 of 5 PagelD# 464\n\nCERTIFICATE OF SERVICE\n\nI hereby certify that on September 3, 2026, I submitted the foregoing Plaintiff’s Motion\nUnder Federal Rule of Civil Procedure 26(d)(1) for Leave to Serve Four Limited Interrogatories\non Meta Platforms, Inc. Before the Rule 26(f) Conference, together with the accompanying\nMemorandum in Support, Exhibit A, Proposed Order, and Local Civil Rule 83.1(N) Certification,\nto the Clerk of Court for filing through the Court’s Electronic Document Submission System\n(EDSS).\n\nI further certify that, upon the Clerk’s docketing of the submission on the Court’s Case\nManagement/Electronic Case Filing (CM/ECF) system, a Notice of Electronic Filing will be\ntransmitted to all counsel of record, who are registered users of that system and will be served\n\nthrough that means.\n\n—rD\n\nMarvelle J. Ballentine"
   }
- ],
- "words": 883
+ ]
 }

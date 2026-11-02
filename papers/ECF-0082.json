@@ -9,6 +9,31 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 295,
+ "refers_to": [
+  {
+   "id": "ECF-0033",
+   "description": "NCMEC opposes the motion for three early interrogatories",
+   "words": "Opposition to Plaintiff's Motion for Leave to Serve Limited Discovery 33"
+  },
+  {
+   "id": "ECF-0074",
+   "description": "NCMEC and Hall oppose leave to file amended complaint",
+   "words": "Opposition to Plaintiff's Motion for Leave to File Second Amended Complaint 74"
+  },
+  {
+   "id": "ECF-0078",
+   "description": "Asks leave to supplement memorandum on three-interrogatory motion",
+   "words": "ORDER granting 78 Motion for Leave to File a Supp"
+  }
+ ],
+ "referred_to_by": [],
+ "decides": [
+  {
+   "id": "ECF-0078",
+   "words": "granting 78 Motion"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +43,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD    Document 82   Filed 09/22/26   Page 2 of 2 PageID# 809\n\n                                                              /s/\n                                                  Ivan D. Davis\n       Alexandria, Virginia                       United States Magistrate Judge"
   }
- ],
- "words": 295
+ ]
 }

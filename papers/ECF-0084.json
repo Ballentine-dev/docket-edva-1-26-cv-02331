@@ -9,6 +9,87 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 361,
+ "refers_to": [
+  {
+   "id": "ECF-0015",
+   "description": "Asks leave to serve three early interrogatories on NCMEC",
+   "words": "tiff's Motions to Serve Three Interrogatories 15 and Motion to Serve Four"
+  },
+  {
+   "id": "ECF-0054",
+   "description": "Asks leave to serve four early interrogatories on Meta",
+   "words": "s 15 and Motion to Serve Four Interrogatories 54 are DENIED as premature."
+  },
+  {
+   "id": "ECF-0059",
+   "description": "Asks leave to file second amended, supplemental complaint",
+   "words": "Leave to File Second Amended Complaint 59 is DENIED. Plaintiff was"
+  },
+  {
+   "id": "ECF-0064",
+   "description": "Order requiring a redline of the proposed complaint",
+   "words": "the Court's September 9, 2026 Order 64 by producing a redlined"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0089",
+   "filed_by": "Plaintiff",
+   "description": "Objections to order denying amendment and early interrogatories",
+   "words": "Rule 72(a) Objections to 84 Order filed by Marvelle J. Bal"
+  },
+  {
+   "id": "ECF-0090",
+   "filed_by": "Plaintiff",
+   "description": "Asks Alston to set aside those same denials",
+   "words": "the Pending Objections in re 84 Order by Marvelle J. Ballentin"
+  },
+  {
+   "id": "ECF-0091",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting the motion to set aside denials",
+   "words": "ion of the Pending Objections 84 Order filed by Marvelle J. Bal"
+  },
+  {
+   "id": "ECF-0092",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on that set-aside motion",
+   "words": "ion of the Pending Objections 84 Order o by Marvelle J. Ballent"
+  },
+  {
+   "id": "ECF-0093",
+   "filed_by": "Plaintiff",
+   "description": "Asks to vacate two orders and change referral",
+   "words": "MOTION for Targeted Vactur of ECF Nos. 64 and 84, Withdrawal or Modificatio"
+  },
+  {
+   "id": "ECF-0101",
+   "filed_by": "Meta",
+   "description": "Meta opposes the motions at ECF 90, 93",
+   "words": "OTION, 90 MOTION to Set Aside 84 Order on Motion for Miscellane"
+  },
+  {
+   "id": "PKG-03-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks leave to amend complaint and add Souras",
+   "words": "the Court denied ECF No. 59"
+  }
+ ],
+ "decides": [
+  {
+   "id": "ECF-0015",
+   "words": "DENIED as premature"
+  },
+  {
+   "id": "ECF-0054",
+   "words": "DENIED as premature"
+  },
+  {
+   "id": "ECF-0059",
+   "words": "DENIED"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +99,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD            Document 84   Filed 10/07/26    Page 2 of 2 PageID# 816\n\n  officially begins when the District Judge issues a Scheduling Order and currently there is no\n\n  Scheduling Order in this case. It is further\n\n         ORDERED that Plaintiff’s Motion for Leave to File Second Amended Complaint [Dkt.\n\n  No. 59] is DENIED. Plaintiff was given ample opportunity to comply with the Court’s September\n\n  9, 2026 Order [Dkt. No. 64] by producing a redlined Second Amended Complaint but has failed\n\n  to do so as of the date of this Order.\n\n          ENTERED this 7th day of October 2026.\n                                                                          /s/\n                                                           Ivan D. Davis\n         Alexandria, Virginia                              United States Magistrate Judge"
   }
- ],
- "words": 361
+ ]
 }

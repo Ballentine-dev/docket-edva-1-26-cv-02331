@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 8,
+ "words": 2086,
+ "refers_to": [
+  {
+   "id": "ECF-0054",
+   "description": "Asks leave to serve four early interrogatories on Meta",
+   "words": "Memorandum in Support in re 54 MOTION Under Federal Rule of Ci"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -42,6 +51,5 @@
    "page": 8,
    "text": "Case 1:26-cv-02331-RDA-IDD          Document 55        Filed 09/03/26   Page 8 of 8 PageID# 474\n\n\n\n\n  connect either report to the account and enforcement event at issue. Meta's records answer that\n\n  question. Plaintiff seeks four sworn answers from those records and nothing else. Rule 26(d)(l)\n\n  permits that limited relief. The Motion should be granted.\n\n  Date: September 3, 2026                                                 Respectfully submitted,\n\n\n\n\n                                                                            Marvelle J. Ballentine\n                                                                                 Plaintiff, prose\n                                                                1520 Belle View Blvd, Ste. #5847\n                                                                      Alexandria, Virginia 22307\n                                                                                  (407) 794-6503\n                                                                   jayballentine@protonmail.com"
   }
- ],
- "words": 2086
+ ]
 }

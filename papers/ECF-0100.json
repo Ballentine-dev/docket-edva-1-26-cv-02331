@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "Plaintiff's file copy, not the docketed image",
  "page_count": null,
+ "words": 331,
+ "refers_to": [
+  {
+   "id": "ECF-0098",
+   "description": "Asks Alston to set aside that mootness order",
+   "words": "ubmission on the Papers in re 98 MOTION to Set Aside or Modify t"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -26,6 +35,5 @@
    "page": 4,
    "text": "GENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\nCERTIFICATION\nPlaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\nthrough a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\nreviewed all citations to legal authorities and the record for accuracy.\nDate: October 23, 2026\nD\nMarvelle J. Ballentine\nPlaintiff, pro se\n4"
   }
- ],
- "words": 331
+ ]
 }

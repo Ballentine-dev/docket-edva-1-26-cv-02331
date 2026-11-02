@@ -9,6 +9,28 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 7,
+ "words": 1093,
+ "refers_to": [
+  {
+   "id": "ECF-0026",
+   "description": "Asks leave to supplement the complaint; later withdrawn",
+   "words": "Marvelle J. Ballentine in re 26 MOTION for Leave to File Supple"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0062",
+   "filed_by": "Court",
+   "description": "Order accepting withdrawal, cancelling hearing on ECF 26",
+   "words": "of Withdrawal of ECF No. 26 [Dkt. Nos. 57-58](Notice) and Request to"
+  },
+  {
+   "id": "ECF-0063",
+   "filed_by": "Court",
+   "description": "Order denying remote appearance as moot, cancelling interrogatory hearing",
+   "words": "of Withdrawal of ECF No. 26 [Dkt. Nos. 57-58] and Plaintiff's Request"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -38,6 +60,5 @@
    "page": 7,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 58 _ Filed 09/08/26 Page 7 of 7 PagelD# 494\n\nThis certification applies to each and every document identified above.\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\nDp\n\nSignature of Pro Se Litigant\nExecuted on: September 7, 2026"
   }
- ],
- "words": 1093
+ ]
 }

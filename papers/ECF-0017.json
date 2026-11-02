@@ -9,6 +9,15 @@
  "status": "Docketed",
  "text_source": "Plaintiff's file copy, not the docketed image",
  "page_count": null,
+ "words": 408,
+ "refers_to": [
+  {
+   "id": "ECF-0015",
+   "description": "Asks leave to serve three early interrogatories on NCMEC",
+   "words": "NOTICE of Hearing in re 15 MOTION for Leave to Serve Three"
+  }
+ ],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -26,6 +35,5 @@
    "page": 4,
    "text": "CERTIFICATE OF SERVICE\nI certify that on August 20, 2026, I submitted the foregoing Notice of Hearing, which\ncontains the certification required by Local Civil Rule 83.1(N), to the Clerk of Court through the\nCourt's Electronic Document Submission System for docketing on CM/ECF. Upon docketing,\ncounsel for Defendant National Center for Missing & Exploited Children will receive notice\nthrough the Court's CM/ECF system. Pursuant to Federal Rules of Civil Procedure 5(a)(1) and 5(b)\n(2)(C), I served a true and correct copy of the foregoing by first-class mail, postage prepaid,\naddressed as follows: Katie Hall, c/o National Center for Missing & Exploited Children, 333 John\nCarlyle Street, Suite 125, Alexandria, Virginia 22314; and Meta Platforms, Inc., c/o CSC -\nLawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California\n95833.\nMarvelle J. Ballentine"
   }
- ],
- "words": 408
+ ]
 }

@@ -9,6 +9,28 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 9,
+ "words": 2559,
+ "refers_to": [
+  {
+   "id": "ECF-0021",
+   "description": "Meta asks the Court to dismiss amended complaint",
+   "words": "andum of Law in Support in re 21 MOTION to Dismiss First Amended"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0043",
+   "filed_by": "Plaintiff",
+   "description": "Asks leave to file sur-reply to Meta's reply",
+   "words": "Marvelle J. Ballentine in re 39 Memorandum of Law in Support.  (tri"
+  },
+  {
+   "id": "ECF-0071",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's sur-reply to Meta's reply on dismissal",
+   "words": "Sur-Reply to 39 Reply to Response to Motion fi"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -46,6 +68,5 @@
    "page": 9,
    "text": "Case 1:26-cv-02331-RDA-IDD              Document 39   Filed 08/31/26      Page 9 of 9 PageID# 397\n\n\n\n\n                                    CERTIFICATE OF SERVICE\n\n         I hereby certify that on August 31, 2026, I caused DEFENDANT META PLATFORMS,\n\n  INC.’S REPLY MEMORANDUM OF LAW IN SUPPORT OF THEIR MOTION TO DISMISS\n\n  to be electronically filed using the Court’s CM/ECF system, and also caused a copy of the\n\n  foregoing to be emailed and mailed via First Class U.S. Postal Mail, postage prepaid to pro se\n\n  plaintiff at the following address.\n\n         Marvelle J. Ballentine\n         1520 Belle View Bld., Ste. 5847\n         Alexandria, VA 22307\n         jayballentine@protonmail.com\n\n  This 31st day of August, 2026.\n\n\n                                                By: /s/ Jesse Beringer\n\n                                                Jesse Beringer\n                                                Virginia State Bar No. 88418\n                                                Orrick, Herrington & Sutcliffe LLP\n                                                2100 Pennsylvania Avenue NW\n                                                Washington, D.C. 20037\n                                                T: +1 202 339 8400\n                                                F: +1 202 339 8500\n                                                jberinger@orrick.com\n\n\n\n\n                                                  9"
   }
- ],
- "words": 2559
+ ]
 }

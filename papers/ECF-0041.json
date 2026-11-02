@@ -9,6 +9,37 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 4,
+ "words": 570,
+ "refers_to": [
+  {
+   "id": "ECF-0015",
+   "description": "Asks leave to serve three early interrogatories on NCMEC",
+   "words": "Marvelle J. Ballentine in re 15 MOTION for Leave to Serve Three"
+  },
+  {
+   "id": "ECF-0026",
+   "description": "Asks leave to supplement the complaint; later withdrawn",
+   "words": "re the Rule 26(f) Conference, 26 MOTION for Leave to File Supple"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0063",
+   "filed_by": "Court",
+   "description": "Order denying remote appearance as moot, cancelling interrogatory hearing",
+   "words": "Plaintiff's Motion for Leave to Appear Remotely [Dkt. No. 41]"
+  },
+  {
+   "id": "NoNumber-2026-09-09-115",
+   "filed_by": "Court",
+   "description": "Clerk tells Plaintiff to notice ECF 41 or waive",
+   "words": "Notice of Correction in re 41 MOTION for Leave to Appear Remo"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0063",
+  "words": "DENIED AS MOOT"
+ },
  "pages": [
   {
    "page": 1,
@@ -26,6 +57,5 @@
    "page": 4,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 41 Filed 08/31/26 Page 4 of 4 PagelD# 405\n\nCERTIFICATION PURSUANT TO LOCAL CIVIL RULE 83.1(N)\n\nPursuant to Local Civil Rule 83.1(N), I declare under penalty of perjury that no attorney has\nprepared, or assisted in the preparation of, the foregoing Motion for Leave to Appear Remotely at\n\nthe September 25, 2026 Hearing.\n\nName of Pro Se Litigant: Marvelle J. Ballentine\n\nYD\n\nSignature of Pro Se Litigant\nDated: August 31, 2026"
   }
- ],
- "words": 570
+ ]
 }

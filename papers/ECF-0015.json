@@ -9,6 +9,86 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 5,
+ "words": 826,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0016",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting three early interrogatories on NCMEC",
+   "words": "Memorandum in Support in re 15 MOTION for Leave to Serve Three"
+  },
+  {
+   "id": "ECF-0017",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff notices hearing on the three-interrogatory motion",
+   "words": "NOTICE of Hearing in re 15 MOTION for Leave to Serve Three"
+  },
+  {
+   "id": "ECF-0031",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's declaration supporting the three-interrogatory motion",
+   "words": "Declaration in Support in re 15 MOTION for Leave to Serve Three"
+  },
+  {
+   "id": "ECF-0033",
+   "filed_by": "NCMEC",
+   "description": "NCMEC opposes the motion for three early interrogatories",
+   "words": "Opposition to 15 MOTION for Leave to Serve Three"
+  },
+  {
+   "id": "ECF-0036",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's reply supporting early limited discovery from NCMEC",
+   "words": "Reply in Support of His Motion for Leave to Serve Limited Discovery"
+  },
+  {
+   "id": "ECF-0041",
+   "filed_by": "Plaintiff",
+   "description": "Asks to appear remotely at September 25 hearing",
+   "words": "Marvelle J. Ballentine in re 15 MOTION for Leave to Serve Three"
+  },
+  {
+   "id": "ECF-0046",
+   "filed_by": "Hall",
+   "description": "Hall opposes the motion for three early interrogatories",
+   "words": "Opposition to 15 MOTION for Leave to Serve Three"
+  },
+  {
+   "id": "ECF-0063",
+   "filed_by": "Court",
+   "description": "Order denying remote appearance as moot, cancelling interrogatory hearing",
+   "words": "f's Interrogatories Motion\") [Dkt. No. 15] at 10:00 AM in Courtroo"
+  },
+  {
+   "id": "ECF-0078",
+   "filed_by": "Plaintiff",
+   "description": "Asks leave to supplement memorandum on three-interrogatory motion",
+   "words": "of His Rule 26(d)(1) Motion, ECF No. 15, Addressing NCMEC's Septem"
+  },
+  {
+   "id": "ECF-0084",
+   "filed_by": "Court",
+   "description": "Order denying early interrogatories and leave to amend",
+   "words": "tiff's Motions to Serve Three Interrogatories 15 and Motion to Serve Four"
+  },
+  {
+   "id": "NoNumber-2026-08-25-111",
+   "filed_by": "Court",
+   "description": "Hearing set September 25 on ECF 15",
+   "words": "ate Judge Ivan D. Davis as to 15 MOTION for Leave to Serve Three"
+  },
+  {
+   "id": "NoNumber-2026-09-09-113",
+   "filed_by": "Court",
+   "description": "Hearing on ECF 15 terminated; decided on papers",
+   "words": "Hearing on Motion #15 (MOTION for Leave to Ser"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0084",
+  "words": "DENIED as premature"
+ },
  "pages": [
   {
    "page": 1,
@@ -30,6 +110,5 @@
    "page": 5,
    "text": "Case 1:26-cv-02331-RDA-IDD Document15_ Filed 08/20/26 Page 5 of 5 PagelD# 238\n\nCERTIFICATE OF SERVICE\n\nI certify that on August 20, 2026, I submitted the foregoing Motion, together with the\naccompanying Memorandum in Support, Proposed Order, and Exhibit A, to the Clerk of Court\nthrough the Court’s Electronic Document Submission System for docketing on CM/ECF. Upon\ndocketing, counsel for Defendant National Center for Missing & Exploited Children will receive\nnotice through the Court’s CM/ECF system. Pursuant to Federal Rules of Civil Procedure 5(a)(1)\nand 5(b)(2)(C), I served a true and correct copy of the foregoing by first-class mail, postage\nprepaid, addressed as follows: Katie Hall, c/o National Center for Missing & Exploited Children,\n333 John Carlyle Street, Suite 125, Alexandria, Virginia 22314; and Meta Platforms, Inc., c/o CSC\n\n- Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California\n\n>\n\nMarvelle J. Ballentine\nPlaintiff, pro se\n\n95833."
   }
- ],
- "words": 826
+ ]
 }

@@ -9,6 +9,98 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 4,
+ "words": 623,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0027",
+   "filed_by": "Plaintiff",
+   "description": "Memorandum supporting the motion to supplement the complaint",
+   "words": "Memorandum in Support in re 26 MOTION for Leave to File Supple"
+  },
+  {
+   "id": "ECF-0028",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff notices supplemental complaint motion for September 25",
+   "words": "ng (September 25, 2026) in re 26 MOTION for Leave to File Supple"
+  },
+  {
+   "id": "ECF-0029",
+   "filed_by": "Plaintiff",
+   "description": "Asks to continue dismissal hearing pending supplement motion",
+   "words": "pending Resolution of Rule 15(d) Motion"
+  },
+  {
+   "id": "ECF-0032",
+   "filed_by": "NCMEC",
+   "description": "NCMEC opposes leave to supplement the complaint",
+   "words": "Opposition to 26 MOTION to Amend/Correct filed b"
+  },
+  {
+   "id": "ECF-0035",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's reply supporting leave to supplement the complaint",
+   "words": "Reply in Support of His Motion for Leave to File a Supplemental Complaint"
+  },
+  {
+   "id": "ECF-0041",
+   "filed_by": "Plaintiff",
+   "description": "Asks to appear remotely at September 25 hearing",
+   "words": "re the Rule 26(f) Conference, 26 MOTION for Leave to File Supple"
+  },
+  {
+   "id": "ECF-0047",
+   "filed_by": "Hall",
+   "description": "Hall opposes leave to supplement the complaint",
+   "words": "Opposition to 26 MOTION for Leave to File Supple"
+  },
+  {
+   "id": "ECF-0053",
+   "filed_by": "Meta",
+   "description": "Meta opposes leave to supplement the complaint",
+   "words": "RESPONSE in Opposition re 26 MOTION to Amend/Correct filed b"
+  },
+  {
+   "id": "ECF-0057",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff withdraws the motion to supplement the complaint",
+   "words": "Marvelle J. Ballentine in re 26 MOTION for Leave to File Supple"
+  },
+  {
+   "id": "ECF-0058",
+   "filed_by": "Plaintiff",
+   "description": "Asks to cancel September 25 hearing on that motion",
+   "words": "Marvelle J. Ballentine in re 26 MOTION for Leave to File Supple"
+  },
+  {
+   "id": "ECF-0062",
+   "filed_by": "Court",
+   "description": "Order accepting withdrawal, cancelling hearing on ECF 26",
+   "words": "iff's Notice of Withdrawal of ECF No. 26 [Dkt. Nos. 57-58](Notice)"
+  },
+  {
+   "id": "ECF-0063",
+   "filed_by": "Court",
+   "description": "Order denying remote appearance as moot, cancelling interrogatory hearing",
+   "words": "iff's Notice of Withdrawal of ECF No. 26 [Dkt. Nos. 57-58] and Pla"
+  },
+  {
+   "id": "NoNumber-2026-08-25-111",
+   "filed_by": "Court",
+   "description": "Hearing set September 25 on ECF 15",
+   "words": "the Rule 26(f) Conference and 26 MOTION to Amend/Correct. (dzir)"
+  },
+  {
+   "id": "NoNumber-2026-09-09-114",
+   "filed_by": "Court",
+   "description": "Hearing on ECF 26 terminated after withdrawal",
+   "words": "***Motion Hearing for Dkt. No. 26 terminated. (lgue, )"
+  }
+ ],
+ "decided_by": {
+  "id": "ECF-0062",
+  "words": "considered WITHDRAWN"
+ },
  "pages": [
   {
    "page": 1,
@@ -26,6 +118,5 @@
    "page": 4,
    "text": "Case 1:26-cv-02331-RDA-IDD          Document 26       Filed 08/21/26     Page 4 of 4 PageID# 301\n\n\n\n\n                                  CERTIFICATE OF SERVICE\n\n         I certify that on August 20, 2026, I submitted the foregoing Motion, together with the\n\n  accompanying Memorandum in Support and Exhibit A, which contain the certification required by\n\n  Local Civil Rule 83. l(N), to the Clerk of Court through the Court's Electronic Document\n\n  Submission System for docketing on CM/ECF. Upon docketing, counsel for Defendant National\n\n  Center for Missing & Exploited Children will receive notice through the Court's CM/ECF system.\n\n  Pursuant to Federal Rules of Civil Procedure 5(a)(l) and 5(b)(2)(C), I served a true and correct\n\n  copy of the foregoing by first-class mail, postage prepaid, addressed as follows: Katie Hall, c/o\n\n  National Center for Missing & Exploited Children, 333 John Carlyle Street, Suite 125, Alexandria,\n\n  Virginia 22314; and Meta Platforms, Inc., c/o CSC - Lawyers Incorporating Service, 2710\n\n  Gateway Oaks Drive, Suite 150N, Sacramento, California 95833.\n\n\n\n\n                                                                             Marvelle J. Ballentine"
   }
- ],
- "words": 623
+ ]
 }

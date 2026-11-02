@@ -9,6 +9,16 @@
  "status": "Docketed",
  "text_source": "Docketed PDF, text corrected word by word against the page",
  "page_count": 50,
+ "words": 13260,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0008",
+   "filed_by": "Plaintiff",
+   "description": "Certification that no attorney helped prepare complaint",
+   "words": "Marvelle J. Ballentine in re 5 First AMENDED COMPLAINT. (triv)"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -210,6 +220,5 @@
    "page": 50,
    "text": "CERTIFICATE OF SERVICE\n\nI hereby certify that on August 6, 2026, I caused a true and correct copy of the foregoing\nFirst Amended Complaint to be served upon the following by United States Mail, first-class\npostage prepaid, addressed as follows:\n\nKatie Hall\n333 John Carlyle Street, Suite 125\nAlexandria, Virginia 22314\n\nNational Center for Missing & Exploited Children\n333 John Carlyle Street, Suite 125\nAlexandria, Virginia 22314\n\nMeta Platforms, Inc.\n\nc/o CSC Lawyers Incorporating Service, Registered Agent\n2710 Gateway Oaks Drive, Suite 150N\n\nSacramento, California 95833\n\nThe John/Jane Doe Defendants 1-6 are presently unidentified and are not served.\n\nDate: August 6, 2026 Respectfully submitted,\n\nMarvelle J. Ballentine\n\nPlaintiff, pro se\n\n1520 Belle View Blvd, Ste. #5847\nAlexandria, Virginia 22307\n\n(407) 794-6503\njayballentine@protonmail.com"
   }
- ],
- "words": 13260
+ ]
 }

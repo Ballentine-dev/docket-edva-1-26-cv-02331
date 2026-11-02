@@ -9,11 +9,54 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 1,
+ "words": 179,
+ "refers_to": [
+  {
+   "id": "ECF-0001",
+   "description": "Original complaint against Hall, NCMEC, Meta, and Does",
+   "words": "ade to Plaintiff's Complaint [Dkt. No. 1]. Signed by Magistrate J"
+  },
+  {
+   "id": "ECF-0059",
+   "description": "Asks leave to file second amended, supplemental complaint",
+   "words": "ion of the Amended Complaint [Dkt. Nos. 59-1, 60-1], no later than Septembe"
+  },
+  {
+   "id": "ECF-0060",
+   "description": "Memorandum and proposed complaint supporting that leave request",
+   "words": "ion of the Amended Complaint [Dkt. Nos. 59-1, 60-1], no later than Septembe"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0066",
+   "filed_by": "Plaintiff",
+   "description": "Objections to magistrate's orders at ECF 63, 64, 65",
+   "words": "J. Ballentine in re 63 ORDER, 64 ORDER, 65 ORDER.  (triv)"
+  },
+  {
+   "id": "ECF-0067",
+   "filed_by": "Plaintiff",
+   "description": "Asks to set aside redline order, restore argument",
+   "words": "Marvelle J. Ballentine in re 64 ORDER.  (triv)"
+  },
+  {
+   "id": "ECF-0084",
+   "filed_by": "Court",
+   "description": "Order denying early interrogatories and leave to amend",
+   "words": "the Court's September 9, 2026 Order 64 by producing a redlined"
+  },
+  {
+   "id": "ECF-0093",
+   "filed_by": "Plaintiff",
+   "description": "Asks to vacate two orders and change referral",
+   "words": "MOTION for Targeted Vactur of ECF Nos. 64 and 84, Withdrawal or Modificatio"
+  }
+ ],
  "pages": [
   {
    "page": 1,
    "text": "IN THE UNITED STATES DISTRICT COURT\n                            FOR THE EASTERN DISTRICT OF VIRGINIA\n                                       Alexandria Division\n\n\nMARVELLE J. BALLENTINE                             )\n                                                   )\n                                                   )\n               Plaintiff,                          )\n                                                   )\nv.                                                 )   Civil Action No. 1:26-cv-2331-(RDA/IDD)\n                                                   )\nKATIE HALL, et al.,                                )\n                                                   )\n                                                   )\n               Defendants.                         )\n                                                   )\n\n                                              ORDER\n       This matter is before the Court on Plaintiff’s Motion for Leave to File Second Amended\n\nand Supplemental Complaint Pursuant to Federal Rules of Civil Procedure 15(a)(2) and 15(d) and\n\nRequest for Expedited Determination on the Papers (“Motion”) [Dkt. No. 59]. Upon consideration\n\nof the Motion and the Proposed Amended Complaint [Dkt. Nos. 59-1, 60-1], this Court finds that\n\nit does not possess sufficient information to issue an Order on this matter. Accordingly, it is hereby\n\n       ORDERED that Plaintiff must provide a redlined version of the Amended Complaint [Dkt.\n\nNos. 59-1, 60-1], no later than September 11, 2026. This redlined version of the Amended\n\nComplaint must clearly indicate the changes, deletions, and additions that were made to Plaintiff’s\n\nComplaint [Dkt. No. 1].\n\n        ENTERED this 9th day of September 2026.\n                                                                          /s/\n                                                              Ivan D. Davis\n       Alexandria, Virginia                                   United States Magistrate Judge"
   }
- ],
- "words": 179
+ ]
 }

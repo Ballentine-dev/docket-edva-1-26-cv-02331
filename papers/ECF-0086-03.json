@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 9,
+ "words": 2021,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -46,6 +49,5 @@
    "page": 9,
    "text": "Case 1:26-cv-02331-RDA-IDD Document 86-3 Filed 10/13/26 Page 9 of 9 PagelD#\n\nFINANCIAL DISCLOSURE REPORT Name of Bersoh Reporting Date of Report\nPage 8 of 8 Davis, Ivan D. 08/18/2025\nIX. CERTIFICATION.\n\nI certify that all information given above (including information pertaining to my spouse and minor or dependent children, if any) is\naccurate, true, and complete to the best of my knowledge and belief, and that any information not reported was withheld because it met applicable statutory\nprovisions permitting non-disclosure.\n\nI further certify that earned income from outside employment and honoraria and the acceptance of gifts which have been reported are in\ncompliance with the provisions of 5 U.S.C. app. § 13141 et. seq., 5 U.S.C. § 7353, and Judicial Conference regulations.\n\nSignature: s/ Ivan D. Davis\n\nNOTE: ANY INDIVIDUAL WHO KNOWINGLY AND WILLFULLY FALSIFIES OR FAILS TO FILE THIS REPORT MAY BE SUBJECT TO CIVIL\nAND CRIMINAL SANCTIONS (5 U.S.C. app. § 13106)\n\nCommittee on Financial Disclosure\nAdministrative Office of the United States Courts\nSuite G-330\n\nOne Columbus Circle, N.E.\n\nWashington, D.C. 20544"
   }
- ],
- "words": 2021
+ ]
 }

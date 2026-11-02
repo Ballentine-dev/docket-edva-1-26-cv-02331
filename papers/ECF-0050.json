@@ -9,11 +9,42 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 1,
+ "words": 191,
+ "refers_to": [
+  {
+   "id": "ECF-0010",
+   "description": "NCMEC asks the Court to dismiss the complaint",
+   "words": "Children's Motion to Dismiss (Dkt. 10) is VACATED. ORDERED tha"
+  },
+  {
+   "id": "ECF-0038",
+   "description": "NCMEC notices dismissal motion for September 30 hearing",
+   "words": "ticed for September 30, 2026 (Dkt. 38) on the Defendant Nation"
+  },
+  {
+   "id": "ECF-0042",
+   "description": "Asks to vacate September 30 hearing, decide on papers",
+   "words": "ORDER granting 42 Motion to Vacate the September"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "NoNumber-2026-09-02-120",
+   "filed_by": "Court",
+   "description": "September 30 hearing terminated under ECF 50",
+   "words": "r 9/30/2026 is terminated per ECF 50. (kgall)"
+  }
+ ],
+ "decides": [
+  {
+   "id": "ECF-0042",
+   "words": "granting 42 Motion to Vacate"
+  }
+ ],
  "pages": [
   {
    "page": 1,
    "text": "IN THE UNITED STATES DISTRICT COURT\n                       FOR THE EASTERN DISTRICT OF VIRGINIA\n                                     Alexandria Division\n\n\nMARVELLE J. BALLENTINE,                     )\n                                            )\n       PlaintilT                            )\n                                            )    Civil Action No. l:26-cv-2331 (RDA/IDD)\n       V.                                   )\n                                            )\nKATIE HALL, e! cil..                        )\n                                            )\n       Delendants.                          )\n\n                                           ORDER\n\n\n       This matter comes before the Court on pro se Plaintiff Marvelle J. Ballentine’s Motion\n\nto Vacate the September 30, 2026 Hearing and to Decide the Motion to Dismiss on the Papers.\n\nDkt. 42. Upon consideration of the Motion, and for good cause shown, it is hereby\n\n       ORDERED that the Motion (Dkt. 42) is GRANTED; and it is\n\n       FURTHER ORDERED that the hearing noticed for September 30,2026 (Dkt. 38) on the\n\nDefendant National Center for Missing & Exploited Children's Motion to Dismiss (Dkt. 10) is\n\nVACATED; and it is\n\n       FURTHER ORDERED that the Motion to Dismiss (Dkt. 10) will be decided on the\n\npapers pursuant to Federal Rule of Civil Procedure 78 and Local Civil Rule 7(J).\n\n       It is SO ORDERED.\n\n\n       The Clerk's Office is directed to provide a copy to pro se Plaintiff at his last known\n\naddress.\n\n\n\n\nAlexandria, Virginia^\n\n            Zy 70Z6                                                       fs-'\n                                                       Rossie D. Alston Ji\n                                                       United States D\n                                                                           ‘billet Juu^e"
   }
- ],
- "words": 191
+ ]
 }

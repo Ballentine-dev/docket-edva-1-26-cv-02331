@@ -9,6 +9,82 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 364,
+ "refers_to": [],
+ "referred_to_by": [
+  {
+   "id": "ECF-0011",
+   "filed_by": "NCMEC",
+   "description": "NCMEC's memorandum supporting its motion to dismiss",
+   "words": "Memorandum in Support of 10 MOTION to Dismiss filed by Nati"
+  },
+  {
+   "id": "ECF-0014",
+   "filed_by": "NCMEC",
+   "description": "NCMEC notices its dismissal motion for September 25",
+   "words": "te (September 25, 2026) in re 10 MOTION to Dismiss (Keane, Padra"
+  },
+  {
+   "id": "ECF-0020",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's protective opposition to NCMEC's motion to dismiss",
+   "words": "Protective Opposition to 10 MOTION to Dismiss, filed by Mar"
+  },
+  {
+   "id": "ECF-0025",
+   "filed_by": "Court",
+   "description": "Court's notice explaining pro se response to dismissal motion",
+   "words": "an opposing party has filed a motion to dismiss"
+  },
+  {
+   "id": "ECF-0029",
+   "filed_by": "Plaintiff",
+   "description": "Asks to continue dismissal hearing pending supplement motion",
+   "words": "MOTION to Continue Hearing on Motion to Dismiss"
+  },
+  {
+   "id": "ECF-0030",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff's second protective opposition to NCMEC's dismissal motion",
+   "words": "Protective Opposition to 10 MOTION to Dismiss, filed by Mar"
+  },
+  {
+   "id": "ECF-0038",
+   "filed_by": "NCMEC",
+   "description": "NCMEC notices dismissal motion for September 30 hearing",
+   "words": "Notice of Hearing Date re 10 MOTION to Dismiss (Keane, Padra"
+  },
+  {
+   "id": "ECF-0040",
+   "filed_by": "Plaintiff",
+   "description": "Plaintiff waives oral argument on NCMEC and Meta dismissal motions",
+   "words": "Marvelle J. Ballentine in re 10 MOTION to Dismiss, 21 MOTION to"
+  },
+  {
+   "id": "ECF-0042",
+   "filed_by": "Plaintiff",
+   "description": "Asks to vacate September 30 hearing, decide on papers",
+   "words": "Marvelle J. Ballentine in re 10 MOTION to Dismiss. (triv)"
+  },
+  {
+   "id": "ECF-0050",
+   "filed_by": "Court",
+   "description": "Order vacating September 30 hearing; decided on papers",
+   "words": "Children's Motion to Dismiss (Dkt. 10) is VACATED. ORDERED tha"
+  },
+  {
+   "id": "NoNumber-2026-08-12-119",
+   "filed_by": "Court",
+   "description": "Clerk tells Plaintiff to notice hearing or waive",
+   "words": "of Waiver Oral Argument in re 10 MOTION to Dismiss filed by Nati"
+  },
+  {
+   "id": "NoNumber-2026-09-01-121",
+   "filed_by": "Court",
+   "description": "Hearing set September 30 on NCMEC's dismissal motion",
+   "words": "ge Rossie D. Alston Jr. as to 10 MOTION to Dismiss. (dzir)"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -18,6 +94,5 @@
    "page": 2,
    "text": "dismissed, with prejudice, and for such additional relief as this Honorable Court may deem\n\nnecessary and appropriate.\n\n                                             Respectfully submitted,\n\n                                             JORDAN COYNE LLP\n\n                                              /s/ Padraic K. Keane\n                                             10201 Fairfax Boulevard, Suite 520\n                                             Fairfax, VA 22030\n                                             (703) 246-0900\n                                             Fax: (703) 591-3673\n                                             p.keane@jocs-law.com\n                                             Counsel for Defendant the National Center\n                                             For Missing and Exploited Children\n\n                                  CERTIFICATE OF SERVICE\n\n       I hereby certify that true and correct copies of this Motion to Dismiss, the Memorandum\n\nin Support, and the proposed Order were electronically filed and served, and were served via\n\nfirst-class mail, postage prepaid, and electronic mail, on this 12th day of August, 2026, upon:\n\n                      Marvelle J. Ballentine\n                      1520 Belle View Boulevard, Suite 5847\n                      Alexandria, VA 22307\n                      jayballentine@protonmail.com\n                      Pro Se Plaintiff\n\n\n                                                      /s/ Padraic K. Keane\n                                                     Padraic K. Keane"
   }
- ],
- "words": 364
+ ]
 }

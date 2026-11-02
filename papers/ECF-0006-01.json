@@ -9,6 +9,9 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 2,
+ "words": 262,
+ "refers_to": [],
+ "referred_to_by": [],
  "pages": [
   {
    "page": 1,
@@ -18,6 +21,5 @@
    "page": 2,
    "text": "Case 1:26-cv-02331-RDA-IDD           Document 6-1        Filed 08/06/26       Page 2 of 2 PageID# 119\n\n\n\n\n         In the alternative, pursuant to Federal Rule of Civil Procedure 56(g), it is ORDERED that\n\n  the material facts numbered 1 through 11 in Section II of Plaintiff's Memorandum in Support are\n\n  not genuinely in dispute and are treated as established in this action.\n\n\n  It is SO ORDERED.\n\n\n  Alexandria, Virginia\n\n  Date: _ _ _ _ _ __\n\n\n\n                                                                                   Rossie D. Alston, Jr.\n                                                                            United States District Judge"
   }
- ],
- "words": 262
+ ]
 }

@@ -9,6 +9,22 @@
  "status": "Docketed",
  "text_source": "CourtListener RECAP text of the docketed PDF",
  "page_count": 16,
+ "words": 4345,
+ "refers_to": [
+  {
+   "id": "ECF-0098",
+   "description": "Asks Alston to set aside that mootness order",
+   "words": "Memorandum in Support in re 98 MOTION to Set Aside or Modify t"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "PKG-09-1",
+   "filed_by": "Plaintiff",
+   "description": "Motion: Asks leave to report events since ECF 93, 97–99",
+   "words": "Relevant to ECF Nos. 93 and 97–99"
+  }
+ ],
  "pages": [
   {
    "page": 1,
@@ -74,6 +90,5 @@
    "page": 16,
    "text": "Case 1:26-cv-02331-RDA-WEF            Document 99        Filed 10/23/26     Page 16 of 16 PageID#\n                                            1021\n\n\n\n     GENERATIVE ARTIFICIAL INTELLIGENCE DISCLOSURE AND CITATION\n\n                                         CERTIFICATION\n\n        Plaintiff prepared this filing in part using generative Al-assisted agentic motion drafting\n\n through a proprietary methodology under development by Plaintiff. Plaintiff certifies that he has\n\n reviewed all citations to legal authorities and the record for accuracy.\n\n        Date: October 23, 2026\n\n\n\n\n                                                                             Marvelle J. Ballentine\n                                                                                  Plaintiff, pro se\n\n\n\n\n                                                  16"
   }
- ],
- "words": 4345
+ ]
 }
