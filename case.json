@@ -1,0 +1,19 @@
+{
+ "caption": "Ballentine v. Hall",
+ "court": "United States District Court for the Eastern District of Virginia",
+ "docket_number": "1:26-cv-02331",
+ "judge": "Rossie David Alston Jr.",
+ "referred_magistrate_judge": "William E. Fitzpatrick (reassigned from Ivan D. Davis on 2026-10-22)",
+ "date_filed": "2026-07-30",
+ "cause": "42:1985 Conspiracy to Interfere with Civil Rights",
+ "nature_of_suit": "890 Other Statutory Actions",
+ "jury_demand": "None",
+ "jurisdiction": "Federal Question",
+ "plaintiff": "Marvelle J. Ballentine, pro se",
+ "defendants": [
+  "Katie Hall",
+  "Meta Platforms, Inc.",
+  "National Center for Missing and Exploited Children",
+  "John/Jane Does 1-6"
+ ]
+}

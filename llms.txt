@@ -1,0 +1,8 @@
+# Ballentine v. Hall, No. 1:26-cv-02331 (E.D. Va.)
+
+> The public docket of this federal case as JSON. Start with the menu, then open only the papers you need.
+
+- [Menu](https://raw.githubusercontent.com/Ballentine-dev/docket-edva-1-26-cv-02331/main/menu.md): every paper, one row each
+- Paper: https://raw.githubusercontent.com/Ballentine-dev/docket-edva-1-26-cv-02331/main/papers/ID.json, using an ID from the menu, such as ECF-0084
+- [Complaints by paragraph](https://raw.githubusercontent.com/Ballentine-dev/docket-edva-1-26-cv-02331/main/pleadings/menu.md)
+- [Everything in one file](https://raw.githubusercontent.com/Ballentine-dev/docket-edva-1-26-cv-02331/main/master-docket.json)
