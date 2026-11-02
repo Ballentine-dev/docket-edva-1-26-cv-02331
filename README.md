@@ -49,6 +49,8 @@ The tool also runs by itself, reading this repository over the web.
 
 Each paper's file lists the papers it refers to and the papers that refer to it, so opening one order shows what surrounds it. The links come from the words of the docket and the papers, and those words are stored with each link. They show that one paper names another, not what it argues. A paper can discuss another without a link appearing here, because the links do not come from reading each paper's body.
 
+`decided_by` records twelve motions whose deciding order was confirmed from the order's words. A blank does not mean a motion is pending. Check the docket for that.
+
 ## How far to rely on the text
 
 The docket controls. `text_source` says where each paper's text came from: CourtListener's copy of the docketed PDF, a scan of it, or Plaintiff's file copy. Scanned text can carry page stamps and reading errors, so check a quotation against the docketed PDF before relying on it. The menu's descriptions are pointers for finding a paper and are not a source. Docket entries run through ECF No. 108, as of November 2, 2026.
