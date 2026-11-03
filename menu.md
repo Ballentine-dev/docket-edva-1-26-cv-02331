@@ -13,18 +13,18 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0005 | 2026-08-06 | Plaintiff | First amended complaint, the operative pleading in the case | 50 | 13260 |  |
 | ECF-0006 | 2026-08-06 | Plaintiff | Plaintiff's first motion for partial summary judgment | 5 | 923 | ECF-0012 |
 | ECF-0007 | 2026-08-06 | Plaintiff | Memorandum, declaration, and exhibits supporting partial summary judgment | 10 | 2303 |  |
-| ECF-0008 | 2026-08-10 | Plaintiff | Certification that no attorney helped prepare complaint |  | 125 |  |
+| ECF-0008 | 2026-08-10 | Plaintiff | Certification that no attorney helped prepare complaint | 1 | 125 |  |
 | ECF-0009 | 2026-08-10 | Plaintiff | Amended proof of service of summary judgment papers | 3 | 366 |  |
 | ECF-0010 | 2026-08-12 | NCMEC | NCMEC asks the Court to dismiss the complaint | 2 | 364 |  |
 | ECF-0011 | 2026-08-12 | NCMEC | NCMEC's memorandum supporting its motion to dismiss | 17 | 5238 |  |
 | ECF-0012 | 2026-08-12 | Court | Order denying summary judgment without prejudice to renewal | 1 | 195 |  |
-| ECF-0013 | 2026-08-12 | Plaintiff | Plaintiff notices hearing on summary judgment for September 18 |  | 391 |  |
+| ECF-0013 | 2026-08-12 | Plaintiff | Plaintiff notices hearing on summary judgment for September 18 | 3 | 391 |  |
 | ECF-0014 | 2026-08-20 | NCMEC | NCMEC notices its dismissal motion for September 25 |  | 0 |  |
 | ECF-0015 | 2026-08-20 | Plaintiff | Asks leave to serve three early interrogatories on NCMEC | 5 | 826 | ECF-0084 |
 | ECF-0016 | 2026-08-20 | Plaintiff | Memorandum supporting three early interrogatories on NCMEC | 7 | 1950 |  |
-| ECF-0017 | 2026-08-20 | Plaintiff | Plaintiff notices hearing on the three-interrogatory motion |  | 408 |  |
+| ECF-0017 | 2026-08-20 | Plaintiff | Plaintiff notices hearing on the three-interrogatory motion | 4 | 408 |  |
 | ECF-0018 | 2026-08-20 | Plaintiff | Second proof of service on Meta filed |  | 0 |  |
-| ECF-0019 | 2026-08-20 | Plaintiff | Notice of amended proof of service on Meta |  | 491 |  |
+| ECF-0019 | 2026-08-20 | Plaintiff | Notice of amended proof of service on Meta | 3 | 491 |  |
 | ECF-0020 | 2026-08-20 | Plaintiff | Plaintiff's protective opposition to NCMEC's motion to dismiss | 14 | 3606 |  |
 | ECF-0021 | 2026-08-21 | Meta | Meta asks the Court to dismiss amended complaint | 2 | 305 |  |
 | ECF-0022 | 2026-08-21 | Meta | Meta's memorandum supporting its motion to dismiss | 16 | 4613 |  |
@@ -33,7 +33,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0025 | 2026-08-24 | Court | Court's notice explaining pro se response to dismissal motion | 1 | 205 |  |
 | ECF-0026 | 2026-08-21 | Plaintiff | Asks leave to supplement the complaint; later withdrawn | 4 | 623 | ECF-0062 |
 | ECF-0027 | 2026-08-21 | Plaintiff | Memorandum supporting the motion to supplement the complaint | 6 | 1482 |  |
-| ECF-0028 | 2026-08-20 | Plaintiff | Plaintiff notices supplemental complaint motion for September 25 |  | 400 |  |
+| ECF-0028 | 2026-08-20 | Plaintiff | Plaintiff notices supplemental complaint motion for September 25 | 4 | 400 |  |
 | ECF-0029 | 2026-08-20 | Plaintiff | Asks to continue dismissal hearing pending supplement motion | 5 | 744 |  |
 | ECF-0030 | 2026-08-24 | Plaintiff | Plaintiff's second protective opposition to NCMEC's dismissal motion | 25 | 8781 |  |
 | ECF-0031 | 2026-08-24 | Plaintiff | Plaintiff's declaration supporting the three-interrogatory motion | 3 | 495 |  |
@@ -42,7 +42,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0034 | 2026-08-26 | Meta | Hillary Dang enters appearance as counsel for Meta | 2 | 217 |  |
 | ECF-0035 | 2026-08-26 | Plaintiff | Plaintiff's reply supporting leave to supplement the complaint | 4 | 604 |  |
 | ECF-0036 | 2026-08-27 | Plaintiff | Plaintiff's reply supporting early limited discovery from NCMEC | 6 | 1029 |  |
-| ECF-0037 | 2026-08-27 | Plaintiff | Proof Katie Hall was served with the summons |  | 535 |  |
+| ECF-0037 | 2026-08-27 | Plaintiff | Proof Katie Hall was served with the summons | 2 | 535 |  |
 | ECF-0038 | 2026-08-31 | NCMEC | NCMEC notices dismissal motion for September 30 hearing | 2 | 198 |  |
 | ECF-0039 | 2026-08-31 | Meta | Meta's reply supporting its motion to dismiss | 9 | 2559 |  |
 | ECF-0040 | 2026-08-31 | Plaintiff | Plaintiff waives oral argument on NCMEC and Meta dismissal motions | 4 | 371 |  |
@@ -80,7 +80,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0072 | 2026-09-17 | Meta | Meta's corrected opposition to leave for a sur-reply |  | 0 |  |
 | ECF-0073 | 2026-09-17 | Meta | Meta opposes the motion for four early interrogatories | 7 | 1765 |  |
 | ECF-0074 | 2026-09-18 | NCMEC and Hall | NCMEC and Hall oppose leave to file amended complaint | 7 | 2111 |  |
-| ECF-0075 | 2026-09-17 | Plaintiff | Plaintiff's reply supporting leave to file a sur-reply |  | 522 |  |
+| ECF-0075 | 2026-09-17 | Plaintiff | Plaintiff's reply supporting leave to file a sur-reply | 5 | 522 |  |
 | ECF-0076 | 2026-09-18 | Plaintiff | Asks leave to report later record developments on objections | 6 | 1015 |  |
 | ECF-0077 | 2026-09-18 | Plaintiff | Memorandum supporting leave to report those later developments | 3 | 423 |  |
 | ECF-0078 | 2026-09-18 | Plaintiff | Asks leave to supplement memorandum on three-interrogatory motion | 7 | 1383 | ECF-0082 |
@@ -90,30 +90,51 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0082 | 2026-09-22 | Court | Order granting supplement; accepted as reply on interrogatories | 2 | 295 |  |
 | ECF-0083 | 2026-09-22 | Meta | Meta opposes leave to file the amended complaint | 5 | 1012 |  |
 | ECF-0084 | 2026-10-07 | Court | Order denying early interrogatories and leave to amend | 2 | 361 |  |
-| ECF-0085 | 2026-10-12 | Plaintiff | Plaintiff waives oral argument on ECF 66, 67, 76 |  | 723 |  |
+| ECF-0085 | 2026-10-12 | Plaintiff | Plaintiff waives oral argument on ECF 66, 67, 76 | 1 | 723 |  |
 | ECF-0086 | 2026-10-13 | Plaintiff | Asks to disqualify Magistrate Judge Davis, decide first | 9 | 2027 | ECF-0096 |
 | ECF-0087 | 2026-10-13 | Plaintiff | Memorandum supporting the motion to disqualify Judge Davis | 15 | 4177 |  |
-| ECF-0088 | 2026-10-13 | Plaintiff | Plaintiff waives oral argument on the disqualification motion |  | 559 |  |
+| ECF-0088 | 2026-10-13 | Plaintiff | Plaintiff waives oral argument on the disqualification motion | 5 | 559 |  |
 | ECF-0089 | 2026-10-13 | Plaintiff | Objections to order denying amendment and early interrogatories | 12 | 3003 |  |
 | ECF-0090 | 2026-10-13 | Plaintiff | Asks Alston to set aside those same denials | 12 | 2991 |  |
 | ECF-0091 | 2026-10-13 | Plaintiff | Memorandum supporting the motion to set aside denials | 29 | 8847 |  |
-| ECF-0092 | 2026-10-13 | Plaintiff | Plaintiff waives oral argument on that set-aside motion |  | 565 |  |
+| ECF-0092 | 2026-10-13 | Plaintiff | Plaintiff waives oral argument on that set-aside motion | 5 | 565 |  |
 | ECF-0093 | 2026-10-13 | Plaintiff | Asks to vacate two orders and change referral | 9 | 2141 |  |
 | ECF-0094 | 2026-10-13 | Plaintiff | Memorandum supporting vacatur and change of the referral | 14 | 3861 |  |
-| ECF-0095 | 2026-10-13 | Plaintiff | Plaintiff waives oral argument on the vacatur motion |  | 649 |  |
+| ECF-0095 | 2026-10-13 | Plaintiff | Plaintiff waives oral argument on the vacatur motion | 5 | 649 |  |
 | ECF-0096 | 2026-10-22 | Court | Order denying disqualification as moot after case reassignment | 1 | 146 |  |
 | ECF-0097 | 2026-10-23 | Plaintiff | Objections to order calling disqualification motion moot | 10 | 2261 |  |
-| ECF-0098 | 2026-10-23 | Plaintiff | Asks Alston to set aside that mootness order |  | 2141 |  |
+| ECF-0098 | 2026-10-23 | Plaintiff | Asks Alston to set aside that mootness order | 10 | 2141 |  |
 | ECF-0099 | 2026-10-23 | Plaintiff | Memorandum supporting the motion to set aside mootness order | 16 | 4345 |  |
-| ECF-0100 | 2026-10-23 | Plaintiff | Plaintiff waives oral argument on that motion |  | 331 |  |
+| ECF-0100 | 2026-10-23 | Plaintiff | Plaintiff waives oral argument on that motion | 4 | 331 |  |
 | ECF-0101 | 2026-10-27 | Meta | Meta opposes the motions at ECF 90, 93 | 9 | 2594 |  |
 | ECF-0102 | 2026-10-28 | Plaintiff | Plaintiff's reply supporting the motions at ECF 90, 93 | 10 | 2488 |  |
 | ECF-0103 | 2026-10-28 | Plaintiff | Asks for a scheduling order and pretrial conference | 7 | 1286 | ECF-0108 |
 | ECF-0104 | 2026-10-28 | Plaintiff | Memorandum supporting the motion for a scheduling order | 10 | 2293 |  |
 | ECF-0105 | 2026-10-28 | Plaintiff | Asks to order a Rule 26(f) conference | 9 | 1829 | ECF-0108 |
 | ECF-0106 | 2026-10-28 | Plaintiff | Memorandum supporting the Rule 26(f) conference motion | 12 | 3115 |  |
-| ECF-0107 | 2026-10-28 | Plaintiff | Plaintiff's declaration and exhibits on Rule 26(f) efforts |  | 997 |  |
+| ECF-0107 | 2026-10-28 | Plaintiff | Plaintiff's declaration and exhibits on Rule 26(f) efforts | 6 | 997 |  |
 | ECF-0108 | 2026-10-29 | Court | Order denying ECF 103, 105 without prejudice | 2 | 345 |  |
+| ECF-0109 | 2026-11-02 | Plaintiff | Asks Alston to decide ECF 96 questions first | 7 | 1044 |  |
+| ECF-0110 | 2026-11-02 | Plaintiff | Memorandum supporting the priority and sequencing motion | 6 | 1060 |  |
+| ECF-0111 | 2026-11-02 | Plaintiff | Plaintiff waives oral argument on the priority motion | 5 | 509 |  |
+| ECF-0112 | 2026-11-02 | Plaintiff | Asks to vacate mootness order over Davis's Meta stock | 12 | 2899 |  |
+| ECF-0113 | 2026-11-02 | Plaintiff | Memorandum supporting the motion to vacate ECF 96 | 19 | 5418 |  |
+| ECF-0114 | 2026-11-02 | Plaintiff | Asks leave to amend complaint and add Souras | 9 | 1861 |  |
+| ECF-0115 | 2026-11-02 | Plaintiff | Memorandum supporting leave to file second amended complaint | 20 | 5851 |  |
+| ECF-0116 | 2026-11-02 | Plaintiff | Asks ruling that Hall acted as NCMEC's employee | 9 | 1934 |  |
+| ECF-0117 | 2026-11-02 | Plaintiff | Memorandum supporting the renewed partial summary judgment motion | 24 | 6999 |  |
+| ECF-0118 | 2026-11-02 | Plaintiff | Asks Fitzpatrick to reconsider denying Rule 26(f) conference order | 10 | 2180 |  |
+| ECF-0119 | 2026-11-02 | Plaintiff | Memorandum supporting reconsideration of the Rule 26(f) denial | 22 | 6332 |  |
+| ECF-0120 | 2026-11-02 | Plaintiff | Asks Fitzpatrick to reconsider denying a scheduling order | 8 | 1504 |  |
+| ECF-0121 | 2026-11-02 | Plaintiff | Memorandum supporting reconsideration of the scheduling order denial | 20 | 5288 |  |
+| ECF-0122 | 2026-11-02 | Plaintiff | Asks to correct what ECF 108 says Alston chose | 8 | 1313 |  |
+| ECF-0123 | 2026-11-02 | Plaintiff | Memorandum supporting the motion to correct ECF 108 | 12 | 2767 |  |
+| ECF-0124 | 2026-11-02 | Plaintiff | Asks Court to notice a California court filing | 7 | 1269 |  |
+| ECF-0125 | 2026-11-02 | Plaintiff | Memorandum supporting the request for judicial notice | 6 | 1031 |  |
+| ECF-0126 | 2026-11-02 | Plaintiff | Asks leave to report events since ECF 93, 97–99 | 6 | 743 |  |
+| ECF-0127 | 2026-11-02 | Plaintiff | Memorandum supporting leave to report later record events | 4 | 500 |  |
+| ECF-0128 | 2026-11-02 | Plaintiff | Asks leave to file statement of procedural irregularities | 6 | 712 |  |
+| ECF-0129 | 2026-11-02 | Plaintiff | Memorandum supporting leave to file the consolidated statement | 7 | 1410 |  |
 
 ## Attachments
 
@@ -171,10 +192,36 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0099-01 | 2026-10-23 | Plaintiff | Attachment 1 to ECF 99: Exhibit A - (Proposed) Supplement | 6 | 783 |  |
 | ECF-0103-01 | 2026-10-28 | Plaintiff | Attachment 1 to ECF 103: Proposed Order | 2 | 423 |  |
 | ECF-0105-01 | 2026-10-28 | Plaintiff | Attachment 1 to ECF 105: Proposed Order | 3 | 638 |  |
-| ECF-0107-01 | 2026-10-28 | Plaintiff | Attachment 1 to ECF 107: Exhibit A |  | 1306 |  |
-| ECF-0107-02 | 2026-10-28 | Plaintiff | Attachment 2 to ECF 107: Exhibit B |  | 310 |  |
-| ECF-0107-03 | 2026-10-28 | Plaintiff | Attachment 3 to ECF 107: Exhibit C-1 |  | 830 |  |
-| ECF-0107-04 | 2026-10-28 | Plaintiff | Attachment 4 to ECF 107: Exhibit C-2 |  | 267 |  |
+| ECF-0107-01 | 2026-10-28 | Plaintiff | Attachment 1 to ECF 107: Exhibit A | 6 | 1306 |  |
+| ECF-0107-02 | 2026-10-28 | Plaintiff | Attachment 2 to ECF 107: Exhibit B | 2 | 310 |  |
+| ECF-0107-03 | 2026-10-28 | Plaintiff | Attachment 3 to ECF 107: Exhibit C-1 | 4 | 830 |  |
+| ECF-0107-04 | 2026-10-28 | Plaintiff | Attachment 4 to ECF 107: Exhibit C-2 | 2 | 267 |  |
+| ECF-0109-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 109: Proposed Order | 3 | 442 |  |
+| ECF-0112-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 112: Proposed Order A | 3 | 493 |  |
+| ECF-0112-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 112: Proposed Order B | 3 | 706 |  |
+| ECF-0114-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 114: Declaration | 4 | 651 |  |
+| ECF-0114-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 114: Exhibit A | 58 | 15312 |  |
+| ECF-0114-03 | 2026-11-02 | Plaintiff | Attachment 3 to ECF 114: Exhibit B | 49 | 18932 |  |
+| ECF-0114-04 | 2026-11-02 | Plaintiff | Attachment 4 to ECF 114: Exhibit C | 51 | 19349 |  |
+| ECF-0114-05 | 2026-11-02 | Plaintiff | Attachment 5 to ECF 114: Proposed Order | 2 | 362 |  |
+| ECF-0116-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 116: Declaration | 4 | 742 |  |
+| ECF-0116-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 116: Exhibit 3 | 9 | 2302 |  |
+| ECF-0116-03 | 2026-11-02 | Plaintiff | Attachment 3 to ECF 116: Exhibit 4 | 3 | 340 |  |
+| ECF-0116-04 | 2026-11-02 | Plaintiff | Attachment 4 to ECF 116: Exhibit 5 | 10 | 3750 |  |
+| ECF-0116-05 | 2026-11-02 | Plaintiff | Attachment 5 to ECF 116: Proposed Order A | 4 | 826 |  |
+| ECF-0116-06 | 2026-11-02 | Plaintiff | Attachment 6 to ECF 116: Proposed Order B | 5 | 1224 |  |
+| ECF-0118-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 118: Proposed Order A | 4 | 906 |  |
+| ECF-0118-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 118: Proposed Order B | 3 | 601 |  |
+| ECF-0120-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 120: Proposed Order A | 3 | 739 |  |
+| ECF-0120-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 120: Proposed Order B | 3 | 551 |  |
+| ECF-0122-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 122: Proposed Order | 2 | 402 |  |
+| ECF-0124-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 124: Exhibit A | 26 | 8792 |  |
+| ECF-0124-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 124: Proposed Order | 2 | 358 |  |
+| ECF-0126-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 126: Exhibit A | 4 | 547 |  |
+| ECF-0126-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 126: Proposed Order | 1 | 160 |  |
+| ECF-0128-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 128: Declaration | 3 | 321 |  |
+| ECF-0128-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 128: Exhibit A | 22 | 6001 |  |
+| ECF-0128-03 | 2026-11-02 | Plaintiff | Attachment 3 to ECF 128: Proposed Order | 2 | 160 |  |
 
 ## Docket rows without a number
 
@@ -195,65 +242,13 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | NoNumber-2026-09-10-110 | 2026-09-10 | Court | Hearing on ECF 54 terminated; decided on papers |  | 0 |  |
 | NoNumber-2026-10-22-117 | 2026-10-22 | Court | Case reassigned from Judge Davis to Judge Fitzpatrick |  | 0 |  |
 
-## Submitted November 1, 2026, not yet docketed
-
-| ID | Date | Filed by | What it is | Pages | Words | Decided by |
-|---|---|---|---|---|---|---|
-| PKG-01-1 | 2026-11-01 | Plaintiff | Motion: Asks Alston to decide ECF 96 questions first | 7 | 1046 |  |
-| PKG-01-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks Alston to decide ECF 96 questions first | 6 | 1056 |  |
-| PKG-01-3 | 2026-11-01 | Plaintiff | Proposed Order: Asks Alston to decide ECF 96 questions first | 3 | 446 |  |
-| PKG-01-4 | 2026-11-01 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks Alston to decide ECF 96 questions first | 5 | 507 |  |
-| PKG-02-1 | 2026-11-01 | Plaintiff | Motion: Asks to vacate mootness order over Davis's Meta stock | 12 | 2895 |  |
-| PKG-02-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks to vacate mootness order over Davis's Meta stock | 19 | 5401 |  |
-| PKG-02-3 | 2026-11-01 | Plaintiff | Proposed Order A: Asks to vacate mootness order over Davis's Meta stock | 3 | 497 |  |
-| PKG-02-4 | 2026-11-01 | Plaintiff | Proposed Order B: Asks to vacate mootness order over Davis's Meta stock | 3 | 713 |  |
-| PKG-03-1 | 2026-11-01 | Plaintiff | Motion: Asks leave to amend complaint and add Souras | 9 | 1863 |  |
-| PKG-03-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks leave to amend complaint and add Souras | 20 | 5836 |  |
-| PKG-03-3 | 2026-11-01 | Plaintiff | Declaration: Asks leave to amend complaint and add Souras | 4 | 654 |  |
-| PKG-03-4 | 2026-11-01 | Plaintiff | Exhibit A - Proposed Second Amended Complaint: Asks leave to amend complaint and add Souras | 58 | 15155 |  |
-| PKG-03-5 | 2026-11-01 | Plaintiff | Exhibit B - Comparison Against Ecf 1: Asks leave to amend complaint and add Souras | 49 | 18833 |  |
-| PKG-03-6 | 2026-11-01 | Plaintiff | Exhibit C - Comparison Against Ecf 5: Asks leave to amend complaint and add Souras | 51 | 19229 |  |
-| PKG-03-7 | 2026-11-01 | Plaintiff | Proposed Order: Asks leave to amend complaint and add Souras | 2 | 363 |  |
-| PKG-04-1 | 2026-11-01 | Plaintiff | Motion: Asks ruling that Hall acted as NCMEC's employee | 9 | 1938 |  |
-| PKG-04-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks ruling that Hall acted as NCMEC's employee | 24 | 6987 |  |
-| PKG-04-3 | 2026-11-01 | Plaintiff | Declaration: Asks ruling that Hall acted as NCMEC's employee | 4 | 746 |  |
-| PKG-04-4 | 2026-11-01 | Plaintiff | Exhibit 3: Asks ruling that Hall acted as NCMEC's employee | 9 | 2405 |  |
-| PKG-04-5 | 2026-11-01 | Plaintiff | Exhibit 4: Asks ruling that Hall acted as NCMEC's employee | 3 | 386 |  |
-| PKG-04-6 | 2026-11-01 | Plaintiff | Exhibit 5: Asks ruling that Hall acted as NCMEC's employee | 10 | 4248 |  |
-| PKG-04-7 | 2026-11-01 | Plaintiff | Proposed Order A: Asks ruling that Hall acted as NCMEC's employee | 4 | 828 |  |
-| PKG-04-8 | 2026-11-01 | Plaintiff | Proposed Order B: Asks ruling that Hall acted as NCMEC's employee | 5 | 1230 |  |
-| PKG-05-1 | 2026-11-01 | Plaintiff | Motion: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order | 10 | 2181 |  |
-| PKG-05-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order | 22 | 6353 |  |
-| PKG-05-3 | 2026-11-01 | Plaintiff | Proposed Order A: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order | 4 | 909 |  |
-| PKG-05-4 | 2026-11-01 | Plaintiff | Proposed Order B: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order | 3 | 609 |  |
-| PKG-06-1 | 2026-11-01 | Plaintiff | Motion: Asks Fitzpatrick to reconsider denying a scheduling order | 8 | 1501 |  |
-| PKG-06-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks Fitzpatrick to reconsider denying a scheduling order | 20 | 5274 |  |
-| PKG-06-3 | 2026-11-01 | Plaintiff | Proposed Order A: Asks Fitzpatrick to reconsider denying a scheduling order | 3 | 738 |  |
-| PKG-06-4 | 2026-11-01 | Plaintiff | Proposed Order B: Asks Fitzpatrick to reconsider denying a scheduling order | 3 | 551 |  |
-| PKG-07-1 | 2026-11-01 | Plaintiff | Motion: Asks to correct what ECF 108 says Alston chose | 8 | 1317 |  |
-| PKG-07-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks to correct what ECF 108 says Alston chose | 12 | 2757 |  |
-| PKG-07-3 | 2026-11-01 | Plaintiff | Proposed Order: Asks to correct what ECF 108 says Alston chose | 2 | 405 |  |
-| PKG-08-1 | 2026-11-01 | Plaintiff | Motion: Asks Court to notice a California court filing | 7 | 1268 |  |
-| PKG-08-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks Court to notice a California court filing | 6 | 1028 |  |
-| PKG-08-3 | 2026-11-01 | Plaintiff | Exhibit A - N.D. Cal. Ecf No. 152: Asks Court to notice a California court filing | 26 | 8899 |  |
-| PKG-08-4 | 2026-11-01 | Plaintiff | Proposed Order: Asks Court to notice a California court filing | 2 | 358 |  |
-| PKG-09-1 | 2026-11-01 | Plaintiff | Motion: Asks leave to report events since ECF 93, 97–99 | 6 | 747 |  |
-| PKG-09-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks leave to report events since ECF 93, 97–99 | 4 | 499 |  |
-| PKG-09-3 | 2026-11-01 | Plaintiff | Notice: Asks leave to report events since ECF 93, 97–99 | 4 | 545 |  |
-| PKG-09-4 | 2026-11-01 | Plaintiff | Proposed Order: Asks leave to report events since ECF 93, 97–99 | 1 | 159 |  |
-| PKG-10-1 | 2026-11-01 | Plaintiff | Motion: Asks leave to file statement of procedural irregularities | 6 | 719 |  |
-| PKG-10-2 | 2026-11-01 | Plaintiff | Memorandum In Support: Asks leave to file statement of procedural irregularities | 7 | 1333 |  |
-| PKG-10-3 | 2026-11-01 | Plaintiff | Declaration: Asks leave to file statement of procedural irregularities | 3 | 323 |  |
-| PKG-10-4 | 2026-11-01 | Plaintiff | Proposed Order: Asks leave to file statement of procedural irregularities | 2 | 160 |  |
-| PKG-10-5 | 2026-11-01 | Plaintiff | Exhibit A - Consolidated Statement: Asks leave to file statement of procedural irregularities | 22 | 5963 |  |
-
 ## Notices of hearing submitted November 2, 2026, not yet docketed
 
 | ID | Date | Filed by | What it is | Pages | Words | Decided by |
 |---|---|---|---|---|---|---|
 | NOH-A | 2026-11-02 | Plaintiff | Notices ECF 89, 90, 93, 97, 98 for December 16 | 5 | 665 |  |
-| NOH-B | 2026-11-02 | Plaintiff | Notices Packages 4, 8, 9, 10 for December 16 | 5 | 582 |  |
-| NOH-C | 2026-11-02 | Plaintiff | Notices Packages 2, 3, 5, 6, 7 for December 4 | 5 | 571 |  |
+| NOH-B | 2026-11-02 | Plaintiff | Notices ECF 116, 124, 126, 128 for December 16 | 5 | 582 |  |
+| NOH-C | 2026-11-02 | Plaintiff | Notices ECF 112, 114, 118, 120, 122 for December 4 | 5 | 571 |  |
 
 ## Complaints by paragraph
 

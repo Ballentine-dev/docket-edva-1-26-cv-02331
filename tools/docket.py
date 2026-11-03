@@ -114,7 +114,7 @@ def main(a):
                 print(f"\n{title}:")
                 for x in rows:
                     print(f"  {x['id']} | {x['description']} | words: {x['words']}")
-        pre = p["id"].rsplit("-", 1)[0] + "-" if p["id"].startswith("PKG") else p["id"] + "-"
+        pre = p["id"] + "-"
         kin = [r for r in load("menu.json") if r["id"].startswith(pre) and r["id"] != p["id"]]
         if kin:
             print("\nSame filing:")
