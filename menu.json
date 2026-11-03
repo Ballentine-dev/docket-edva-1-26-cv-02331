@@ -1975,7 +1975,7 @@
 "filed_by": "Plaintiff",
 "description": "Memorandum supporting the motion to correct ECF 108",
 "page_count": 12,
-"words": 2767,
+"words": 2901,
 "text": true,
 "decided_by": null
 },
@@ -2106,6 +2106,76 @@
 "description": "Memorandum supporting leave to file the consolidated statement",
 "page_count": 7,
 "words": 1410,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0130",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Plaintiff notices ECF 89, 90, 93, 97, 98 for December 16",
+"page_count": 5,
+"words": 664,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0131",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Plaintiff notices ECF 116, 124, 126, 128 for December 16",
+"page_count": 5,
+"words": 582,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0132",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Plaintiff notices ECF 112, 114, 118, 120, 122 for December 4",
+"page_count": 5,
+"words": 571,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0133-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 133: Proposed Order",
+"page_count": 4,
+"words": 317,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0133",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks Alston to refer the case to an early settlement conference",
+"page_count": 5,
+"words": 561,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0134",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting referral to an early settlement conference",
+"page_count": 4,
+"words": 442,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0135",
+"date": "2026-11-03",
+"filed_by": "Plaintiff",
+"description": "Plaintiff waives oral argument on ECF 133",
+"page_count": 5,
+"words": 436,
 "text": true,
 "decided_by": null
 },
@@ -2247,36 +2317,6 @@
 "page_count": null,
 "words": 0,
 "text": false,
-"decided_by": null
-},
-{
-"id": "NOH-A",
-"date": "2026-11-02",
-"filed_by": "Plaintiff",
-"description": "Notices ECF 89, 90, 93, 97, 98 for December 16",
-"page_count": 5,
-"words": 665,
-"text": true,
-"decided_by": null
-},
-{
-"id": "NOH-B",
-"date": "2026-11-02",
-"filed_by": "Plaintiff",
-"description": "Notices ECF 116, 124, 126, 128 for December 16",
-"page_count": 5,
-"words": 582,
-"text": true,
-"decided_by": null
-},
-{
-"id": "NOH-C",
-"date": "2026-11-02",
-"filed_by": "Plaintiff",
-"description": "Notices ECF 112, 114, 118, 120, 122 for December 4",
-"page_count": 5,
-"words": 571,
-"text": true,
 "decided_by": null
 }
 ]

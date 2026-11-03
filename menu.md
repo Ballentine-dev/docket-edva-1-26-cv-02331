@@ -128,13 +128,19 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0120 | 2026-11-02 | Plaintiff | Asks Fitzpatrick to reconsider denying a scheduling order | 8 | 1504 |  |
 | ECF-0121 | 2026-11-02 | Plaintiff | Memorandum supporting reconsideration of the scheduling order denial | 20 | 5288 |  |
 | ECF-0122 | 2026-11-02 | Plaintiff | Asks to correct what ECF 108 says Alston chose | 8 | 1313 |  |
-| ECF-0123 | 2026-11-02 | Plaintiff | Memorandum supporting the motion to correct ECF 108 | 12 | 2767 |  |
+| ECF-0123 | 2026-11-02 | Plaintiff | Memorandum supporting the motion to correct ECF 108 | 12 | 2901 |  |
 | ECF-0124 | 2026-11-02 | Plaintiff | Asks Court to notice a California court filing | 7 | 1269 |  |
 | ECF-0125 | 2026-11-02 | Plaintiff | Memorandum supporting the request for judicial notice | 6 | 1031 |  |
 | ECF-0126 | 2026-11-02 | Plaintiff | Asks leave to report events since ECF 93, 97–99 | 6 | 743 |  |
 | ECF-0127 | 2026-11-02 | Plaintiff | Memorandum supporting leave to report later record events | 4 | 500 |  |
 | ECF-0128 | 2026-11-02 | Plaintiff | Asks leave to file statement of procedural irregularities | 6 | 712 |  |
 | ECF-0129 | 2026-11-02 | Plaintiff | Memorandum supporting leave to file the consolidated statement | 7 | 1410 |  |
+| ECF-0130 | 2026-11-02 | Plaintiff | Plaintiff notices ECF 89, 90, 93, 97, 98 for December 16 | 5 | 664 |  |
+| ECF-0131 | 2026-11-02 | Plaintiff | Plaintiff notices ECF 116, 124, 126, 128 for December 16 | 5 | 582 |  |
+| ECF-0132 | 2026-11-02 | Plaintiff | Plaintiff notices ECF 112, 114, 118, 120, 122 for December 4 | 5 | 571 |  |
+| ECF-0133 | 2026-11-02 | Plaintiff | Asks Alston to refer the case to an early settlement conference | 5 | 561 |  |
+| ECF-0134 | 2026-11-02 | Plaintiff | Memorandum supporting referral to an early settlement conference | 4 | 442 |  |
+| ECF-0135 | 2026-11-03 | Plaintiff | Plaintiff waives oral argument on ECF 133 | 5 | 436 |  |
 
 ## Attachments
 
@@ -222,6 +228,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0128-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 128: Declaration | 3 | 321 |  |
 | ECF-0128-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 128: Exhibit A | 22 | 6001 |  |
 | ECF-0128-03 | 2026-11-02 | Plaintiff | Attachment 3 to ECF 128: Proposed Order | 2 | 160 |  |
+| ECF-0133-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 133: Proposed Order | 4 | 317 |  |
 
 ## Docket rows without a number
 
@@ -241,14 +248,6 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | NoNumber-2026-09-09-115 | 2026-09-09 | Court | Clerk tells Plaintiff to notice ECF 41 or waive |  | 0 |  |
 | NoNumber-2026-09-10-110 | 2026-09-10 | Court | Hearing on ECF 54 terminated; decided on papers |  | 0 |  |
 | NoNumber-2026-10-22-117 | 2026-10-22 | Court | Case reassigned from Judge Davis to Judge Fitzpatrick |  | 0 |  |
-
-## Notices of hearing submitted November 2, 2026, not yet docketed
-
-| ID | Date | Filed by | What it is | Pages | Words | Decided by |
-|---|---|---|---|---|---|---|
-| NOH-A | 2026-11-02 | Plaintiff | Notices ECF 89, 90, 93, 97, 98 for December 16 | 5 | 665 |  |
-| NOH-B | 2026-11-02 | Plaintiff | Notices ECF 116, 124, 126, 128 for December 16 | 5 | 582 |  |
-| NOH-C | 2026-11-02 | Plaintiff | Notices ECF 112, 114, 118, 120, 122 for December 4 | 5 | 571 |  |
 
 ## Complaints by paragraph
 
