@@ -39,7 +39,6 @@ The tool also runs by itself, reading this repository over the web.
 
 - `ECF-0084` is ECF No. 84. `ECF-0007-02` is its second attachment.
 - `NoNumber-...` is a docket row with no number and no document.
-- `NOH-A` is a notice of hearing submitted November 2, 2026. The three notices are awaiting docketing and have no ECF number yet. Their text is the paper as prepared. It will be replaced with the docketed text once ECF numbers exist.
 
 ## Each paper's fields
 
@@ -53,6 +52,6 @@ Each paper's file lists the papers it refers to and the papers that refer to it,
 
 ## How far to rely on the text
 
-The docket controls. `text_source` says where each paper's text came from: CourtListener's copy of the docketed PDF, a scan of it, or Plaintiff's file copy. Scanned text can carry page stamps and reading errors, so check a quotation against the docketed PDF before relying on it. The menu's descriptions are pointers for finding a paper and are not a source. Docket entries run through ECF No. 129, as of November 3, 2026. CourtListener has no copy of ECF Nos. 109 to 129, so their text is Plaintiff's file copy of each filed PDF, read by OCR page by page.
+The docket controls. `text_source` says where each paper's text came from: CourtListener's copy of the docketed PDF, a scan of it, or Plaintiff's file copy. Scanned text can carry page stamps and reading errors, so check a quotation against the docketed PDF before relying on it. The menu's descriptions are pointers for finding a paper and are not a source. Docket entries run through ECF No. 135, as of November 3, 2026. CourtListener has copies of ECF Nos. 123, 129 and 134 only. The text of the other papers from ECF No. 109 to 135 is Plaintiff's file copy of each filed PDF, read by OCR page by page.
 
 Docket on CourtListener: https://www.courtlistener.com/docket/73709501/ballentine-v-hall/
