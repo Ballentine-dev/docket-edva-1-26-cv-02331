@@ -4,7 +4,7 @@
  "cite": "Notice of Hearing B",
  "date": "2026-11-02",
  "filed_by": "Plaintiff",
- "description": "Notices Packages 4, 8, 9, 10 for December 16",
+ "description": "Notices ECF 116, 124, 126, 128 for December 16",
  "docket_title": "Notice of Hearing on Motions Filed November 1, 2026 before the District Judge",
  "status": "Submitted through EDSS on November 2, 2026. Awaiting docketing; no ECF number yet. Text is the paper as prepared. Hearing dates are as noticed and may be changed by the Court.",
  "judge": "Alston",
@@ -13,23 +13,23 @@
  "words": 582,
  "refers_to": [
   {
-   "id": "PKG-04-1",
-   "description": "Motion: Asks ruling that Hall acted as NCMEC's employee",
+   "id": "ECF-0116",
+   "description": "Asks ruling that Hall acted as NCMEC's employee",
    "words": "Noticed for hearing"
   },
   {
-   "id": "PKG-08-1",
-   "description": "Motion: Asks Court to notice a California court filing",
+   "id": "ECF-0124",
+   "description": "Asks Court to notice a California court filing",
    "words": "Noticed for hearing"
   },
   {
-   "id": "PKG-09-1",
-   "description": "Motion: Asks leave to report events since ECF 93, 97–99",
+   "id": "ECF-0126",
+   "description": "Asks leave to report events since ECF 93, 97–99",
    "words": "Noticed for hearing"
   },
   {
-   "id": "PKG-10-1",
-   "description": "Motion: Asks leave to file statement of procedural irregularities",
+   "id": "ECF-0128",
+   "description": "Asks leave to file statement of procedural irregularities",
    "words": "Noticed for hearing"
   }
  ],

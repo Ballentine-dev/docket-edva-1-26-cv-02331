@@ -4,7 +4,7 @@
  "cite": "Notice of Hearing C",
  "date": "2026-11-02",
  "filed_by": "Plaintiff",
- "description": "Notices Packages 2, 3, 5, 6, 7 for December 4",
+ "description": "Notices ECF 112, 114, 118, 120, 122 for December 4",
  "docket_title": "Notice of Hearing on Motions Filed November 1, 2026 before the Magistrate Judge",
  "status": "Submitted through EDSS on November 2, 2026. Awaiting docketing; no ECF number yet. Text is the paper as prepared. Hearing dates are as noticed and may be changed by the Court.",
  "judge": "Fitzpatrick",
@@ -13,28 +13,28 @@
  "words": 571,
  "refers_to": [
   {
-   "id": "PKG-02-1",
-   "description": "Motion: Asks to vacate mootness order over Davis's Meta stock",
+   "id": "ECF-0112",
+   "description": "Asks to vacate mootness order over Davis's Meta stock",
    "words": "Noticed for hearing"
   },
   {
-   "id": "PKG-03-1",
-   "description": "Motion: Asks leave to amend complaint and add Souras",
+   "id": "ECF-0114",
+   "description": "Asks leave to amend complaint and add Souras",
    "words": "Noticed for hearing"
   },
   {
-   "id": "PKG-05-1",
-   "description": "Motion: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
+   "id": "ECF-0118",
+   "description": "Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
    "words": "Noticed for hearing"
   },
   {
-   "id": "PKG-06-1",
-   "description": "Motion: Asks Fitzpatrick to reconsider denying a scheduling order",
+   "id": "ECF-0120",
+   "description": "Asks Fitzpatrick to reconsider denying a scheduling order",
    "words": "Noticed for hearing"
   },
   {
-   "id": "PKG-07-1",
-   "description": "Motion: Asks to correct what ECF 108 says Alston chose",
+   "id": "ECF-0122",
+   "description": "Asks to correct what ECF 108 says Alston chose",
    "words": "Noticed for hearing"
   }
  ],

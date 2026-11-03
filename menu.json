@@ -194,7 +194,7 @@
 "date": "2026-08-10",
 "filed_by": "Plaintiff",
 "description": "Certification that no attorney helped prepare complaint",
-"page_count": null,
+"page_count": 1,
 "words": 125,
 "text": true,
 "decided_by": null
@@ -254,7 +254,7 @@
 "date": "2026-08-12",
 "filed_by": "Plaintiff",
 "description": "Plaintiff notices hearing on summary judgment for September 18",
-"page_count": null,
+"page_count": 3,
 "words": 391,
 "text": true,
 "decided_by": null
@@ -324,7 +324,7 @@
 "date": "2026-08-20",
 "filed_by": "Plaintiff",
 "description": "Plaintiff notices hearing on the three-interrogatory motion",
-"page_count": null,
+"page_count": 4,
 "words": 408,
 "text": true,
 "decided_by": null
@@ -344,7 +344,7 @@
 "date": "2026-08-20",
 "filed_by": "Plaintiff",
 "description": "Notice of amended proof of service on Meta",
-"page_count": null,
+"page_count": 3,
 "words": 491,
 "text": true,
 "decided_by": null
@@ -454,7 +454,7 @@
 "date": "2026-08-20",
 "filed_by": "Plaintiff",
 "description": "Plaintiff notices supplemental complaint motion for September 25",
-"page_count": null,
+"page_count": 4,
 "words": 400,
 "text": true,
 "decided_by": null
@@ -544,7 +544,7 @@
 "date": "2026-08-27",
 "filed_by": "Plaintiff",
 "description": "Proof Katie Hall was served with the summons",
-"page_count": null,
+"page_count": 2,
 "words": 535,
 "text": true,
 "decided_by": null
@@ -1104,7 +1104,7 @@
 "date": "2026-09-17",
 "filed_by": "Plaintiff",
 "description": "Plaintiff's reply supporting leave to file a sur-reply",
-"page_count": null,
+"page_count": 5,
 "words": 522,
 "text": true,
 "decided_by": null
@@ -1244,7 +1244,7 @@
 "date": "2026-10-12",
 "filed_by": "Plaintiff",
 "description": "Plaintiff waives oral argument on ECF 66, 67, 76",
-"page_count": null,
+"page_count": 1,
 "words": 723,
 "text": true,
 "decided_by": null
@@ -1314,7 +1314,7 @@
 "date": "2026-10-13",
 "filed_by": "Plaintiff",
 "description": "Plaintiff waives oral argument on the disqualification motion",
-"page_count": null,
+"page_count": 5,
 "words": 559,
 "text": true,
 "decided_by": null
@@ -1384,7 +1384,7 @@
 "date": "2026-10-13",
 "filed_by": "Plaintiff",
 "description": "Plaintiff waives oral argument on that set-aside motion",
-"page_count": null,
+"page_count": 5,
 "words": 565,
 "text": true,
 "decided_by": null
@@ -1434,7 +1434,7 @@
 "date": "2026-10-13",
 "filed_by": "Plaintiff",
 "description": "Plaintiff waives oral argument on the vacatur motion",
-"page_count": null,
+"page_count": 5,
 "words": 649,
 "text": true,
 "decided_by": null
@@ -1464,7 +1464,7 @@
 "date": "2026-10-23",
 "filed_by": "Plaintiff",
 "description": "Asks Alston to set aside that mootness order",
-"page_count": null,
+"page_count": 10,
 "words": 2141,
 "text": true,
 "decided_by": null
@@ -1494,7 +1494,7 @@
 "date": "2026-10-23",
 "filed_by": "Plaintiff",
 "description": "Plaintiff waives oral argument on that motion",
-"page_count": null,
+"page_count": 4,
 "words": 331,
 "text": true,
 "decided_by": null
@@ -1584,7 +1584,7 @@
 "date": "2026-10-28",
 "filed_by": "Plaintiff",
 "description": "Attachment 1 to ECF 107: Exhibit A",
-"page_count": null,
+"page_count": 6,
 "words": 1306,
 "text": true,
 "decided_by": null
@@ -1594,7 +1594,7 @@
 "date": "2026-10-28",
 "filed_by": "Plaintiff",
 "description": "Attachment 2 to ECF 107: Exhibit B",
-"page_count": null,
+"page_count": 2,
 "words": 310,
 "text": true,
 "decided_by": null
@@ -1604,7 +1604,7 @@
 "date": "2026-10-28",
 "filed_by": "Plaintiff",
 "description": "Attachment 3 to ECF 107: Exhibit C-1",
-"page_count": null,
+"page_count": 4,
 "words": 830,
 "text": true,
 "decided_by": null
@@ -1614,7 +1614,7 @@
 "date": "2026-10-28",
 "filed_by": "Plaintiff",
 "description": "Attachment 4 to ECF 107: Exhibit C-2",
-"page_count": null,
+"page_count": 2,
 "words": 267,
 "text": true,
 "decided_by": null
@@ -1624,7 +1624,7 @@
 "date": "2026-10-28",
 "filed_by": "Plaintiff",
 "description": "Plaintiff's declaration and exhibits on Rule 26(f) efforts",
-"page_count": null,
+"page_count": 6,
 "words": 997,
 "text": true,
 "decided_by": null
@@ -1636,6 +1636,476 @@
 "description": "Order denying ECF 103, 105 without prejudice",
 "page_count": 2,
 "words": 345,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0109-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 109: Proposed Order",
+"page_count": 3,
+"words": 442,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0109",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks Alston to decide ECF 96 questions first",
+"page_count": 7,
+"words": 1044,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0110",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting the priority and sequencing motion",
+"page_count": 6,
+"words": 1060,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0111",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Plaintiff waives oral argument on the priority motion",
+"page_count": 5,
+"words": 509,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0112-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 112: Proposed Order A",
+"page_count": 3,
+"words": 493,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0112-02",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 112: Proposed Order B",
+"page_count": 3,
+"words": 706,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0112",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks to vacate mootness order over Davis's Meta stock",
+"page_count": 12,
+"words": 2899,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0113",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting the motion to vacate ECF 96",
+"page_count": 19,
+"words": 5418,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0114-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 114: Declaration",
+"page_count": 4,
+"words": 651,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0114-02",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 114: Exhibit A",
+"page_count": 58,
+"words": 15312,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0114-03",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 3 to ECF 114: Exhibit B",
+"page_count": 49,
+"words": 18932,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0114-04",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 4 to ECF 114: Exhibit C",
+"page_count": 51,
+"words": 19349,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0114-05",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 5 to ECF 114: Proposed Order",
+"page_count": 2,
+"words": 362,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0114",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks leave to amend complaint and add Souras",
+"page_count": 9,
+"words": 1861,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0115",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting leave to file second amended complaint",
+"page_count": 20,
+"words": 5851,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0116-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 116: Declaration",
+"page_count": 4,
+"words": 742,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0116-02",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 116: Exhibit 3",
+"page_count": 9,
+"words": 2302,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0116-03",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 3 to ECF 116: Exhibit 4",
+"page_count": 3,
+"words": 340,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0116-04",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 4 to ECF 116: Exhibit 5",
+"page_count": 10,
+"words": 3750,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0116-05",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 5 to ECF 116: Proposed Order A",
+"page_count": 4,
+"words": 826,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0116-06",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 6 to ECF 116: Proposed Order B",
+"page_count": 5,
+"words": 1224,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0116",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks ruling that Hall acted as NCMEC's employee",
+"page_count": 9,
+"words": 1934,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0117",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting the renewed partial summary judgment motion",
+"page_count": 24,
+"words": 6999,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0118-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 118: Proposed Order A",
+"page_count": 4,
+"words": 906,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0118-02",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 118: Proposed Order B",
+"page_count": 3,
+"words": 601,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0118",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
+"page_count": 10,
+"words": 2180,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0119",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting reconsideration of the Rule 26(f) denial",
+"page_count": 22,
+"words": 6332,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0120-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 120: Proposed Order A",
+"page_count": 3,
+"words": 739,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0120-02",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 120: Proposed Order B",
+"page_count": 3,
+"words": 551,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0120",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks Fitzpatrick to reconsider denying a scheduling order",
+"page_count": 8,
+"words": 1504,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0121",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting reconsideration of the scheduling order denial",
+"page_count": 20,
+"words": 5288,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0122-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 122: Proposed Order",
+"page_count": 2,
+"words": 402,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0122",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks to correct what ECF 108 says Alston chose",
+"page_count": 8,
+"words": 1313,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0123",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting the motion to correct ECF 108",
+"page_count": 12,
+"words": 2767,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0124-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 124: Exhibit A",
+"page_count": 26,
+"words": 8792,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0124-02",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 124: Proposed Order",
+"page_count": 2,
+"words": 358,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0124",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks Court to notice a California court filing",
+"page_count": 7,
+"words": 1269,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0125",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting the request for judicial notice",
+"page_count": 6,
+"words": 1031,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0126-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 126: Exhibit A",
+"page_count": 4,
+"words": 547,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0126-02",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 126: Proposed Order",
+"page_count": 1,
+"words": 160,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0126",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks leave to report events since ECF 93, 97–99",
+"page_count": 6,
+"words": 743,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0127",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting leave to report later record events",
+"page_count": 4,
+"words": 500,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0128-01",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 128: Declaration",
+"page_count": 3,
+"words": 321,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0128-02",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 128: Exhibit A",
+"page_count": 22,
+"words": 6001,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0128-03",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Attachment 3 to ECF 128: Proposed Order",
+"page_count": 2,
+"words": 160,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0128",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Asks leave to file statement of procedural irregularities",
+"page_count": 6,
+"words": 712,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0129",
+"date": "2026-11-02",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting leave to file the consolidated statement",
+"page_count": 7,
+"words": 1410,
 "text": true,
 "decided_by": null
 },
@@ -1780,476 +2250,6 @@
 "decided_by": null
 },
 {
-"id": "PKG-01-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks Alston to decide ECF 96 questions first",
-"page_count": 7,
-"words": 1046,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-01-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks Alston to decide ECF 96 questions first",
-"page_count": 6,
-"words": 1056,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-01-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order: Asks Alston to decide ECF 96 questions first",
-"page_count": 3,
-"words": 446,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-01-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Notice Of Waiver Of Oral Argument: Asks Alston to decide ECF 96 questions first",
-"page_count": 5,
-"words": 507,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-02-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks to vacate mootness order over Davis's Meta stock",
-"page_count": 12,
-"words": 2895,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-02-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks to vacate mootness order over Davis's Meta stock",
-"page_count": 19,
-"words": 5401,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-02-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order A: Asks to vacate mootness order over Davis's Meta stock",
-"page_count": 3,
-"words": 497,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-02-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order B: Asks to vacate mootness order over Davis's Meta stock",
-"page_count": 3,
-"words": 713,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-03-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks leave to amend complaint and add Souras",
-"page_count": 9,
-"words": 1863,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-03-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks leave to amend complaint and add Souras",
-"page_count": 20,
-"words": 5836,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-03-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Declaration: Asks leave to amend complaint and add Souras",
-"page_count": 4,
-"words": 654,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-03-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Exhibit A - Proposed Second Amended Complaint: Asks leave to amend complaint and add Souras",
-"page_count": 58,
-"words": 15155,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-03-5",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Exhibit B - Comparison Against Ecf 1: Asks leave to amend complaint and add Souras",
-"page_count": 49,
-"words": 18833,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-03-6",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Exhibit C - Comparison Against Ecf 5: Asks leave to amend complaint and add Souras",
-"page_count": 51,
-"words": 19229,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-03-7",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order: Asks leave to amend complaint and add Souras",
-"page_count": 2,
-"words": 363,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-04-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks ruling that Hall acted as NCMEC's employee",
-"page_count": 9,
-"words": 1938,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-04-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks ruling that Hall acted as NCMEC's employee",
-"page_count": 24,
-"words": 6987,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-04-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Declaration: Asks ruling that Hall acted as NCMEC's employee",
-"page_count": 4,
-"words": 746,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-04-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Exhibit 3: Asks ruling that Hall acted as NCMEC's employee",
-"page_count": 9,
-"words": 2405,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-04-5",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Exhibit 4: Asks ruling that Hall acted as NCMEC's employee",
-"page_count": 3,
-"words": 386,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-04-6",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Exhibit 5: Asks ruling that Hall acted as NCMEC's employee",
-"page_count": 10,
-"words": 4248,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-04-7",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order A: Asks ruling that Hall acted as NCMEC's employee",
-"page_count": 4,
-"words": 828,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-04-8",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order B: Asks ruling that Hall acted as NCMEC's employee",
-"page_count": 5,
-"words": 1230,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-05-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
-"page_count": 10,
-"words": 2181,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-05-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
-"page_count": 22,
-"words": 6353,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-05-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order A: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
-"page_count": 4,
-"words": 909,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-05-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order B: Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
-"page_count": 3,
-"words": 609,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-06-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks Fitzpatrick to reconsider denying a scheduling order",
-"page_count": 8,
-"words": 1501,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-06-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks Fitzpatrick to reconsider denying a scheduling order",
-"page_count": 20,
-"words": 5274,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-06-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order A: Asks Fitzpatrick to reconsider denying a scheduling order",
-"page_count": 3,
-"words": 738,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-06-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order B: Asks Fitzpatrick to reconsider denying a scheduling order",
-"page_count": 3,
-"words": 551,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-07-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks to correct what ECF 108 says Alston chose",
-"page_count": 8,
-"words": 1317,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-07-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks to correct what ECF 108 says Alston chose",
-"page_count": 12,
-"words": 2757,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-07-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order: Asks to correct what ECF 108 says Alston chose",
-"page_count": 2,
-"words": 405,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-08-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks Court to notice a California court filing",
-"page_count": 7,
-"words": 1268,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-08-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks Court to notice a California court filing",
-"page_count": 6,
-"words": 1028,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-08-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Exhibit A - N.D. Cal. Ecf No. 152: Asks Court to notice a California court filing",
-"page_count": 26,
-"words": 8899,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-08-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order: Asks Court to notice a California court filing",
-"page_count": 2,
-"words": 358,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-09-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks leave to report events since ECF 93, 97–99",
-"page_count": 6,
-"words": 747,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-09-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks leave to report events since ECF 93, 97–99",
-"page_count": 4,
-"words": 499,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-09-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Notice: Asks leave to report events since ECF 93, 97–99",
-"page_count": 4,
-"words": 545,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-09-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order: Asks leave to report events since ECF 93, 97–99",
-"page_count": 1,
-"words": 159,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-10-1",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks leave to file statement of procedural irregularities",
-"page_count": 6,
-"words": 719,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-10-2",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks leave to file statement of procedural irregularities",
-"page_count": 7,
-"words": 1333,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-10-3",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Declaration: Asks leave to file statement of procedural irregularities",
-"page_count": 3,
-"words": 323,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-10-4",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Proposed Order: Asks leave to file statement of procedural irregularities",
-"page_count": 2,
-"words": 160,
-"text": true,
-"decided_by": null
-},
-{
-"id": "PKG-10-5",
-"date": "2026-11-01",
-"filed_by": "Plaintiff",
-"description": "Exhibit A - Consolidated Statement: Asks leave to file statement of procedural irregularities",
-"page_count": 22,
-"words": 5963,
-"text": true,
-"decided_by": null
-},
-{
 "id": "NOH-A",
 "date": "2026-11-02",
 "filed_by": "Plaintiff",
@@ -2263,7 +2263,7 @@
 "id": "NOH-B",
 "date": "2026-11-02",
 "filed_by": "Plaintiff",
-"description": "Notices Packages 4, 8, 9, 10 for December 16",
+"description": "Notices ECF 116, 124, 126, 128 for December 16",
 "page_count": 5,
 "words": 582,
 "text": true,
@@ -2273,7 +2273,7 @@
 "id": "NOH-C",
 "date": "2026-11-02",
 "filed_by": "Plaintiff",
-"description": "Notices Packages 2, 3, 5, 6, 7 for December 4",
+"description": "Notices ECF 112, 114, 118, 120, 122 for December 4",
 "page_count": 5,
 "words": 571,
 "text": true,
