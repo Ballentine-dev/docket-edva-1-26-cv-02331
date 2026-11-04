@@ -248,6 +248,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | NoNumber-2026-09-09-115 | 2026-09-09 | Court | Clerk tells Plaintiff to notice ECF 41 or waive |  | 0 |  |
 | NoNumber-2026-09-10-110 | 2026-09-10 | Court | Hearing on ECF 54 terminated; decided on papers |  | 0 |  |
 | NoNumber-2026-10-22-117 | 2026-10-22 | Court | Case reassigned from Judge Davis to Judge Fitzpatrick |  | 0 |  |
+| NoNumber-2026-11-03-122 | 2026-11-03 | Court | Hearing set December 16 before Alston on twelve motions |  | 0 |  |
 
 ## Complaints by paragraph
 

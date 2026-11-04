@@ -1,0 +1,77 @@
+{
+ "id": "NoNumber-2026-11-03-122",
+ "kind": "docket entry without a number",
+ "cite": "Docket entry of 2026-11-03 (no number)",
+ "date": "2026-11-03",
+ "filed_by": "Court",
+ "description": "Hearing set December 16 before Alston on twelve motions",
+ "docket_title": "Motion Hearing set for 12/16/2026 at 10:00 AM in Alexandria Courtroom 1000 before District Judge Rossie D. Alston Jr. as to 120 MOTION for Reconsideration, 114 MOTION to Amend/Correct MOTION for Leave to File, 90 MOTION to Set Aside 84 Order on Motion for Miscellaneous Relief, Order on Motion to Amend/Correct, Order on Motion for Leave to File, 124 MOTION REQUEST for Judicial Notice, 98 MOTION re 93 MOTION for Leave to File, 116 MOTION for Partial Summary Judgment, 128 MOTION for Leave to File, 118 MOTION for Reconsideration, 122 MOTION to Amend/Correct, 93 MOTION for Targeted Vactur of ECF Nos. 64 and 84, 112 MOTION to Vacate 96 Order on Motion for Miscellaneous Relief, and 126 MOTION for Leave to File. (dzir)",
+ "status": "Docketed",
+ "text_source": "Docket text only; this row has no document",
+ "page_count": null,
+ "words": 0,
+ "refers_to": [
+  {
+   "id": "ECF-0090",
+   "description": "Asks Alston to set aside those same denials",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 90 MOTION"
+  },
+  {
+   "id": "ECF-0093",
+   "description": "Asks to vacate two orders and change referral",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 93 MOTION"
+  },
+  {
+   "id": "ECF-0098",
+   "description": "Asks Alston to set aside that mootness order",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 98 MOTION"
+  },
+  {
+   "id": "ECF-0112",
+   "description": "Asks to vacate mootness order over Davis's Meta stock",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 112 MOTION"
+  },
+  {
+   "id": "ECF-0114",
+   "description": "Asks leave to amend complaint and add Souras",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 114 MOTION"
+  },
+  {
+   "id": "ECF-0116",
+   "description": "Asks ruling that Hall acted as NCMEC's employee",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 116 MOTION"
+  },
+  {
+   "id": "ECF-0118",
+   "description": "Asks Fitzpatrick to reconsider denying Rule 26(f) conference order",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 118 MOTION"
+  },
+  {
+   "id": "ECF-0120",
+   "description": "Asks Fitzpatrick to reconsider denying a scheduling order",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 120 MOTION"
+  },
+  {
+   "id": "ECF-0122",
+   "description": "Asks to correct what ECF 108 says Alston chose",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 122 MOTION"
+  },
+  {
+   "id": "ECF-0124",
+   "description": "Asks Court to notice a California court filing",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 124 MOTION"
+  },
+  {
+   "id": "ECF-0126",
+   "description": "Asks leave to report events since ECF 93, 97–99",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 126 MOTION"
+  },
+  {
+   "id": "ECF-0128",
+   "description": "Asks leave to file statement of procedural irregularities",
+   "words": "Motion Hearing set for 12/16/2026 ... as to 128 MOTION"
+  }
+ ],
+ "referred_to_by": [],
+ "pages": []
+}
