@@ -1865,7 +1865,7 @@
 "filed_by": "Plaintiff",
 "description": "Memorandum supporting the renewed partial summary judgment motion",
 "page_count": 24,
-"words": 6999,
+"words": 7270,
 "text": true,
 "decided_by": null
 },
@@ -2324,6 +2324,16 @@
 "date": "2026-11-03",
 "filed_by": "Court",
 "description": "Hearing set December 16 before Alston on twelve motions",
+"page_count": null,
+"words": 0,
+"text": false,
+"decided_by": null
+},
+{
+"id": "NoNumber-2026-11-05-123",
+"date": "2026-11-05",
+"filed_by": "Court",
+"description": "December 16 hearing terminated; motions decided on papers",
 "page_count": null,
 "words": 0,
 "text": false,
