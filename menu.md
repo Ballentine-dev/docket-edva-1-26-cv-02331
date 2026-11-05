@@ -122,7 +122,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0114 | 2026-11-02 | Plaintiff | Asks leave to amend complaint and add Souras | 9 | 1861 |  |
 | ECF-0115 | 2026-11-02 | Plaintiff | Memorandum supporting leave to file second amended complaint | 20 | 5851 |  |
 | ECF-0116 | 2026-11-02 | Plaintiff | Asks ruling that Hall acted as NCMEC's employee | 9 | 1934 |  |
-| ECF-0117 | 2026-11-02 | Plaintiff | Memorandum supporting the renewed partial summary judgment motion | 24 | 6999 |  |
+| ECF-0117 | 2026-11-02 | Plaintiff | Memorandum supporting the renewed partial summary judgment motion | 24 | 7270 |  |
 | ECF-0118 | 2026-11-02 | Plaintiff | Asks Fitzpatrick to reconsider denying Rule 26(f) conference order | 10 | 2180 |  |
 | ECF-0119 | 2026-11-02 | Plaintiff | Memorandum supporting reconsideration of the Rule 26(f) denial | 22 | 6332 |  |
 | ECF-0120 | 2026-11-02 | Plaintiff | Asks Fitzpatrick to reconsider denying a scheduling order | 8 | 1504 |  |
@@ -249,6 +249,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | NoNumber-2026-09-10-110 | 2026-09-10 | Court | Hearing on ECF 54 terminated; decided on papers |  | 0 |  |
 | NoNumber-2026-10-22-117 | 2026-10-22 | Court | Case reassigned from Judge Davis to Judge Fitzpatrick |  | 0 |  |
 | NoNumber-2026-11-03-122 | 2026-11-03 | Court | Hearing set December 16 before Alston on twelve motions |  | 0 |  |
+| NoNumber-2026-11-05-123 | 2026-11-05 | Court | December 16 hearing terminated; motions decided on papers |  | 0 |  |
 
 ## Complaints by paragraph
 

@@ -1,0 +1,22 @@
+{
+ "id": "NoNumber-2026-11-05-123",
+ "kind": "docket entry without a number",
+ "cite": "Docket entry of 2026-11-05 (no number)",
+ "date": "2026-11-05",
+ "filed_by": "Court",
+ "description": "December 16 hearing terminated; motions decided on papers",
+ "docket_title": "*** Motion Hearing deadline terminated - Per RDA's chambers, motions set for 12/16/2026 will be decided on the papers; no oral argument will be heard (tarm, )",
+ "status": "Docketed",
+ "text_source": "Docket text only; this row has no document",
+ "page_count": null,
+ "words": 0,
+ "refers_to": [
+  {
+   "id": "NoNumber-2026-11-03-122",
+   "description": "Hearing set December 16 before Alston on twelve motions",
+   "words": "motions set for 12/16/2026 will be decided on the papers"
+  }
+ ],
+ "referred_to_by": [],
+ "pages": []
+}
