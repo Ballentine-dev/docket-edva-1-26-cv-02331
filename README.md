@@ -39,6 +39,7 @@ The tool also runs by itself, reading this repository over the web.
 
 - `ECF-0084` is ECF No. 84. `ECF-0007-02` is its second attachment.
 - `NoNumber-...` is a docket row with no number and no document.
+- `DRAFT-...` is a paper Plaintiff has drafted and not yet submitted: `DRAFT-NCMEC-2` is the memorandum in the NCMEC Rule 26(d)(1) package, `DRAFT-META-` the Meta package, `DRAFT-ADMIN-` the administrative motion. Drafts can change before filing; once docketed they are replaced by their ECF numbers.
 
 ## Each paper's fields
 
