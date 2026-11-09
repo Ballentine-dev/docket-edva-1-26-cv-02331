@@ -1725,7 +1725,7 @@
 "filed_by": "Plaintiff",
 "description": "Attachment 1 to ECF 114: Declaration",
 "page_count": 4,
-"words": 651,
+"words": 699,
 "text": true,
 "decided_by": null
 },
@@ -1735,7 +1735,7 @@
 "filed_by": "Plaintiff",
 "description": "Attachment 2 to ECF 114: Exhibit A",
 "page_count": 58,
-"words": 15312,
+"words": 15947,
 "text": true,
 "decided_by": null
 },
@@ -1745,7 +1745,7 @@
 "filed_by": "Plaintiff",
 "description": "Attachment 3 to ECF 114: Exhibit B",
 "page_count": 49,
-"words": 18932,
+"words": 16530,
 "text": true,
 "decided_by": null
 },
@@ -1755,7 +1755,7 @@
 "filed_by": "Plaintiff",
 "description": "Attachment 4 to ECF 114: Exhibit C",
 "page_count": 51,
-"words": 19349,
+"words": 16595,
 "text": true,
 "decided_by": null
 },
@@ -1765,7 +1765,7 @@
 "filed_by": "Plaintiff",
 "description": "Attachment 5 to ECF 114: Proposed Order",
 "page_count": 2,
-"words": 362,
+"words": 383,
 "text": true,
 "decided_by": null
 },
@@ -1775,7 +1775,7 @@
 "filed_by": "Plaintiff",
 "description": "Asks leave to amend complaint and add Souras",
 "page_count": 9,
-"words": 1861,
+"words": 1964,
 "text": true,
 "decided_by": null
 },
@@ -2176,6 +2176,16 @@
 "description": "Plaintiff waives oral argument on ECF 133",
 "page_count": 5,
 "words": 436,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0136",
+"date": "2026-11-09",
+"filed_by": "NCMEC and Hall",
+"description": "NCMEC and Hall oppose the settlement conference referral",
+"page_count": 3,
+"words": 671,
 "text": true,
 "decided_by": null
 },
