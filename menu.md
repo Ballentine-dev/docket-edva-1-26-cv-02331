@@ -251,26 +251,26 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | NoNumber-2026-11-03-122 | 2026-11-03 | Court | Hearing set December 16 before Alston on twelve motions |  | 0 |  |
 | NoNumber-2026-11-05-123 | 2026-11-05 | Court | December 16 hearing terminated; motions decided on papers |  | 0 |  |
 
-## Drafted November 7, 2026, not yet submitted
+## Drafted November 7, 2026 (revised November 9), not yet submitted
 
 | ID | Date | Filed by | What it is | Pages | Words | Decided by |
 |---|---|---|---|---|---|---|
-| DRAFT-NCMEC-1 | 2026-11-07 | Plaintiff | Motion: Asks leave for one NCMEC interrogatory on full name | 9 | 1697 |  |
-| DRAFT-NCMEC-2 | 2026-11-07 | Plaintiff | Memorandum In Support: Asks leave for one NCMEC interrogatory on full name | 25 | 7076 |  |
+| DRAFT-NCMEC-1 | 2026-11-09 | Plaintiff | Motion: Asks leave for one NCMEC interrogatory on full name | 9 | 1729 |  |
+| DRAFT-NCMEC-2 | 2026-11-09 | Plaintiff | Memorandum In Support: Asks leave for one NCMEC interrogatory on full name | 31 | 8955 |  |
 | DRAFT-NCMEC-3 | 2026-11-07 | Plaintiff | Exhibit A (the interrogatories): Asks leave for one NCMEC interrogatory on full name | 4 | 613 |  |
-| DRAFT-NCMEC-4 | 2026-11-07 | Plaintiff | Declaration: Asks leave for one NCMEC interrogatory on full name | 5 | 939 |  |
+| DRAFT-NCMEC-4 | 2026-11-09 | Plaintiff | Declaration: Asks leave for one NCMEC interrogatory on full name | 6 | 1055 |  |
 | DRAFT-NCMEC-4A | 2026-11-07 | Plaintiff | Declaration Exhibit 1: Asks leave for one NCMEC interrogatory on full name | 3 | 0 |  |
-| DRAFT-NCMEC-5 | 2026-11-07 | Plaintiff | Proposed Order: Asks leave for one NCMEC interrogatory on full name | 3 | 508 |  |
+| DRAFT-NCMEC-5 | 2026-11-09 | Plaintiff | Proposed Order: Asks leave for one NCMEC interrogatory on full name | 3 | 544 |  |
 | DRAFT-NCMEC-6 | 2026-11-07 | Plaintiff | Proposed Order (alternative referral): Asks leave for one NCMEC interrogatory on full name | 2 | 170 |  |
-| DRAFT-NCMEC-7 | 2026-11-07 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks leave for one NCMEC interrogatory on full name | 4 | 465 |  |
-| DRAFT-META-1 | 2026-11-07 | Plaintiff | Motion: Asks leave for two Meta interrogatories, name and account | 8 | 1691 |  |
-| DRAFT-META-2 | 2026-11-07 | Plaintiff | Memorandum In Support: Asks leave for two Meta interrogatories, name and account | 24 | 6809 |  |
-| DRAFT-META-3 | 2026-11-07 | Plaintiff | Exhibit A (the interrogatories): Asks leave for two Meta interrogatories, name and account | 3 | 675 |  |
-| DRAFT-META-4 | 2026-11-07 | Plaintiff | Declaration: Asks leave for two Meta interrogatories, name and account | 5 | 946 |  |
+| DRAFT-NCMEC-7 | 2026-11-09 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks leave for one NCMEC interrogatory on full name | 4 | 463 |  |
+| DRAFT-META-1 | 2026-11-09 | Plaintiff | Motion: Asks leave for two Meta interrogatories, name and account | 9 | 1787 |  |
+| DRAFT-META-2 | 2026-11-09 | Plaintiff | Memorandum In Support: Asks leave for two Meta interrogatories, name and account | 28 | 7961 |  |
+| DRAFT-META-3 | 2026-11-09 | Plaintiff | Exhibit A (the interrogatories): Asks leave for two Meta interrogatories, name and account | 4 | 756 |  |
+| DRAFT-META-4 | 2026-11-09 | Plaintiff | Declaration: Asks leave for two Meta interrogatories, name and account | 5 | 1033 |  |
 | DRAFT-META-4A | 2026-11-07 | Plaintiff | Declaration Exhibit 1: Asks leave for two Meta interrogatories, name and account | 3 | 0 |  |
-| DRAFT-META-5 | 2026-11-07 | Plaintiff | Proposed Order: Asks leave for two Meta interrogatories, name and account | 3 | 604 |  |
-| DRAFT-META-6 | 2026-11-07 | Plaintiff | Proposed Order (alternative referral): Asks leave for two Meta interrogatories, name and account | 2 | 190 |  |
-| DRAFT-META-7 | 2026-11-07 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks leave for two Meta interrogatories, name and account | 4 | 482 |  |
+| DRAFT-META-5 | 2026-11-09 | Plaintiff | Proposed Order: Asks leave for two Meta interrogatories, name and account | 3 | 546 |  |
+| DRAFT-META-6 | 2026-11-07 | Plaintiff | Proposed Order (alternative referral): Asks leave for two Meta interrogatories, name and account | 2 | 174 |  |
+| DRAFT-META-7 | 2026-11-09 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks leave for two Meta interrogatories, name and account | 4 | 466 |  |
 | DRAFT-ADMIN-1 | 2026-11-07 | Plaintiff | Motion: Asks fixed briefing and decision dates for both applications | 13 | 2978 |  |
 | DRAFT-ADMIN-2 | 2026-11-07 | Plaintiff | Memorandum In Support: Asks fixed briefing and decision dates for both applications | 13 | 3091 |  |
 | DRAFT-ADMIN-3 | 2026-11-07 | Plaintiff | Declaration: Asks fixed briefing and decision dates for both applications | 5 | 806 |  |
