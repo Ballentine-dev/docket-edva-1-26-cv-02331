@@ -279,7 +279,8 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | DRAFT-ADMIN-5 | 2026-11-07 | Plaintiff | Proposed Order 4B (alternative referral): Asks fixed briefing and decision dates for both applications | 5 | 1125 |  |
 | DRAFT-ADMIN-6 | 2026-11-07 | Plaintiff | Proposed Order 4C (interim submissions): Asks fixed briefing and decision dates for both applications | 2 | 425 |  |
 | DRAFT-ADMIN-7 | 2026-11-07 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks fixed briefing and decision dates for both applications | 4 | 561 |  |
-| DRAFT-REPLY-133 | 2026-11-09 | Plaintiff | Reply In Support: Answers NCMEC and Hall's opposition (ECF 136) to the settlement conference motion (ECF 133) | 6 | 880 |  |
+| DRAFT-REPLY-133 | 2026-11-09 | Plaintiff | Reply In Support: Answers NCMEC and Hall's opposition (ECF 136) to the settlement conference motion (ECF 133) | 6 | 900 |  |
+| DRAFT-REPLY-133-DECL | 2026-11-09 | Plaintiff | Declaration: Plaintiff's sworn account of the July 31 settlement proposals, supporting the reply on ECF 133 | 3 | 288 |  |
 
 ## Complaints by paragraph
 

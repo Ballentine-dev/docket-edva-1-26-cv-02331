@@ -2585,7 +2585,17 @@
 "filed_by": "Plaintiff",
 "description": "Reply In Support: Answers NCMEC and Hall's opposition (ECF 136) to the settlement conference motion (ECF 133)",
 "page_count": 6,
-"words": 880,
+"words": 900,
+"text": true,
+"decided_by": null
+},
+{
+"id": "DRAFT-REPLY-133-DECL",
+"date": "2026-11-09",
+"filed_by": "Plaintiff",
+"description": "Declaration: Plaintiff's sworn account of the July 31 settlement proposals, supporting the reply on ECF 133",
+"page_count": 3,
+"words": 288,
 "text": true,
 "decided_by": null
 }
