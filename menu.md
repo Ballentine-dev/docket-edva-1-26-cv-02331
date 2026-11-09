@@ -252,7 +252,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | NoNumber-2026-11-03-122 | 2026-11-03 | Court | Hearing set December 16 before Alston on twelve motions |  | 0 |  |
 | NoNumber-2026-11-05-123 | 2026-11-05 | Court | December 16 hearing terminated; motions decided on papers |  | 0 |  |
 
-## Drafted November 7, 2026 (revised November 9), not yet submitted
+## Drafted November 7–9, 2026, not yet submitted
 
 | ID | Date | Filed by | What it is | Pages | Words | Decided by |
 |---|---|---|---|---|---|---|
@@ -279,6 +279,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | DRAFT-ADMIN-5 | 2026-11-07 | Plaintiff | Proposed Order 4B (alternative referral): Asks fixed briefing and decision dates for both applications | 5 | 1125 |  |
 | DRAFT-ADMIN-6 | 2026-11-07 | Plaintiff | Proposed Order 4C (interim submissions): Asks fixed briefing and decision dates for both applications | 2 | 425 |  |
 | DRAFT-ADMIN-7 | 2026-11-07 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks fixed briefing and decision dates for both applications | 4 | 561 |  |
+| DRAFT-REPLY-133 | 2026-11-09 | Plaintiff | Reply In Support: Answers NCMEC and Hall's opposition (ECF 136) to the settlement conference motion (ECF 133) | 6 | 880 |  |
 
 ## Complaints by paragraph
 
