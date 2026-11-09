@@ -119,7 +119,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0111 | 2026-11-02 | Plaintiff | Plaintiff waives oral argument on the priority motion | 5 | 509 |  |
 | ECF-0112 | 2026-11-02 | Plaintiff | Asks to vacate mootness order over Davis's Meta stock | 12 | 2899 |  |
 | ECF-0113 | 2026-11-02 | Plaintiff | Memorandum supporting the motion to vacate ECF 96 | 19 | 5418 |  |
-| ECF-0114 | 2026-11-02 | Plaintiff | Asks leave to amend complaint and add Souras | 9 | 1861 |  |
+| ECF-0114 | 2026-11-02 | Plaintiff | Asks leave to amend complaint and add Souras | 9 | 1964 |  |
 | ECF-0115 | 2026-11-02 | Plaintiff | Memorandum supporting leave to file second amended complaint | 20 | 5851 |  |
 | ECF-0116 | 2026-11-02 | Plaintiff | Asks ruling that Hall acted as NCMEC's employee | 9 | 1934 |  |
 | ECF-0117 | 2026-11-02 | Plaintiff | Memorandum supporting the renewed partial summary judgment motion | 24 | 7270 |  |
@@ -141,6 +141,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0133 | 2026-11-02 | Plaintiff | Asks Alston to refer the case to an early settlement conference | 5 | 561 |  |
 | ECF-0134 | 2026-11-02 | Plaintiff | Memorandum supporting referral to an early settlement conference | 4 | 442 |  |
 | ECF-0135 | 2026-11-03 | Plaintiff | Plaintiff waives oral argument on ECF 133 | 5 | 436 |  |
+| ECF-0136 | 2026-11-09 | NCMEC and Hall | NCMEC and Hall oppose the settlement conference referral | 3 | 671 |  |
 
 ## Attachments
 
@@ -205,11 +206,11 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0109-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 109: Proposed Order | 3 | 442 |  |
 | ECF-0112-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 112: Proposed Order A | 3 | 493 |  |
 | ECF-0112-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 112: Proposed Order B | 3 | 706 |  |
-| ECF-0114-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 114: Declaration | 4 | 651 |  |
-| ECF-0114-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 114: Exhibit A | 58 | 15312 |  |
-| ECF-0114-03 | 2026-11-02 | Plaintiff | Attachment 3 to ECF 114: Exhibit B | 49 | 18932 |  |
-| ECF-0114-04 | 2026-11-02 | Plaintiff | Attachment 4 to ECF 114: Exhibit C | 51 | 19349 |  |
-| ECF-0114-05 | 2026-11-02 | Plaintiff | Attachment 5 to ECF 114: Proposed Order | 2 | 362 |  |
+| ECF-0114-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 114: Declaration | 4 | 699 |  |
+| ECF-0114-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 114: Exhibit A | 58 | 15947 |  |
+| ECF-0114-03 | 2026-11-02 | Plaintiff | Attachment 3 to ECF 114: Exhibit B | 49 | 16530 |  |
+| ECF-0114-04 | 2026-11-02 | Plaintiff | Attachment 4 to ECF 114: Exhibit C | 51 | 16595 |  |
+| ECF-0114-05 | 2026-11-02 | Plaintiff | Attachment 5 to ECF 114: Proposed Order | 2 | 383 |  |
 | ECF-0116-01 | 2026-11-02 | Plaintiff | Attachment 1 to ECF 116: Declaration | 4 | 742 |  |
 | ECF-0116-02 | 2026-11-02 | Plaintiff | Attachment 2 to ECF 116: Exhibit 3 | 9 | 2302 |  |
 | ECF-0116-03 | 2026-11-02 | Plaintiff | Attachment 3 to ECF 116: Exhibit 4 | 3 | 340 |  |
