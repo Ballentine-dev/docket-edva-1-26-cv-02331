@@ -281,7 +281,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | DRAFT-ADMIN-7 | 2026-11-07 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks fixed briefing and decision dates for both applications | 4 | 561 |  |
 | DRAFT-SUPP-1 | 2026-11-16 | Plaintiff | Motion: Asks leave to supplement ECF 133 with an Offer of Resolution | 5 | 704 |  |
 | DRAFT-SUPP-2 | 2026-11-16 | Plaintiff | Memorandum In Support: Asks leave to supplement ECF 133 with an Offer of Resolution | 9 | 1917 |  |
-| DRAFT-SUPP-3 | 2026-11-16 | Plaintiff | Exhibit A (Offer of Resolution): Asks leave to supplement ECF 133 with an Offer of Resolution | 7 | 962 |  |
+| DRAFT-SUPP-3 | 2026-11-16 | Plaintiff | Exhibit A (Offer of Resolution): Asks leave to supplement ECF 133 with an Offer of Resolution | 7 | 993 |  |
 | DRAFT-SUPP-4 | 2026-11-16 | Plaintiff | Proposed Order: Asks leave to supplement ECF 133 with an Offer of Resolution | 4 | 291 |  |
 | DRAFT-SUPP-5 | 2026-11-16 | Plaintiff | Notice Of Waiver Of Oral Argument: Asks leave to supplement ECF 133 with an Offer of Resolution | 5 | 452 |  |
 | DRAFT-REPLY-133 | 2026-11-09 | Plaintiff | Reply In Support: Answers NCMEC and Hall's opposition (ECF 136) to the settlement conference motion (ECF 133) | 6 | 900 |  |
