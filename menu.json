@@ -2364,8 +2364,8 @@
 "date": "2026-11-09",
 "filed_by": "Plaintiff",
 "description": "Memorandum In Support: Asks leave for one NCMEC interrogatory on full name",
-"page_count": 31,
-"words": 8955,
+"page_count": 30,
+"words": 8914,
 "text": true,
 "decided_by": null
 },
@@ -2576,6 +2576,56 @@
 "description": "Notice Of Waiver Of Oral Argument: Asks fixed briefing and decision dates for both applications",
 "page_count": 4,
 "words": 561,
+"text": true,
+"decided_by": null
+},
+{
+"id": "DRAFT-SUPP-1",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Motion: Asks leave to supplement ECF 133 with an Offer of Resolution",
+"page_count": 5,
+"words": 695,
+"text": true,
+"decided_by": null
+},
+{
+"id": "DRAFT-SUPP-2",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Memorandum In Support: Asks leave to supplement ECF 133 with an Offer of Resolution",
+"page_count": 8,
+"words": 1471,
+"text": true,
+"decided_by": null
+},
+{
+"id": "DRAFT-SUPP-3",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Exhibit A (Offer of Resolution): Asks leave to supplement ECF 133 with an Offer of Resolution",
+"page_count": 6,
+"words": 763,
+"text": true,
+"decided_by": null
+},
+{
+"id": "DRAFT-SUPP-4",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Proposed Order: Asks leave to supplement ECF 133 with an Offer of Resolution",
+"page_count": 4,
+"words": 291,
+"text": true,
+"decided_by": null
+},
+{
+"id": "DRAFT-SUPP-5",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Notice Of Waiver Of Oral Argument: Asks leave to supplement ECF 133 with an Offer of Resolution",
+"page_count": 5,
+"words": 452,
 "text": true,
 "decided_by": null
 },
