@@ -5,12 +5,18 @@
  "date": "2026-11-16",
  "filed_by": "Meta",
  "description": "Meta opposes the settlement conference referral, adopts NCMEC's opposition",
- "docket_title": "[Docket text not yet available; the paper's own title:] Defendant Meta Platforms, Inc.’s Response in Opposition to Plaintiff’s Motion for Referral to an Early Settlement Conference",
+ "docket_title": "RESPONSE in Opposition re 133 MOTION for Referral to an Early Settlement Conference filed by Meta Platforms, Inc.. (Dang, Hillary)",
  "status": "Docketed",
  "text_source": "Text layer of the docketed PDF",
  "page_count": 3,
  "words": 442,
- "refers_to": [],
+ "refers_to": [
+  {
+   "id": "ECF-0133",
+   "description": "Asks Alston to refer the case to an early settlement conference",
+   "words": "RESPONSE in Opposition re 133 MOTION for Referral to an Early"
+  }
+ ],
  "referred_to_by": [],
  "pages": [
   {

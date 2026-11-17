@@ -1,0 +1,35 @@
+{
+ "id": "ECF-0137",
+ "kind": "docket entry",
+ "cite": "ECF No. 137",
+ "date": "2026-11-10",
+ "filed_by": "NCMEC and Hall",
+ "description": "NCMEC and Hall ask more time to answer ECF 116",
+ "docket_title": "MOTION for Extension of Time to File Response/Reply as to 116 MOTION for Partial Summary Judgment by Katie Hall, National Center for Missing & Exploited Children. (Attachments: # 1 Proposed Order)(Keane, Padraic)",
+ "status": "Docketed",
+ "text_source": "No document text available from a free source",
+ "page_count": null,
+ "words": 0,
+ "refers_to": [
+  {
+   "id": "ECF-0116",
+   "description": "Asks ruling that Hall acted as NCMEC's employee",
+   "words": "to File Response/Reply as to 116 MOTION for Partial Summary Judg"
+  }
+ ],
+ "referred_to_by": [
+  {
+   "id": "ECF-0138",
+   "filed_by": "NCMEC and Hall",
+   "description": "Memorandum supporting more time to answer summary judgment",
+   "words": "Memorandum in Support re 137 MOTION for Extension of Time to"
+  },
+  {
+   "id": "ECF-0140",
+   "filed_by": "NCMEC and Hall",
+   "description": "NCMEC and Hall waive oral argument on ECF 137",
+   "words": "Waiver of Oral Argument in re 137 MOTION for Extension of Time to"
+  }
+ ],
+ "pages": []
+}

@@ -5,12 +5,18 @@
  "date": "2026-11-16",
  "filed_by": "Meta",
  "description": "Meta opposes leave to file the second amended complaint",
- "docket_title": "[Docket text not yet available; the paper's own title:] Defendant Meta Platforms, Inc.’s Response in Opposition to Plaintiff’s Motion for Leave to File a Second Amended Complaint",
+ "docket_title": "RESPONSE in Opposition re 114 MOTION to Amend/Correct MOTION for Leave to File filed by Meta Platforms, Inc.. (Dang, Hillary)",
  "status": "Docketed",
  "text_source": "Text layer of the docketed PDF",
  "page_count": 6,
  "words": 1536,
- "refers_to": [],
+ "refers_to": [
+  {
+   "id": "ECF-0114",
+   "description": "Asks leave to amend complaint and add Souras",
+   "words": "RESPONSE in Opposition re 114 MOTION to Amend/Correct MOTION"
+  }
+ ],
  "referred_to_by": [],
  "pages": [
   {

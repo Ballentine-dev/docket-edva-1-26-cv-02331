@@ -2190,6 +2190,36 @@
 "decided_by": null
 },
 {
+"id": "ECF-0137",
+"date": "2026-11-10",
+"filed_by": "NCMEC and Hall",
+"description": "NCMEC and Hall ask more time to answer ECF 116",
+"page_count": null,
+"words": 0,
+"text": false,
+"decided_by": null
+},
+{
+"id": "ECF-0138",
+"date": "2026-11-10",
+"filed_by": "NCMEC and Hall",
+"description": "Memorandum supporting more time to answer summary judgment",
+"page_count": null,
+"words": 0,
+"text": false,
+"decided_by": null
+},
+{
+"id": "ECF-0139",
+"date": "2026-11-10",
+"filed_by": "NCMEC and Hall",
+"description": "NCMEC and Hall oppose leave to file second amended complaint",
+"page_count": 8,
+"words": 2111,
+"text": true,
+"decided_by": null
+},
+{
 "id": "ECF-0140",
 "date": "2026-11-16",
 "filed_by": "NCMEC and Hall",
@@ -2247,6 +2277,16 @@
 "page_count": 5,
 "words": 453,
 "text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0144",
+"date": "2026-11-16",
+"filed_by": "Meta",
+"description": "Meta opposes reconsideration motions ECF 118 and 120",
+"page_count": null,
+"words": 0,
+"text": false,
 "decided_by": null
 },
 {
