@@ -146,6 +146,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0141 | 2026-11-16 | Plaintiff | Asks leave to supplement ECF 133 with an Offer of Resolution | 5 | 694 |  |
 | ECF-0142 | 2026-11-16 | Plaintiff | Memorandum supporting leave to supplement ECF 133 with the Offer | 9 | 1903 |  |
 | ECF-0143 | 2026-11-16 | Plaintiff | Plaintiff waives oral argument on ECF 141, submits on the papers | 5 | 453 |  |
+| ECF-0145 | 2026-11-16 | Meta | Meta opposes leave to file the second amended complaint | 6 | 1536 |  |
 | ECF-0146 | 2026-11-16 | Meta | Meta opposes the settlement conference referral, adopts NCMEC's opposition | 3 | 442 |  |
 
 ## Attachments
