@@ -2190,6 +2190,66 @@
 "decided_by": null
 },
 {
+"id": "ECF-0140",
+"date": "2026-11-16",
+"filed_by": "NCMEC and Hall",
+"description": "NCMEC and Hall waive oral argument on ECF 137",
+"page_count": null,
+"words": 0,
+"text": false,
+"decided_by": null
+},
+{
+"id": "ECF-0141-01",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Attachment 1 to ECF 141: Offer of Resolution",
+"page_count": 7,
+"words": 989,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0141-02",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Attachment 2 to ECF 141: Proposed Order",
+"page_count": 4,
+"words": 288,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0141",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Asks leave to supplement ECF 133 with an Offer of Resolution",
+"page_count": 5,
+"words": 694,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0142",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Memorandum supporting leave to supplement ECF 133 with the Offer",
+"page_count": 9,
+"words": 1903,
+"text": true,
+"decided_by": null
+},
+{
+"id": "ECF-0143",
+"date": "2026-11-16",
+"filed_by": "Plaintiff",
+"description": "Plaintiff waives oral argument on ECF 141, submits on the papers",
+"page_count": 5,
+"words": 453,
+"text": true,
+"decided_by": null
+},
+{
 "id": "ECF-0146",
 "date": "2026-11-16",
 "filed_by": "Meta",
@@ -2586,56 +2646,6 @@
 "description": "Notice Of Waiver Of Oral Argument: Asks fixed briefing and decision dates for both applications",
 "page_count": 4,
 "words": 561,
-"text": true,
-"decided_by": null
-},
-{
-"id": "DRAFT-SUPP-1",
-"date": "2026-11-16",
-"filed_by": "Plaintiff",
-"description": "Motion: Asks leave to supplement ECF 133 with an Offer of Resolution",
-"page_count": 5,
-"words": 704,
-"text": true,
-"decided_by": null
-},
-{
-"id": "DRAFT-SUPP-2",
-"date": "2026-11-16",
-"filed_by": "Plaintiff",
-"description": "Memorandum In Support: Asks leave to supplement ECF 133 with an Offer of Resolution",
-"page_count": 9,
-"words": 1917,
-"text": true,
-"decided_by": null
-},
-{
-"id": "DRAFT-SUPP-3",
-"date": "2026-11-16",
-"filed_by": "Plaintiff",
-"description": "Exhibit A (Offer of Resolution): Asks leave to supplement ECF 133 with an Offer of Resolution",
-"page_count": 7,
-"words": 993,
-"text": true,
-"decided_by": null
-},
-{
-"id": "DRAFT-SUPP-4",
-"date": "2026-11-16",
-"filed_by": "Plaintiff",
-"description": "Proposed Order: Asks leave to supplement ECF 133 with an Offer of Resolution",
-"page_count": 4,
-"words": 291,
-"text": true,
-"decided_by": null
-},
-{
-"id": "DRAFT-SUPP-5",
-"date": "2026-11-16",
-"filed_by": "Plaintiff",
-"description": "Notice Of Waiver Of Oral Argument: Asks leave to supplement ECF 133 with an Offer of Resolution",
-"page_count": 5,
-"words": 452,
 "text": true,
 "decided_by": null
 },
