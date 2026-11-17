@@ -142,6 +142,7 @@ One row per paper. Read a paper at `papers/<ID>.json`. The descriptions are poin
 | ECF-0134 | 2026-11-02 | Plaintiff | Memorandum supporting referral to an early settlement conference | 4 | 442 |  |
 | ECF-0135 | 2026-11-03 | Plaintiff | Plaintiff waives oral argument on ECF 133 | 5 | 436 |  |
 | ECF-0136 | 2026-11-09 | NCMEC and Hall | NCMEC and Hall oppose the settlement conference referral | 3 | 671 |  |
+| ECF-0146 | 2026-11-16 | Meta | Meta opposes the settlement conference referral, adopts NCMEC's opposition | 3 | 442 |  |
 
 ## Attachments
 
